@@ -1,0 +1,336 @@
+```json
+[
+  {
+    "question": "The diagram below shows a transverse section of a young dicot stem. The central region contains a star‑shaped structure with arms extending outward. (a) Name the tissue found at the very centre. (b) What type of tissue is indicated by the star‑shaped structure? (c) State one function of this tissue.",
+    "answer": "(a) Pith (parenchyma). (b) Xylem (primary xylem). (c) Conducts water and minerals from roots to leaves."
+  },
+  {
+    "question": "A diagram of a root tip shows a region with many small, actively dividing cells just behind the root cap. Identify this region and state its function.",
+    "answer": "Apical meristem; produces new cells for root growth."
+  },
+  {
+    "question": "In a diagram of a flower, the structure that receives pollen grains is labelled A. The stalk that connects it to the ovary is B. Name A and B.",
+    "answer": "A – Stigma; B – Style."
+  },
+  {
+    "question": "A cross‑section of a leaf shows an upper layer of closely packed columnar cells containing many chloroplasts. Name this layer and explain its importance.",
+    "answer": "Palisade mesophyll; primary site of photosynthesis due to high chloroplast density."
+  },
+  {
+    "question": "The diagram of the human heart shows a muscular wall separating the left and right sides. Identify the septum and give one reason why this separation is important.",
+    "answer": "Interventricular septum; prevents mixing of oxygenated and deoxygenated blood, ensuring efficient oxygen delivery."
+  },
+  {
+    "question": "A drawing of the nephron shows a cup‑shaped structure surrounding a knot of capillaries. Label these two structures and state the process that occurs there.",
+    "answer": "Bowman's capsule and glomerulus; filtration (ultrafiltration) of blood plasma."
+  },
+  {
+    "question": "The internal structure of a kidney shows an outer dark region and an inner lighter region. Name these regions and state which contains the loops of Henle.",
+    "answer": "Outer cortex (dark), inner medulla (lighter); the loops of Henle extend into the medulla."
+  },
+  {
+    "question": "A diagram of the respiratory system shows a tube branching into two bronchi. The tube has incomplete cartilaginous rings. Name the tube and explain the role of the cartilage.",
+    "answer": "Trachea; cartilage rings keep the airway open and prevent collapse during inspiration."
+  },
+  {
+    "question": "The cell diagram shows an organelle with a double membrane, the inner folded into cristae. Name the organelle and state its function.",
+    "answer": "Mitochondrion; site of aerobic respiration and ATP production."
+  },
+  {
+    "question": "A plant cell diagram reveals a large central space filled with fluid. Identify this structure and give one function.",
+    "answer": "Central vacuole; storage, maintaining turgor pressure, waste containment."
+  },
+  {
+    "question": "The diagram of a synapse shows knob‑like structures at the end of an axon, containing vesicles. Name the vesicles' contents and the gap they cross.",
+    "answer": "Neurotransmitters (e.g., acetylcholine); synaptic cleft."
+  },
+  {
+    "question": "A flower diagram shows a long tube extending from the ovary, ending in a sticky tip. Name these parts and the process that occurs when pollen lands on the tip.",
+    "answer": "Style and stigma; pollination (pollen grain adhesion and germination)."
+  },
+  {
+    "question": "In a diagram of the ear, a coiled, fluid‑filled structure is connected to the auditory nerve. Identify the structure and explain how it detects sound.",
+    "answer": "Cochlea; sound vibrations cause fluid movement, bending hair cells in the organ of Corti, which generate nerve impulses."
+  },
+  {
+    "question": "A diagram of a joint shows two bones with smooth cartilage on their ends, held together by ligaments. Name a joint that fits this description and state the function of the cartilage.",
+    "answer": "Synovial joint (e.g., knee joint); cartilage reduces friction and absorbs shock."
+  },
+  {
+    "question": "The diagram of an amniotic egg shows a membrane that surrounds the embryo and is filled with fluid. Name this membrane and state its function.",
+    "answer": "Amnion; contains amniotic fluid that cushions and protects the embryo."
+  },
+  {
+    "question": "A food web diagram shows arrows pointing from plants to a rabbit, and then to a fox. Identify the trophic levels of the rabbit and fox.",
+    "answer": "Rabbit – primary consumer (herbivore); Fox – secondary consumer (carnivore)."
+  },
+  {
+    "question": "A diagram of the nitrogen cycle includes bacteria that convert ammonium to nitrates. Name this group of bacteria and the process.",
+    "answer": "Nitrifying bacteria (*Nitrosomonas* and *Nitrobacter*); nitrification."
+  },
+  {
+    "question": "The diagram of a mammalian heart shows two atria and two ventricles. The wall of the left ventricle is much thicker. Explain the significance.",
+    "answer": "The left ventricle pumps blood through the systemic circulation to the whole body, requiring greater force; hence thicker muscular wall."
+  },
+  {
+    "question": "A diagram of a seed shows an embryo with a structure labelled as the future shoot and another as the future root. Name these structures.",
+    "answer": "Plumule (future shoot) and radicle (future root)."
+  },
+  {
+    "question": "In the diagram of mitosis, a stage shows chromosomes aligned at the equator of the cell. Name this stage and the structure that attaches to chromosomes.",
+    "answer": "Metaphase; spindle fibres (microtubules) attach to centromeres."
+  },
+  {
+    "question": "A diagram of the digestive system shows a large organ with two lobes, and a small sac underneath. Identify the organ and the sac, and state one function of the sac.",
+    "answer": "Liver and gall bladder; the gall bladder stores bile produced by the liver."
+  },
+  {
+    "question": "A diagram of a villus shows a network of blood capillaries and a central lymphatic vessel. Name the central vessel and explain its role.",
+    "answer": "Lacteal; absorbs dietary fats (chylomicrons) into the lymphatic system."
+  },
+  {
+    "question": "A diagram of an eye shows a biconvex structure that changes shape to focus light. Name the structure and the process it enables.",
+    "answer": "Lens; accommodation – adjusting focus for near and far objects."
+  },
+  {
+    "question": "A diagram of a flower shows male parts with bilobed structures producing yellow dust. Name the structure and the dust.",
+    "answer": "Anther; pollen grains."
+  },
+  {
+    "question": "A diagram of the human skeleton shows a long bone in the upper arm. Identify the bone and the type of marrow found in its hollow cavity in an adult.",
+    "answer": "Humerus; yellow bone marrow (fat storage)."
+  },
+  {
+    "question": "A root cross‑section shows a central cylinder surrounded by a single layer of cells with thickened bands. Name this layer and the bands.",
+    "answer": "Endodermis; Casparian strip (suberin-thickened bands)."
+  },
+  {
+    "question": "A diagram of a chloroplast shows stacks of disc‑shaped membranes. Name these stacks and the fluid surrounding them.",
+    "answer": "Grana (stacks of thylakoids); stroma."
+  },
+  {
+    "question": "A diagram of DNA shows two strands wound around each other, held together by bonds between complementary bases. Name the bonds and the bases that pair with adenine and guanine.",
+    "answer": "Hydrogen bonds; adenine pairs with thymine; guanine pairs with cytosine."
+  },
+  {
+    "question": "A diagram of the brain shows a large folded structure at the front. Identify this lobe and state one function.",
+    "answer": "Frontal lobe; reasoning, motor control, speech production."
+  },
+  {
+    "question": "A diagram of a bacterial cell shows a circular chromosome and small rings of DNA. Name the small rings and state their significance.",
+    "answer": "Plasmids; often carry genes for antibiotic resistance and can be transferred."
+  },
+  {
+    "question": "A diagram of the skin shows a layer below the epidermis with sweat glands, hair follicles, and blood vessels. Name this layer and state its role in thermoregulation.",
+    "answer": "Dermis; blood vessels dilate/constrict to regulate heat loss; sweat glands secrete sweat for cooling."
+  },
+  {
+    "question": "In the diagram of a sarcomere, the A‑band is dark and the I‑band is light. Which bands shorten during muscle contraction?",
+    "answer": "The I‑band and H‑zone shorten; the A‑band stays the same length."
+  },
+  {
+    "question": "A diagram of meiosis shows paired homologous chromosomes exchanging segments. Name this stage and the process.",
+    "answer": "Prophase I; crossing over (genetic recombination)."
+  },
+  {
+    "question": "A diagram of the carbon cycle shows combustion releasing a gas, and plants absorbing it. Name the gas and the process by which plants fix it.",
+    "answer": "Carbon dioxide (CO₂); photosynthesis."
+  },
+  {
+    "question": "A diagram of a neuron shows a long fibre covered with segmented insulation. Name the insulation and the gaps between the segments.",
+    "answer": "Myelin sheath; nodes of Ranvier."
+  },
+  {
+    "question": "In a diagram of the foetus in the uterus, a disc‑shaped organ connects the foetus to the uterine wall. Name the organ and the cord that links it to the foetus.",
+    "answer": "Placenta; umbilical cord."
+  },
+  {
+    "question": "A diagram of an insect's life cycle shows egg, nymph, adult stages. Which stage is missing compared to complete metamorphosis?",
+    "answer": "The pupa stage is missing; this is incomplete metamorphosis."
+  },
+  {
+    "question": "A diagram of the human respiratory system shows a dome‑shaped muscle below the lungs. Name the muscle and describe its movement during inhalation.",
+    "answer": "Diaphragm; contracts and flattens, increasing thoracic volume."
+  },
+  {
+    "question": "A diagram of a leaf shows pores surrounded by two sausage‑shaped cells. Name the pore and the cells that regulate its opening.",
+    "answer": "Stoma (plural stomata); guard cells."
+  },
+  {
+    "question": "A diagram of the endocrine system shows a gland at the base of the brain. Name this gland and state one hormone it secretes.",
+    "answer": "Pituitary gland; growth hormone (GH), ADH, etc."
+  },
+  {
+    "question": "A diagram of a flower after fertilisation shows the ovary developing into a fleshy structure. What is this structure called and what is its function?",
+    "answer": "Fruit; protects seeds and aids in dispersal."
+  },
+  {
+    "question": "A diagram of a nerve pathway shows a receptor, sensory neuron, relay neuron, motor neuron, and muscle. If the pathway bypasses the brain, what is it called? What is the advantage?",
+    "answer": "Reflex arc; rapid response to protect from harm."
+  },
+  {
+    "question": "A diagram of a human egg shows a layer of cells surrounding it. Name this layer and its function.",
+    "answer": "Corona radiata (follicle cells); provide nutrients and support; sperm must penetrate this layer."
+  },
+  {
+    "question": "A diagram of a prokaryotic cell shows a whip‑like structure used for movement. Name the structure and state its composition.",
+    "answer": "Flagellum; composed of the protein flagellin."
+  },
+  {
+    "question": "A diagram of the water cycle shows water vapour rising from plants. Name this process.",
+    "answer": "Transpiration."
+  },
+  {
+    "question": "In a diagram of a dicot stem, vascular bundles are arranged in a ring. In a monocot stem, how are they arranged?",
+    "answer": "Scattered throughout the ground tissue."
+  },
+  {
+    "question": "A diagram of the human heart shows vessels entering the right atrium. Name the two large veins and the type of blood they carry.",
+    "answer": "Superior and inferior vena cavae; deoxygenated blood."
+  },
+  {
+    "question": "A diagram of the lymphatic system shows a small organ where T‑lymphocytes mature. Identify the organ.",
+    "answer": "Thymus gland."
+  },
+  {
+    "question": "A diagram of a food chain shows grass → grasshopper → frog → snake → hawk. If the hawk is removed, what might happen to the snake and frog populations?",
+    "answer": "Snake population may increase initially (fewer predators), then frog population decreases due to more predation; eventually, resources may limit."
+  },
+  {
+    "question": "A diagram of a DNA molecule shows the sugar‑phosphate backbone on the outside. What type of bond links the sugar and phosphate groups?",
+    "answer": "Covalent (phosphodiester) bonds."
+  },
+  {
+    "question": "A diagram of a cell shows a network of membranes with ribosomes attached. Name this structure and its function.",
+    "answer": "Rough endoplasmic reticulum; synthesises and transports proteins."
+  },
+  {
+    "question": "A diagram of a plant cell in a hypotonic solution shows the cell swollen. Why does it not burst?",
+    "answer": "The rigid cell wall prevents excessive swelling and bursting (provides turgor pressure)."
+  },
+  {
+    "question": "A diagram of the human reproductive system shows a tube where fertilisation occurs. Name the tube.",
+    "answer": "Fallopian tube (oviduct)."
+  },
+  {
+    "question": "A diagram of a sperm cell shows a midpiece packed with organelles. Name the organelle and state its role.",
+    "answer": "Mitochondria; provide ATP for the movement of the flagellum."
+  },
+  {
+    "question": "A diagram of a leaf cross‑section shows a layer with loosely arranged cells and air spaces. Name this layer and explain the benefit of the air spaces.",
+    "answer": "Spongy mesophyll; air spaces facilitate gas exchange (CO₂ and O₂ diffusion)."
+  },
+  {
+    "question": "A diagram of the human urinary system shows a tube exiting the bladder. Name it and state its function in males vs. females.",
+    "answer": "Urethra; in males carries urine and semen, in females only urine."
+  },
+  {
+    "question": "A diagram of seed germination shows the cotyledons pushed above the ground. Name this type of germination and give an example.",
+    "answer": "Epigeal germination; example: bean, sunflower."
+  },
+  {
+    "question": "In a diagram of a synapse, the pre‑synaptic neuron contains many mitochondria. Explain why mitochondria are abundant.",
+    "answer": "Synaptic transmission (neurotransmitter release) requires energy in the form of ATP."
+  },
+  {
+    "question": "A diagram of a bone shows a hard outer layer and a spongy inner layer. Name these two types of bone tissue.",
+    "answer": "Compact bone (outer) and spongy (cancellous) bone (inner)."
+  },
+  {
+    "question": "A diagram of the menstrual cycle shows a spike in a hormone that causes ovulation. Name the hormone and the day it typically peaks in a 28‑day cycle.",
+    "answer": "Luteinising hormone (LH); around day 14."
+  },
+  {
+    "question": "A diagram of a chloroplast shows the site of the light‑dependent reactions. Where exactly do they occur?",
+    "answer": "On the thylakoid membranes (grana)."
+  },
+  {
+    "question": "A diagram of a blood smear shows a cell with a large bilobed nucleus and red‑staining granules. Name this white blood cell and its role.",
+    "answer": "Eosinophil; involved in defence against parasites and allergic reactions."
+  },
+  {
+    "question": "A diagram of a kidney nephron shows a section where the filtrate is hypertonic to blood. Name this part and explain the osmotic gradient.",
+    "answer": "Loop of Henle; descending limb allows water exit; ascending limb actively pumps out NaCl, creating medullary osmotic gradient."
+  },
+  {
+    "question": "A diagram of the reflex arc shows a neuron entirely within the spinal cord. Name this neuron.",
+    "answer": "Interneuron (relay neuron)."
+  },
+  {
+    "question": "A diagram of a plant cell undergoing plasmolysis shows the membrane pulling away from the cell wall. Explain why this happens.",
+    "answer": "Water moves out of the cell by osmosis into the hypertonic external solution, causing the vacuole to shrink and the plasma membrane to detach."
+  },
+  {
+    "question": "A diagram of a seed shows a scar where it was attached to the fruit. Name the scar and its significance.",
+    "answer": "Hilum; marks attachment point of ovule to funiculus; water enters here during germination."
+  },
+  {
+    "question": "A diagram of an ecosystem pyramid shows a large base of producers and a tiny top of top predators. What type of pyramid is this and why?",
+    "answer": "Pyramid of numbers (or biomass); producers are numerous; energy/biomass decreases at higher trophic levels."
+  },
+  {
+    "question": "A diagram of a flower shows a structure that produces nectar. What is the name of this structure and its function?",
+    "answer": "Nectary; attracts pollinators like insects."
+  },
+  {
+    "question": "A diagram of a fruit shows it developing from multiple flowers in a cluster. Name this fruit type and give an example.",
+    "answer": "Multiple fruit; e.g., pineapple, fig."
+  },
+  {
+    "question": "A diagram of the human skeleton shows a bone in the lower leg that is not weight‑bearing. Name the bone.",
+    "answer": "Fibula."
+  },
+  {
+    "question": "A diagram of a bacterial cell shows a sticky layer outside the cell wall. Name this structure and its function.",
+    "answer": "Capsule; protects against phagocytosis and desiccation."
+  },
+  {
+    "question": "A diagram of the vertebral column shows a specific vertebra with a large opening for the spinal cord and transverse foramina. Name this vertebra type and its function.",
+    "answer": "Cervical vertebra (specifically, atlas or axis); transverse foramina allow passage of vertebral arteries; support head movement."
+  },
+  {
+    "question": "In a diagram of the heart, the valve between the left atrium and left ventricle is labelled. Name this valve and state why it is also called the mitral valve.",
+    "answer": "Bicuspid valve (mitral valve); it has two cusps resembling a bishop's mitre."
+  },
+  {
+    "question": "A diagram of a plant stem shows a ring of vascular bundles. In each bundle, the xylem is located toward the inside and phloem toward the outside. What type of stem is this?",
+    "answer": "Dicotyledonous stem."
+  },
+  {
+    "question": "A diagram of a moss plant shows a structure that produces spores. Name the structure and the generation it belongs to.",
+    "answer": "Sporangium (capsule); sporophyte generation."
+  },
+  {
+    "question": "A diagram of a fern leaf shows clusters of sporangia on the underside. What are these clusters called?",
+    "answer": "Sori (singular sorus)."
+  },
+  {
+    "question": "A diagram of a developing embryo shows three germ layers. Name them and give one derivative of each.",
+    "answer": "Ectoderm (skin, nervous system), mesoderm (muscles, bones), endoderm (lining of gut, lungs)."
+  },
+  {
+    "question": "A diagram of a brain shows a structure just below the thalamus, involved in homeostasis. Identify the structure.",
+    "answer": "Hypothalamus."
+  },
+  {
+    "question": "A diagram of the human eye shows a blind spot where no photoreceptors are present. Why is this spot blind?",
+    "answer": "It is the point where the optic nerve exits the eye; no rods or cones."
+  },
+  {
+    "question": "A diagram of the stomach shows gastric pits. Name the cells that secrete hydrochloric acid and those that secrete pepsinogen.",
+    "answer": "Parietal (oxyntic) cells secrete HCl; chief cells secrete pepsinogen."
+  },
+  {
+    "question": "A diagram of a cell cycle shows phases G1, S, G2, M. In which phase does DNA replication occur?",
+    "answer": "S (synthesis) phase."
+  },
+  {
+    "question": "A diagram of a chromosome shows a constricted region where spindle fibres attach. Name the region.",
+    "answer": "Centromere."
+  },
+  {
+    "question": "A diagram of a bean seed shows two large fleshy structures. Name them and their role.",
+    "answer": "Cotyledons; store food for the germinating embryo."
+  },
+  {
+    "question": "A diagram of an animal cell sh
