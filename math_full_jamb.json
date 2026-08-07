@@ -1,0 +1,2708 @@
+{
+  "subject": "Mathematics",
+  "total_questions": 420,
+  "objective_questions": [
+    {
+      "id": 1,
+      "question": "Evaluate 1011₂ + 1101₂ in base two.",
+      "options": "A) 10100₂  B) 11000₂  C) 11100₂  D) 10000₂",
+      "answer": "B",
+      "solution": "1011₂ = 11, 1101₂ = 13, sum = 24₁₀ = 11000₂."
+    },
+    {
+      "id": 2,
+      "question": "If 27^x = 81, find x.",
+      "options": "A) 4/3  B) 3/4  C) 2/3  D) 3/2",
+      "answer": "A",
+      "solution": "27 = 3³, 81 = 3⁴. (3³)^x = 3⁴ → 3x = 4 → x = 4/3."
+    },
+    {
+      "id": 3,
+      "question": "Solve 2x - 5 = 3x + 7.",
+      "options": "A) -12  B) 12  C) -2  D) 2",
+      "answer": "A",
+      "solution": "-5 - 7 = 3x - 2x → x = -12."
+    },
+    {
+      "id": 4,
+      "question": "The gradient of the line passing through (3, -2) and (1, 4) is",
+      "options": "A) -3  B) 3  C) -2  D) 2",
+      "answer": "A",
+      "solution": "m = (4-(-2))/(1-3) = 6/(-2) = -3."
+    },
+    {
+      "id": 5,
+      "question": "Factorise completely: x² - y² + x - y",
+      "options": "A) (x-y)(x+y+1)  B) (x+y)(x-y+1)  C) (x-y)(x+y-1)  D) (x+y)(x-y-1)",
+      "answer": "A",
+      "solution": "x²-y² = (x-y)(x+y); x-y = 1(x-y); factor (x-y)(x+y+1)."
+    },
+    {
+      "id": 6,
+      "question": "Simplify 3/(x+2) + 2/(x-2).",
+      "options": "A) (5x-2)/(x²-4)  B) (5x-10)/(x²-4)  C) (5x+2)/(x²-4)  D) (x-10)/(x²-4)",
+      "answer": "A",
+      "solution": "LCM = x²-4; numerator: 3(x-2)+2(x+2) = 5x-2."
+    },
+    {
+      "id": 7,
+      "question": "If sin θ = 3/5 and θ is acute, find tan θ.",
+      "options": "A) 3/4  B) 4/3  C) 3/5  D) 5/4",
+      "answer": "A",
+      "solution": "Opposite=3, hypotenuse=5, adjacent=4; tan = 3/4."
+    },
+    {
+      "id": 8,
+      "question": "A bag contains 4 red and 6 blue balls. Two balls are drawn at random without replacement. Find the probability that both are red.",
+      "options": "A) 2/15  B) 4/25  C) 8/45  D) 16/45",
+      "answer": "A",
+      "solution": "P(RR) = (4/10)×(3/9) = 12/90 = 2/15."
+    },
+    {
+      "id": 9,
+      "question": "The mean of five numbers is 10. If four of the numbers are 8, 12, 9, 11, find the fifth.",
+      "options": "A) 10  B) 12  C) 9  D) 11",
+      "answer": "A",
+      "solution": "Sum = 50; given sum = 40; fifth = 10."
+    },
+    {
+      "id": 10,
+      "question": "Find the area of a circle with diameter 14 cm. (Take π = 22/7)",
+      "options": "A) 44 cm²  B) 154 cm²  C) 616 cm²  D) 196 cm²",
+      "answer": "B",
+      "solution": "Radius = 7 cm; Area = πr² = (22/7)×49 = 154 cm²."
+    },
+    {
+      "id": 11,
+      "question": "The volume of a cylinder of radius 7 cm and height 10 cm is (π = 22/7)",
+      "options": "A) 1540 cm³  B) 220 cm³  C) 490 cm³  D) 700 cm³",
+      "answer": "A",
+      "solution": "V = πr²h = (22/7)×49×10 = 1540 cm³."
+    },
+    {
+      "id": 12,
+      "question": "In a right-angled triangle, the length of the hypotenuse is 13 cm and one side is 5 cm. Find the other side.",
+      "options": "A) 8 cm  B) 12 cm  C) 18 cm  D) 10 cm",
+      "answer": "B",
+      "solution": "13² - 5² = 169 - 25 = 144; √144 = 12 cm."
+    },
+    {
+      "id": 13,
+      "question": "Solve for x: 4^x = 8^(x-1)",
+      "options": "A) 1  B) 2  C) 3  D) 0",
+      "answer": "C",
+      "solution": "4=2², 8=2³; 2^(2x) = 2^(3(x-1)) → 2x = 3x-3 → x = 3."
+    },
+    {
+      "id": 14,
+      "question": "Simplify 3√2 + 5√2 - √2",
+      "options": "A) 7√2  B) 8√2  C) 6√2  D) 9√2",
+      "answer": "A",
+      "solution": "(3+5-1)√2 = 7√2."
+    },
+    {
+      "id": 15,
+      "question": "The sum of interior angles of a pentagon is",
+      "options": "A) 360°  B) 540°  C) 720°  D) 180°",
+      "answer": "B",
+      "solution": "(n-2)×180° = (5-2)×180 = 540°."
+    },
+    {
+      "id": 16,
+      "question": "If y varies inversely as x and y = 8 when x = 3, find y when x = 6.",
+      "options": "A) 4  B) 16  C) 24  D) 12",
+      "answer": "A",
+      "solution": "k = 8×3 = 24; y = 24/6 = 4."
+    },
+    {
+      "id": 17,
+      "question": "Find the determinant of matrix [[2,3],[1,5]]",
+      "options": "A) 13  B) 7  C) -7  D) 10",
+      "answer": "B",
+      "solution": "Det = (2×5) - (3×1) = 10 - 3 = 7."
+    },
+    {
+      "id": 18,
+      "question": "A man bought an article for N500 and sold it for N650. The percentage profit is",
+      "options": "A) 30%  B) 23%  C) 25%  D) 20%",
+      "answer": "A",
+      "solution": "Profit = 150; % = (150/500)×100 = 30%."
+    },
+    {
+      "id": 19,
+      "question": "Simplify log₁₀1000",
+      "options": "A) 1  B) 2  C) 3  D) 10",
+      "answer": "C",
+      "solution": "1000 = 10³; log₁₀1000 = 3."
+    },
+    {
+      "id": 20,
+      "question": "The bearing of a point Q from P is 060°. The bearing of P from Q is",
+      "options": "A) 120°  B) 240°  C) 300°  D) 060°",
+      "answer": "B",
+      "solution": "Back bearing = 060° + 180° = 240°."
+    },
+    {
+      "id": 21,
+      "question": "In a class of 40 students, 25 study Mathematics and 20 study English. If 10 study both, how many study neither?",
+      "options": "A) 5  B) 15  C) 10  D) 25",
+      "answer": "A",
+      "solution": "Total studying at least one = 25+20-10 = 35; neither = 40-35 = 5."
+    },
+    {
+      "id": 22,
+      "question": "The angle of elevation of a tower from a point 100 m from its foot is 45°. Find the height of the tower.",
+      "options": "A) 50 m  B) 100 m  C) 200 m  D) 141 m",
+      "answer": "B",
+      "solution": "tan 45° = 1 = h/100 → h = 100 m."
+    },
+    {
+      "id": 23,
+      "question": "If a = 3, b = -2, evaluate a² - 2ab + b²",
+      "options": "A) 25  B) 1  C) 9  D) 49",
+      "answer": "A",
+      "solution": "(a-b)² = (3-(-2))² = 5² = 25."
+    },
+    {
+      "id": 24,
+      "question": "The nth term of an arithmetic progression is 3n - 1. The 10th term is",
+      "options": "A) 29  B) 30  C) 31  D) 28",
+      "answer": "A",
+      "solution": "T₁₀ = 3(10)-1 = 29."
+    },
+    {
+      "id": 25,
+      "question": "Express 0.075 as a fraction in its lowest terms.",
+      "options": "A) 3/40  B) 75/1000  C) 15/200  D) 3/400",
+      "answer": "A",
+      "solution": "0.075 = 75/1000 = 3/40."
+    },
+    {
+      "id": 26,
+      "question": "The circumference of a circle is 44 cm. Its radius is (π = 22/7)",
+      "options": "A) 7 cm  B) 14 cm  C) 21 cm  D) 3.5 cm",
+      "answer": "A",
+      "solution": "2πr = 44 → 2×(22/7)×r = 44 → r = 7 cm."
+    },
+    {
+      "id": 27,
+      "question": "Make x the subject of y = (3x+2)/(x-1)",
+      "options": "A) x = (y+2)/(y-3)  B) x = (y-2)/(y+3)  C) x = (y+2)/(3-y)  D) x = (y+2)/(y+3)",
+      "answer": "A",
+      "solution": "y(x-1) = 3x+2 → xy - y = 3x+2 → xy-3x = y+2 → x(y-3) = y+2 → x = (y+2)/(y-3)."
+    },
+    {
+      "id": 28,
+      "question": "Solve 3x - 4 < 5x + 2",
+      "options": "A) x > -3  B) x < -3  C) x > 3  D) x < 3",
+      "answer": "A",
+      "solution": "-4-2 < 5x-3x → -6 < 2x → x > -3."
+    },
+    {
+      "id": 29,
+      "question": "The coordinates of the midpoint of the line joining (1,4) and (5,8) is",
+      "options": "A) (3,6)  B) (2,4)  C) (6,12)  D) (4,2)",
+      "answer": "A",
+      "solution": "Midpoint = ((1+5)/2, (4+8)/2) = (3,6)."
+    },
+    {
+      "id": 30,
+      "question": "Evaluate (2³ × 8^(2/3))/4²",
+      "options": "A) 1  B) 2  C) 4  D) 8",
+      "answer": "B",
+      "solution": "8^(2/3) = 4; 8×4 = 32; 4² = 16; 32/16 = 2."
+    },
+    {
+      "id": 31,
+      "question": "A fair coin is tossed 3 times. The probability of obtaining exactly 2 heads is",
+      "options": "A) 3/8  B) 1/8  C) 1/4  D) 1/2",
+      "answer": "A",
+      "solution": "Total outcomes = 8; favourable = HHT, HTH, THH = 3; P = 3/8."
+    },
+    {
+      "id": 32,
+      "question": "The lengths of the parallel sides of a trapezium are 8 cm and 12 cm. If the area is 60 cm², find the height.",
+      "options": "A) 6 cm  B) 5 cm  C) 10 cm  D) 3 cm",
+      "answer": "A",
+      "solution": "Area = ½(sum of parallel sides)×height → 60 = ½(20)×h → h = 6 cm."
+    },
+    {
+      "id": 33,
+      "question": "If tan θ = 4/3, find cos θ for acute θ.",
+      "options": "A) 4/5  B) 3/5  C) 5/4  D) 5/3",
+      "answer": "B",
+      "solution": "Opposite=4, adjacent=3, hypotenuse=5; cos θ = 3/5."
+    },
+    {
+      "id": 34,
+      "question": "The simple interest on N20,000 for 3 years at 5% per annum is",
+      "options": "A) N3,000  B) N2,000  C) N1,000  D) N4,000",
+      "answer": "A",
+      "solution": "SI = P×R×T/100 = 20000×5×3/100 = 3000."
+    },
+    {
+      "id": 35,
+      "question": "Simplify 5a - (3a - 2b + c)",
+      "options": "A) 2a+2b-c  B) 2a-2b+c  C) 8a-2b+c  D) 2a-2b-c",
+      "answer": "A",
+      "solution": "5a - 3a + 2b - c = 2a + 2b - c."
+    },
+    {
+      "id": 36,
+      "question": "Find the value of x in the equation 2^(2x) = 16",
+      "options": "A) 1  B) 2  C) 3  D) 4",
+      "answer": "B",
+      "solution": "16 = 2⁴; 2x = 4 → x = 2."
+    },
+    {
+      "id": 37,
+      "question": "A square has a perimeter of 36 cm. Its area is",
+      "options": "A) 81 cm²  B) 36 cm²  C) 72 cm²  D) 64 cm²",
+      "answer": "A",
+      "solution": "Side = 36/4 = 9 cm; area = 9² = 81 cm²."
+    },
+    {
+      "id": 38,
+      "question": "The mode of 3, 5, 7, 5, 3, 5, 9 is",
+      "options": "A) 3  B) 5  C) 7  D) 9",
+      "answer": "B",
+      "solution": "5 appears three times, the most frequent."
+    },
+    {
+      "id": 39,
+      "question": "The cube root of 27x³y⁶ is",
+      "options": "A) 3xy²  B) 9xy²  C) 3x³y²  D) 9x³y²",
+      "answer": "A",
+      "solution": "∛(27x³y⁶) = 3xy²."
+    },
+    {
+      "id": 40,
+      "question": "If the ratio of boys to girls in a school is 3:2 and there are 600 girls, find the number of boys.",
+      "options": "A) 900  B) 400  C) 1000  D) 1200",
+      "answer": "A",
+      "solution": "B/G = 3/2 = B/600 → B = (3×600)/2 = 900."
+    },
+    {
+      "id": 41,
+      "question": "Simplify (2/3) ÷ (4/9)",
+      "options": "A) 3/2  B) 8/27  C) 3/4  D) 6/9",
+      "answer": "A",
+      "solution": "(2/3) × (9/4) = 18/12 = 3/2."
+    },
+    {
+      "id": 42,
+      "question": "A ladder leans against a wall. The foot is 3 m from the wall and the ladder makes an angle of 60° with the ground. Length of ladder is",
+      "options": "A) 6 m  B) 3√3 m  C) 1.5 m  D) 9 m",
+      "answer": "A",
+      "solution": "cos 60° = 3/L → 1/2 = 3/L → L = 6 m."
+    },
+    {
+      "id": 43,
+      "question": "If f(x) = 3x² - 2x + 5, find f(2).",
+      "options": "A) 13  B) 15  C) 11  D) 19",
+      "answer": "A",
+      "solution": "3(4) - 4 + 5 = 12 - 4 + 5 = 13."
+    },
+    {
+      "id": 44,
+      "question": "The sum of the roots of 2x² - 3x + 4 = 0 is",
+      "options": "A) 3/2  B) -3/2  C) 2  D) 4",
+      "answer": "A",
+      "solution": "Sum = -b/a = -(-3)/2 = 3/2."
+    },
+    {
+      "id": 45,
+      "question": "Evaluate ∫₀¹ (2x + 3) dx",
+      "options": "A) 4  B) 5  C) 3  D) 2",
+      "answer": "A",
+      "solution": "[x² + 3x]₀¹ = (1+3) - 0 = 4."
+    },
+    {
+      "id": 46,
+      "question": "If A = {1,2,3}, B = {2,3,4}, A∩B =",
+      "options": "A) {2,3}  B) {1,2,3,4}  C) {1}  D) {4}",
+      "answer": "A",
+      "solution": "Common elements are 2 and 3."
+    },
+    {
+      "id": 47,
+      "question": "Convert 45₁₀ to base 5.",
+      "options": "A) 140₅  B) 130₅  C) 120₅  D) 104₅",
+      "answer": "A",
+      "solution": "45/5=9 rem 0, 9/5=1 rem 4, 1/5=0 rem 1 → 140₅."
+    },
+    {
+      "id": 48,
+      "question": "If log₂x = 3, x =",
+      "options": "A) 6  B) 8  C) 9  D) 5",
+      "answer": "B",
+      "solution": "2³ = 8."
+    },
+    {
+      "id": 49,
+      "question": "A car travels 180 km in 2 hours. Average speed is",
+      "options": "A) 90 km/h  B) 80 km/h  C) 60 km/h  D) 100 km/h",
+      "answer": "A",
+      "solution": "Speed = distance/time = 180/2 = 90 km/h."
+    },
+    {
+      "id": 50,
+      "question": "The 5th term of the GP 2, 6, 18,... is",
+      "options": "A) 162  B) 486  C) 54  D) 324",
+      "answer": "A",
+      "solution": "a=2, r=3; T₅ = 2×3⁴ = 162."
+    },
+    {
+      "id": 51,
+      "question": "Simplify (x²)³ ÷ x⁴",
+      "options": "A) x²  B) x³  C) x⁶  D) x¹⁰",
+      "answer": "A",
+      "solution": "x⁶ / x⁴ = x²."
+    },
+    {
+      "id": 52,
+      "question": "The interior angle of a regular octagon is",
+      "options": "A) 135°  B) 120°  C) 108°  D) 150°",
+      "answer": "A",
+      "solution": "(8-2)×180/8 = 135°."
+    },
+    {
+      "id": 53,
+      "question": "Cos 60° =",
+      "options": "A) 1/2  B) √3/2  C) 1/√2  D) 0",
+      "answer": "A",
+      "solution": "Standard value of cos 60° = 0.5."
+    },
+    {
+      "id": 54,
+      "question": "If 5x + 3 = 2x - 9, x =",
+      "options": "A) -4  B) -2  C) -3  D) 4",
+      "answer": "A",
+      "solution": "5x - 2x = -9 - 3 → 3x = -12 → x = -4."
+    },
+    {
+      "id": 55,
+      "question": "A die is rolled. The probability of getting a number greater than 4 is",
+      "options": "A) 1/3  B) 1/2  C) 1/6  D) 2/3",
+      "answer": "A",
+      "solution": "Favourable: 5,6 → 2/6 = 1/3."
+    },
+    {
+      "id": 56,
+      "question": "The slope of a horizontal line is",
+      "options": "A) 0  B) 1  C) undefined  D) -1",
+      "answer": "A",
+      "solution": "Horizontal lines have zero rise."
+    },
+    {
+      "id": 57,
+      "question": "The median of 2, 3, 7, 9, 11 is",
+      "options": "A) 7  B) 6  C) 8  D) 5",
+      "answer": "A",
+      "solution": "Middle value of ordered data = 7."
+    },
+    {
+      "id": 58,
+      "question": "If vector a = 3i - 2j, |a| =",
+      "options": "A) √13  B) √5  C) 5  D) √10",
+      "answer": "A",
+      "solution": "√(9 + 4) = √13."
+    },
+    {
+      "id": 59,
+      "question": "The range of 4, 8, 2, 10, 5 is",
+      "options": "A) 8  B) 10  C) 6  D) 7",
+      "answer": "A",
+      "solution": "10 - 2 = 8."
+    },
+    {
+      "id": 60,
+      "question": "The product of the roots of x² - 5x + 6 = 0 is",
+      "options": "A) 6  B) 5  C) -5  D) -6",
+      "answer": "A",
+      "solution": "c/a = 6/1 = 6."
+    },
+    {
+      "id": 61,
+      "question": "Evaluate 3! + 2!",
+      "options": "A) 8  B) 6  C) 12  D) 10",
+      "answer": "A",
+      "solution": "6 + 2 = 8."
+    },
+    {
+      "id": 62,
+      "question": "Simplify 2log₁₀5 + log₁₀4",
+      "options": "A) 2  B) log₁₀100  C) log₁₀20  D) log₁₀200",
+      "answer": "B",
+      "solution": "log(5²×4) = log(25×4) = log100 = 2."
+    },
+    {
+      "id": 63,
+      "question": "The area of an equilateral triangle of side 6 cm is",
+      "options": "A) 9√3 cm²  B) 18 cm²  C) 36 cm²  D) 12√3 cm²",
+      "answer": "A",
+      "solution": "A = (√3/4)×36 = 9√3 cm²."
+    },
+    {
+      "id": 64,
+      "question": "If P∪Q has 40 elements, P has 25, Q has 30, then P∩Q =",
+      "options": "A) 15  B) 10  C) 5  D) 20",
+      "answer": "A",
+      "solution": "n(P∪Q) = n(P) + n(Q) - n(P∩Q) → 40 = 25 + 30 - x → x = 15."
+    },
+    {
+      "id": 65,
+      "question": "The next term in the sequence 1, 4, 9, 16,... is",
+      "options": "A) 25  B) 24  C) 20  D) 23",
+      "answer": "A",
+      "solution": "Squares: 1², 2², 3², 4², 5² = 25."
+    },
+    {
+      "id": 66,
+      "question": "A chord of length 8 cm is 3 cm from the centre. The radius is",
+      "options": "A) 5 cm  B) 4 cm  C) √7 cm  D) 6 cm",
+      "answer": "A",
+      "solution": "r² = 3² + 4² = 25 → r = 5 cm."
+    },
+    {
+      "id": 67,
+      "question": "The exterior angle of a regular pentagon is",
+      "options": "A) 72°  B) 108°  C) 60°  D) 90°",
+      "answer": "A",
+      "solution": "360/5 = 72°."
+    },
+    {
+      "id": 68,
+      "question": "If y = 3x² + 2x, dy/dx =",
+      "options": "A) 6x+2  B) 3x+2  C) 6x  D) 3x²+2",
+      "answer": "A",
+      "solution": "Differentiate termwise: 6x + 2."
+    },
+    {
+      "id": 69,
+      "question": "The equation of a line parallel to y = 2x+5 and passing through (1,3) is",
+      "options": "A) y = 2x+1  B) y = 2x+3  C) y = 2x+5  D) y = 2x-1",
+      "answer": "A",
+      "solution": "Gradient = 2; y-3 = 2(x-1) → y = 2x+1."
+    },
+    {
+      "id": 70,
+      "question": "Evaluate 2⁰ + 2¹ + 2²",
+      "options": "A) 7  B) 6  C) 8  D) 5",
+      "answer": "A",
+      "solution": "1 + 2 + 4 = 7."
+    },
+    {
+      "id": 71,
+      "question": "If x:y = 3:4 and y:z = 2:5, then x:z =",
+      "options": "A) 3:10  B) 3:5  C) 6:20  D) 10:3",
+      "answer": "A",
+      "solution": "x:y:z = 3:4:10 → x:z = 3:10."
+    },
+    {
+      "id": 72,
+      "question": "A number is chosen from 1 to 20. The probability it is prime is",
+      "options": "A) 2/5  B) 8/20  C) 7/20  D) 9/20",
+      "answer": "A",
+      "solution": "Primes: 2,3,5,7,11,13,17,19 (8 numbers). 8/20 = 2/5."
+    },
+    {
+      "id": 73,
+      "question": "The maximum value of y = 4 - x² is",
+      "options": "A) 4  B) 2  C) 0  D) 1",
+      "answer": "A",
+      "solution": "Parabola vertex at (0,4); maximum = 4."
+    },
+    {
+      "id": 74,
+      "question": "Convert 0.101₂ to base 10.",
+      "options": "A) 0.625  B) 0.5  C) 0.75  D) 0.875",
+      "answer": "A",
+      "solution": "1/2 + 0/4 + 1/8 = 0.5 + 0.125 = 0.625."
+    },
+    {
+      "id": 75,
+      "question": "The surface area of a sphere of radius 7 cm is (π = 22/7)",
+      "options": "A) 616 cm²  B) 154 cm²  C) 308 cm²  D) 2156 cm²",
+      "answer": "A",
+      "solution": "4πr² = 4×(22/7)×49 = 616 cm²."
+    },
+    {
+      "id": 76,
+      "question": "If cos θ = 0.6, sin θ for acute θ is",
+      "options": "A) 0.8  B) 0.6  C) 0.4  D) 1.0",
+      "answer": "A",
+      "solution": "3-4-5 triangle; sin = 4/5 = 0.8."
+    },
+    {
+      "id": 77,
+      "question": "The LCM of 12 and 18 is",
+      "options": "A) 36  B) 6  C) 72  D) 24",
+      "answer": "A",
+      "solution": "12=2²×3, 18=2×3²; LCM=2²×3²=36."
+    },
+    {
+      "id": 78,
+      "question": "The HCF of 24 and 36 is",
+      "options": "A) 12  B) 6  C) 24  D) 8",
+      "answer": "A",
+      "solution": "24=2³×3, 36=2²×3²; HCF=2²×3=12."
+    },
+    {
+      "id": 79,
+      "question": "A number is multiplied by 5 then 4 is subtracted to give 21. The number is",
+      "options": "A) 5  B) 4  C) 6  D) 7",
+      "answer": "A",
+      "solution": "5x - 4 = 21 → 5x = 25 → x = 5."
+    },
+    {
+      "id": 80,
+      "question": "The value of π to 2 decimal places is",
+      "options": "A) 3.14  B) 3.13  C) 3.16  D) 22/7",
+      "answer": "A",
+      "solution": "π ≈ 3.14159 ≈ 3.14."
+    },
+    {
+      "id": 81,
+      "question": "If a*b = a+b-ab, evaluate 3*2.",
+      "options": "A) -1  B) 5  C) 1  D) -5",
+      "answer": "A",
+      "solution": "3+2-6 = -1."
+    },
+    {
+      "id": 82,
+      "question": "The angle of a sector with area 154 cm² and radius 7 cm is (π=22/7)",
+      "options": "A) 180°  B) 360°  C) 90°  D) 120°",
+      "answer": "B",
+      "solution": "Whole circle area = πr² = 154; sector is whole circle, angle = 360°."
+    },
+    {
+      "id": 83,
+      "question": "In a triangle, angles are in ratio 2:3:4. The largest angle is",
+      "options": "A) 80°  B) 100°  C) 60°  D) 120°",
+      "answer": "A",
+      "solution": "2+3+4=9; largest = (4/9)×180 = 80°."
+    },
+    {
+      "id": 84,
+      "question": "The gradient of a line perpendicular to y = 3x+2 is",
+      "options": "A) -1/3  B) 3  C) -3  D) 1/3",
+      "answer": "A",
+      "solution": "Product of gradients = -1."
+    },
+    {
+      "id": 85,
+      "question": "The sum of the first 10 natural numbers is",
+      "options": "A) 55  B) 50  C) 45  D) 60",
+      "answer": "A",
+      "solution": "n(n+1)/2 = 10×11/2 = 55."
+    },
+    {
+      "id": 86,
+      "question": "If 3 pens cost N15, 7 pens cost",
+      "options": "A) N35  B) N30  C) N40  D) N25",
+      "answer": "A",
+      "solution": "1 pen = N5; 7 pens = N35."
+    },
+    {
+      "id": 87,
+      "question": "The perimeter of a rectangle 12 cm by 5 cm is",
+      "options": "A) 34 cm  B) 60 cm  C) 17 cm  D) 30 cm",
+      "answer": "A",
+      "solution": "2(12+5) = 34 cm."
+    },
+    {
+      "id": 88,
+      "question": "Simplify √75 - √12",
+      "options": "A) 3√3  B) 5√3  C) √3  D) 2√3",
+      "answer": "A",
+      "solution": "5√3 - 2√3 = 3√3."
+    },
+    {
+      "id": 89,
+      "question": "x² - 9 factorises as",
+      "options": "A) (x-3)(x+3)  B) (x-9)(x+1)  C) (x-3)²  D) (x+3)²",
+      "answer": "A",
+      "solution": "Difference of squares."
+    },
+    {
+      "id": 90,
+      "question": "The mean of 2, 4, 6, 8, 10 is",
+      "options": "A) 6  B) 5  C) 7  D) 8",
+      "answer": "A",
+      "solution": "Sum = 30; n = 5; mean = 6."
+    },
+    {
+      "id": 91,
+      "question": "If f(x) = 2x+1, f⁻¹(x) =",
+      "options": "A) (x-1)/2  B) x/2 - 1  C) 2x-1  D) (x+1)/2",
+      "answer": "A",
+      "solution": "y = 2x+1 → x = (y-1)/2."
+    },
+    {
+      "id": 92,
+      "question": "The distance between (0,0) and (3,4) is",
+      "options": "A) 5  B) 7  C) 25  D) 1",
+      "answer": "A",
+      "solution": "√(3²+4²) = √25 = 5."
+    },
+    {
+      "id": 93,
+      "question": "The standard deviation of the numbers 2,2,2,2 is",
+      "options": "A) 0  B) 2  C) 1  D) 4",
+      "answer": "A",
+      "solution": "No variation; all values equal."
+    },
+    {
+      "id": 94,
+      "question": "If 4ˣ = 32, then x =",
+      "options": "A) 5/2  B) 2  C) 3  D) 5",
+      "answer": "A",
+      "solution": "2²ˣ = 2⁵ → 2x = 5 → x = 5/2."
+    },
+    {
+      "id": 95,
+      "question": "The volume of a cube with edge 3 cm is",
+      "options": "A) 27 cm³  B) 9 cm³  C) 18 cm³  D) 6 cm³",
+      "answer": "A",
+      "solution": "3³ = 27 cm³."
+    },
+    {
+      "id": 96,
+      "question": "The quartile Q₁ of data 1,2,3,4,5,6,7 is",
+      "options": "A) 2  B) 3  C) 4  D) 5",
+      "answer": "A",
+      "solution": "Lower half: 1,2,3; Q₁ = 2."
+    },
+    {
+      "id": 97,
+      "question": "A train travels at 60 km/h. Time to cover 90 km is",
+      "options": "A) 1.5 h  B) 2 h  C) 1 h  D) 3 h",
+      "answer": "A",
+      "solution": "t = 90/60 = 1.5 hours."
+    },
+    {
+      "id": 98,
+      "question": "If sin x = cos x, then acute x =",
+      "options": "A) 45°  B) 30°  C) 60°  D) 90°",
+      "answer": "A",
+      "solution": "sin 45° = cos 45°."
+    },
+    {
+      "id": 99,
+      "question": "The additive inverse of -5 is",
+      "options": "A) 5  B) -5  C) 0  D) 1/5",
+      "answer": "A",
+      "solution": "-5 + 5 = 0."
+    },
+    {
+      "id": 100,
+      "question": "The multiplicative inverse of 4 is",
+      "options": "A) 1/4  B) -4  C) 4  D) 0.25",
+      "answer": "A",
+      "solution": "4 × 1/4 = 1."
+    },
+    {
+      "id": 101,
+      "question": "Expand (x+2)(x-3)",
+      "options": "A) x² - x - 6  B) x² + x - 6  C) x² - 5x - 6  D) x² - x + 6",
+      "answer": "A",
+      "solution": "x² - 3x + 2x - 6 = x² - x - 6."
+    },
+    {
+      "id": 102,
+      "question": "The number of vertices of a cube is",
+      "options": "A) 8  B) 6  C) 12  D) 10",
+      "answer": "A",
+      "solution": "A cube has 8 corners."
+    },
+    {
+      "id": 103,
+      "question": "The supplement of 70° is",
+      "options": "A) 110°  B) 20°  C) 70°  D) 290°",
+      "answer": "A",
+      "solution": "180 - 70 = 110°."
+    },
+    {
+      "id": 104,
+      "question": "The complement of 35° is",
+      "options": "A) 55°  B) 145°  C) 65°  D) 35°",
+      "answer": "A",
+      "solution": "90 - 35 = 55°."
+    },
+    {
+      "id": 105,
+      "question": "Which of these is a prime number?",
+      "options": "A) 51  B) 57  C) 61  D) 87",
+      "answer": "C",
+      "solution": "61 is divisible only by 1 and itself."
+    },
+    {
+      "id": 106,
+      "question": "Find the area of a triangle with base 8 cm and height 5 cm.",
+      "options": "A) 20 cm²  B) 40 cm²  C) 13 cm²  D) 26 cm²",
+      "answer": "A",
+      "solution": "½ × 8 × 5 = 20 cm²."
+    },
+    {
+      "id": 107,
+      "question": "The rational number between 1/2 and 3/4 is",
+      "options": "A) 5/8  B) 1/4  C) 3/8  D) 7/8",
+      "answer": "A",
+      "solution": "0.5 < 0.625 < 0.75."
+    },
+    {
+      "id": 108,
+      "question": "Simplify 3/0.1",
+      "options": "A) 30  B) 0.3  C) 3  D) 0.03",
+      "answer": "A",
+      "solution": "3 × 10 = 30."
+    },
+    {
+      "id": 109,
+      "question": "A polygon with 10 sides is called a",
+      "options": "A) Decagon  B) Nonagon  C) Octagon  D) Heptagon",
+      "answer": "A",
+      "solution": "10-sided polygon = decagon."
+    },
+    {
+      "id": 110,
+      "question": "The value of tan 45° is",
+      "options": "A) 1  B) 0  C) √3  D) 1/√3",
+      "answer": "A",
+      "solution": "tan 45° = 1."
+    },
+    {
+      "id": 111,
+      "question": "The volume of a cone with base radius 7 cm and height 9 cm is (π=22/7)",
+      "options": "A) 462 cm³  B) 154 cm³  C) 1386 cm³  D) 616 cm³",
+      "answer": "A",
+      "solution": "V = ⅓πr²h = ⅓×(22/7)×49×9 = 462 cm³."
+    },
+    {
+      "id": 112,
+      "question": "If 5ˣ = 1, then x =",
+      "options": "A) 0  B) 1  C) 5  D) -1",
+      "answer": "A",
+      "solution": "Any non-zero number raised to 0 equals 1."
+    },
+    {
+      "id": 113,
+      "question": "The square root of 0.16 is",
+      "options": "A) 0.4  B) 0.04  C) 0.8  D) 0.2",
+      "answer": "A",
+      "solution": "0.4 × 0.4 = 0.16."
+    },
+    {
+      "id": 114,
+      "question": "The graph of a quadratic function is called a",
+      "options": "A) parabola  B) hyperbola  C) ellipse  D) straight line",
+      "answer": "A",
+      "solution": "Quadratic function graphs are parabolas."
+    },
+    {
+      "id": 115,
+      "question": "The decimal expansion of 1/8 is",
+      "options": "A) 0.125  B) 0.12  C) 0.25  D) 0.375",
+      "answer": "A",
+      "solution": "1/8 = 0.125."
+    },
+    {
+      "id": 116,
+      "question": "A cylinder and cone have same base and height. Ratio of cylinder volume to cone volume is",
+      "options": "A) 3:1  B) 1:3  C) 2:1  D) 1:1",
+      "answer": "A",
+      "solution": "V_cylinder = πr²h, V_cone = ⅓πr²h; ratio = 3:1."
+    },
+    {
+      "id": 117,
+      "question": "The absolute value of -7 is",
+      "options": "A) 7  B) -7  C) 0  D) -1",
+      "answer": "A",
+      "solution": "|-7| = 7."
+    },
+    {
+      "id": 118,
+      "question": "If a set has 4 elements, the number of subsets is",
+      "options": "A) 16  B) 8  C) 4  D) 12",
+      "answer": "A",
+      "solution": "2⁴ = 16."
+    },
+    {
+      "id": 119,
+      "question": "The probability of an impossible event is",
+      "options": "A) 0  B) 1  C) 0.5  D) undefined",
+      "answer": "A",
+      "solution": "Impossible event has probability zero."
+    },
+    {
+      "id": 120,
+      "question": "The graph of y = mx + c is a straight line with slope m and y-intercept c.",
+      "options": "A) True  B) False",
+      "answer": "A",
+      "solution": "This is the slope-intercept form of a linear equation."
+    },
+    {
+      "id": 121,
+      "question": "The quadratic equation with roots 2 and -3 is",
+      "options": "A) x² + x - 6 = 0  B) x² - x - 6 = 0  C) x² - 5x + 6 = 0  D) x² + 5x + 6 = 0",
+      "answer": "A",
+      "solution": "Sum = -1, product = -6; x² - (sum)x + product = x² + x - 6 = 0."
+    },
+    {
+      "id": 122,
+      "question": "The points (0,0), (4,0) and (0,3) form a",
+      "options": "A) right triangle  B) equilateral triangle  C) isosceles triangle  D) straight line",
+      "answer": "A",
+      "solution": "Two perpendicular sides, right angle at origin."
+    },
+    {
+      "id": 123,
+      "question": "The value of sin 30° is",
+      "options": "A) 0.5  B) 0.866  C) 0.707  D) 1",
+      "answer": "A",
+      "solution": "sin 30° = 1/2 = 0.5."
+    },
+    {
+      "id": 124,
+      "question": "The expression 2x² - 8 factorises as",
+      "options": "A) 2(x-2)(x+2)  B) 2(x-4)(x+4)  C) (2x-4)(x+2)  D) (x-2)(2x+4)",
+      "answer": "A",
+      "solution": "2(x²-4) = 2(x-2)(x+2)."
+    },
+    {
+      "id": 125,
+      "question": "The common difference in the AP 3,7,11,15,... is",
+      "options": "A) 4  B) 3  C) 5  D) 2",
+      "answer": "A",
+      "solution": "7-3 = 4."
+    },
+    {
+      "id": 126,
+      "question": "The 20th term of the AP 5,8,11,... is",
+      "options": "A) 62  B) 65  C) 60  D) 63",
+      "answer": "A",
+      "solution": "a=5, d=3; T₂₀ = 5 + 19×3 = 62."
+    },
+    {
+      "id": 127,
+      "question": "The formula for the sum of n terms of an AP is",
+      "options": "A) n/2[2a+(n-1)d]  B) a+(n-1)d  C) n/2(a+l)  D) both A and C",
+      "answer": "D",
+      "solution": "Both formulas are valid for sum of AP."
+    },
+    {
+      "id": 128,
+      "question": "The geometric mean of 4 and 9 is",
+      "options": "A) 6  B) 36  C) 6.5  D) 13",
+      "answer": "A",
+      "solution": "√(4×9) = √36 = 6."
+    },
+    {
+      "id": 129,
+      "question": "The number 0.00057 in standard form is",
+      "options": "A) 5.7×10⁻⁴  B) 5.7×10⁻³  C) 5.7×10⁻⁵  D) 57×10⁻⁵",
+      "answer": "A",
+      "solution": "Move decimal 4 places right → 5.7×10⁻⁴."
+    },
+    {
+      "id": 130,
+      "question": "1/2 + 1/3 =",
+      "options": "A) 5/6  B) 2/5  C) 1/6  D) 3/5",
+      "answer": "A",
+      "solution": "LCM = 6; (3+2)/6 = 5/6."
+    },
+    {
+      "id": 131,
+      "question": "If x = 2 is a root of x² + kx - 8 = 0, then k =",
+      "options": "A) 2  B) -2  C) 4  D) -4",
+      "answer": "A",
+      "solution": "4 + 2k - 8 = 0 → 2k = 4 → k = 2."
+    },
+    {
+      "id": 132,
+      "question": "A straight line making an angle of 45° with the positive x-axis has slope",
+      "options": "A) 1  B) √3  C) 0  D) -1",
+      "answer": "A",
+      "solution": "Slope = tan 45° = 1."
+    },
+    {
+      "id": 133,
+      "question": "If the points (2,3), (5,k) and (8,9) are collinear, k =",
+      "options": "A) 6  B) 7  C) 5  D) 4",
+      "answer": "A",
+      "solution": "Slope equal: (k-3)/(5-2) = (9-k)/(8-5) → (k-3)/3 = (9-k)/3 → k-3 = 9-k → 2k = 12 → k = 6."
+    },
+    {
+      "id": 134,
+      "question": "The midpoint of the segment joining (a,b) and (c,d) is",
+      "options": "A) ((a+c)/2, (b+d)/2)  B) (a+c, b+d)  C) (ac/2, bd/2)  D) ((a-c)/2, (b-d)/2)",
+      "answer": "A",
+      "solution": "Midpoint formula."
+    },
+    {
+      "id": 135,
+      "question": "The distance between (x₁,y₁) and (x₂,y₂) is",
+      "options": "A) √((x₂-x₁)²+(y₂-y₁)²)  B) (x₂-x₁)+(y₂-y₁)  C) |x₂-x₁|+|y₂-y₁|  D) (x₂-x₁)²+(y₂-y₁)²",
+      "answer": "A",
+      "solution": "Distance formula from Pythagoras theorem."
+    },
+    {
+      "id": 136,
+      "question": "A circle centre (0,0) radius 5 has equation",
+      "options": "A) x²+y²=25  B) x²+y²=5  C) x²+y²=10  D) x²+y²=0",
+      "answer": "A",
+      "solution": "x² + y² = r² = 25."
+    },
+    {
+      "id": 137,
+      "question": "The line y = 2x+3 passes through point",
+      "options": "A) (0,3)  B) (3,0)  C) (1,1)  D) (2,1)",
+      "answer": "A",
+      "solution": "When x=0, y=3; y-intercept is 3."
+    },
+    {
+      "id": 138,
+      "question": "The inequality -2 ≤ x ≤ 3 on number line is a",
+      "options": "A) closed interval  B) open interval  C) ray  D) union",
+      "answer": "A",
+      "solution": "Both endpoints included = closed interval."
+    },
+    {
+      "id": 139,
+      "question": "The equation |x| = 5 implies",
+      "options": "A) x = 5 or x = -5  B) x = 5 only  C) x = -5 only  D) x = 0",
+      "answer": "A",
+      "solution": "Absolute value equation gives two solutions."
+    },
+    {
+      "id": 140,
+      "question": "The solution of simultaneous equations 2x+3y=5, x-y=0 is",
+      "options": "A) x=1, y=1  B) x=2, y=1  C) x=1, y=2  D) x=0, y=5/3",
+      "answer": "A",
+      "solution": "From x=y, 2y+3y=5 → y=1, x=1."
+    },
+    {
+      "id": 141,
+      "question": "The curve y = x² - 4x + 3 has minimum point at",
+      "options": "A) (2,-1)  B) (2,1)  C) (-2,-1)  D) (0,3)",
+      "answer": "A",
+      "solution": "Vertex x = -b/2a = 2; y = 4-8+3 = -1."
+    },
+    {
+      "id": 142,
+      "question": "The discriminant of 2x²+3x+5=0 is",
+      "options": "A) -31  B) 31  C) 49  D) -11",
+      "answer": "A",
+      "solution": "Δ = 9 - 40 = -31."
+    },
+    {
+      "id": 143,
+      "question": "If Δ < 0, the roots are",
+      "options": "A) complex  B) real and distinct  C) real and equal  D) rational",
+      "answer": "A",
+      "solution": "Negative discriminant gives complex conjugate roots."
+    },
+    {
+      "id": 144,
+      "question": "The quadratic x²-6x+9=0 has",
+      "options": "A) equal roots  B) distinct real  C) no real  D) rational distinct",
+      "answer": "A",
+      "solution": "Δ = 36-36 = 0; repeated root x=3."
+    },
+    {
+      "id": 145,
+      "question": "Solve 3ˣ = 9²",
+      "options": "A) x=4  B) x=2  C) x=3  D) x=1",
+      "answer": "A",
+      "solution": "3ˣ = (3²)² = 3⁴ → x = 4."
+    },
+    {
+      "id": 146,
+      "question": "The value of log₂(1/8) is",
+      "options": "A) -3  B) 3  C) -2  D) 2",
+      "answer": "A",
+      "solution": "2⁻³ = 1/8."
+    },
+    {
+      "id": 147,
+      "question": "If logₓ27 = 3, x =",
+      "options": "A) 3  B) 9  C) 27  D) 1/3",
+      "answer": "A",
+      "solution": "x³ = 27 → x = 3."
+    },
+    {
+      "id": 148,
+      "question": "The number of permutations of 5 different books is",
+      "options": "A) 120  B) 24  C) 60  D) 100",
+      "answer": "A",
+      "solution": "5! = 120."
+    },
+    {
+      "id": 149,
+      "question": "The number of ways to choose 3 from 7 is",
+      "options": "A) 35  B) 21  C) 42  D) 10",
+      "answer": "A",
+      "solution": "⁷C₃ = 35."
+    },
+    {
+      "id": 150,
+      "question": "If P(A)=0.4, P(B)=0.3, A and B independent, P(A∩B) =",
+      "options": "A) 0.12  B) 0.7  C) 0.1  D) 1.2",
+      "answer": "A",
+      "solution": "P(A∩B) = P(A)×P(B) = 0.4×0.3 = 0.12."
+    },
+    {
+      "id": 151,
+      "question": "Two dice are thrown, probability sum is 7",
+      "options": "A) 1/6  B) 1/12  C) 1/9  D) 1/36",
+      "answer": "A",
+      "solution": "6 favourable outcomes out of 36 = 1/6."
+    },
+    {
+      "id": 152,
+      "question": "The probability of at least one head in two tosses of a coin is",
+      "options": "A) 3/4  B) 1/2  C) 1/4  D) 1",
+      "answer": "A",
+      "solution": "1 - P(TT) = 1 - 1/4 = 3/4."
+    },
+    {
+      "id": 153,
+      "question": "A bag has 3 white, 4 black balls. P(white) =",
+      "options": "A) 3/7  B) 4/7  C) 3/4  D) 1/2",
+      "answer": "A",
+      "solution": "3 white out of 7 total."
+    },
+    {
+      "id": 154,
+      "question": "The variance of data set 1,3,5,7,9 is",
+      "options": "A) 8  B) 10  C) 2√2  D) 4",
+      "answer": "A",
+      "solution": "Mean=5; squared deviations: 16,4,0,4,16 sum=40; variance=8."
+    },
+    {
+      "id": 155,
+      "question": "The standard deviation of the above is",
+      "options": "A) 2√2  B) 8  C) 2  D) 4",
+      "answer": "A",
+      "solution": "SD = √variance = √8 = 2√2."
+    },
+    {
+      "id": 156,
+      "question": "In a frequency distribution, the cumulative frequency curve is called",
+      "options": "A) ogive  B) histogram  C) bar chart  D) pie chart",
+      "answer": "A",
+      "solution": "Ogive plots cumulative frequency against upper class boundary."
+    },
+    {
+      "id": 157,
+      "question": "The median of grouped data is found using",
+      "options": "A) L + (N/2 - F)/f × c  B) L + (F - N/2)  C) (F×c)/f  D) upper limit",
+      "answer": "A",
+      "solution": "This is the interpolation formula for median."
+    },
+    {
+      "id": 158,
+      "question": "The modal class is the class with the highest",
+      "options": "A) frequency  B) midpoint  C) cumulative frequency  D) range",
+      "answer": "A",
+      "solution": "Mode relates to highest frequency."
+    },
+    {
+      "id": 159,
+      "question": "The mean of grouped data uses",
+      "options": "A) Σfx/Σf  B) Σf/x  C) (Σfx)/n  D) A and C",
+      "answer": "D",
+      "solution": "Both forms are correct for mean of grouped data."
+    },
+    {
+      "id": 160,
+      "question": "The intersection of a row and column in a matrix is called an",
+      "options": "A) element  B) order  C) determinant  D) cofactor",
+      "answer": "A",
+      "solution": "Each entry in a matrix is an element."
+    },
+    {
+      "id": 161,
+      "question": "A matrix with 2 rows and 3 columns has order",
+      "options": "A) 2×3  B) 3×2  C) 2+3  D) 2³",
+      "answer": "A",
+      "solution": "Order is expressed as rows × columns."
+    },
+    {
+      "id": 162,
+      "question": "The identity 2×2 matrix is",
+      "options": "A) [[1,0],[0,1]]  B) [[0,1],[1,0]]  C) [[1,1],[1,1]]  D) [[0,0],[0,0]]",
+      "answer": "A",
+      "solution": "Identity matrix has 1s on main diagonal, 0s elsewhere."
+    },
+    {
+      "id": 163,
+      "question": "If A = [[2,3],[1,4]], then Aᵀ =",
+      "options": "A) [[2,1],[3,4]]  B) [[4,3],[1,2]]  C) [[2,3],[4,1]]  D) [[2,3],[1,4]]",
+      "answer": "A",
+      "solution": "Transpose swaps rows and columns."
+    },
+    {
+      "id": 164,
+      "question": "The determinant of a singular matrix is",
+      "options": "A) 0  B) 1  C) -1  D) undefined",
+      "answer": "A",
+      "solution": "Singular matrix has zero determinant."
+    },
+    {
+      "id": 165,
+      "question": "The inverse of a 2×2 matrix exists only if",
+      "options": "A) determinant ≠ 0  B) determinant = 0  C) matrix is square  D) A and C",
+      "answer": "A",
+      "solution": "Non-zero determinant is required for inverse."
+    },
+    {
+      "id": 166,
+      "question": "Vector addition is commutative: a+b =",
+      "options": "A) b+a  B) a-b  C) b-a  D) 2a",
+      "answer": "A",
+      "solution": "Vector addition follows commutative property."
+    },
+    {
+      "id": 167,
+      "question": "The unit vector in direction of vector v is",
+      "options": "A) v/|v|  B) |v|/v  C) v²  D) v×v",
+      "answer": "A",
+      "solution": "Unit vector = vector divided by its magnitude."
+    },
+    {
+      "id": 168,
+      "question": "Dot product of perpendicular vectors is",
+      "options": "A) 0  B) 1  C) -1  D) undefined",
+      "answer": "A",
+      "solution": "cos 90° = 0, so a·b = |a||b|cos90° = 0."
+    },
+    {
+      "id": 169,
+      "question": "If a = 2i+3j and b = 4i-2j, a+b =",
+      "options": "A) 6i+j  B) 6i+5j  C) 2i+5j  D) -2i+5j",
+      "answer": "A",
+      "solution": "(2+4)i + (3-2)j = 6i+j."
+    },
+    {
+      "id": 170,
+      "question": "The angle between vectors (1,0) and (0,1) is",
+      "options": "A) 90°  B) 0°  C) 45°  D) 180°",
+      "answer": "A",
+      "solution": "They are perpendicular unit vectors."
+    },
+    {
+      "id": 171,
+      "question": "The derivative of a constant is",
+      "options": "A) 0  B) 1  C) constant  D) undefined",
+      "answer": "A",
+      "solution": "d/dx(c) = 0."
+    },
+    {
+      "id": 172,
+      "question": "If y = xⁿ, dy/dx =",
+      "options": "A) nxⁿ⁻¹  B) xⁿ⁻¹  C) nˣ  D) n!",
+      "answer": "A",
+      "solution": "Power rule of differentiation."
+    },
+    {
+      "id": 173,
+      "question": "The integral of 2x is",
+      "options": "A) x² + c  B) x²  C) 2x²  D) x²/2",
+      "answer": "A",
+      "solution": "∫2x dx = x² + C."
+    },
+    {
+      "id": 174,
+      "question": "The definite integral ∫₀² 2x dx =",
+      "options": "A) 4  B) 2  C) 0  D) 8",
+      "answer": "A",
+      "solution": "[x²]₀² = 4 - 0 = 4."
+    },
+    {
+      "id": 175,
+      "question": "The maximum point of a quadratic with negative leading coefficient occurs at",
+      "options": "A) vertex  B) x-intercept  C) y-intercept  D) origin",
+      "answer": "A",
+      "solution": "Vertex is maximum when parabola opens downward."
+    },
+    {
+      "id": 176,
+      "question": "The derivative of sin x is",
+      "options": "A) cos x  B) -cos x  C) sin x  D) -sin x",
+      "answer": "A",
+      "solution": "d/dx(sin x) = cos x."
+    },
+    {
+      "id": 177,
+      "question": "The derivative of eˣ is",
+      "options": "A) eˣ  B) xeˣ  C) eˣ/x  D) 1",
+      "answer": "A",
+      "solution": "eˣ is its own derivative."
+    },
+    {
+      "id": 178,
+      "question": "The integral of 1/x is",
+      "options": "A) ln|x| + c  B) x  C) -1/x²  D) x ln x",
+      "answer": "A",
+      "solution": "∫(1/x)dx = ln|x| + C."
+    },
+    {
+      "id": 179,
+      "question": "The area under the curve y=f(x) from a to b is",
+      "options": "A) ∫ₐᵇ f(x) dx  B) f(b)-f(a)  C) f(a)-f(b)  D) f'(b)-f'(a)",
+      "answer": "A",
+      "solution": "Definite integral gives area under curve."
+    },
+    {
+      "id": 180,
+      "question": "The second derivative of x³ is",
+      "options": "A) 6x  B) 3x²  C) 6  D) x",
+      "answer": "A",
+      "solution": "d/dx(3x²) = 6x."
+    },
+    {
+      "id": 181,
+      "question": "If velocity v = 3t²+2t, acceleration a =",
+      "options": "A) 6t+2  B) 3t²+2  C) t³+t²  D) 6t",
+      "answer": "A",
+      "solution": "a = dv/dt = 6t+2."
+    },
+    {
+      "id": 182,
+      "question": "The gradient of a curve at a point is given by",
+      "options": "A) derivative at that point  B) second derivative  C) integral  D) limit",
+      "answer": "A",
+      "solution": "Gradient = dy/dx evaluated at the point."
+    },
+    {
+      "id": 183,
+      "question": "The limit of (x²-9)/(x-3) as x→3 is",
+      "options": "A) 6  B) 3  C) 0  D) ∞",
+      "answer": "A",
+      "solution": "Factor (x-3)(x+3)/(x-3) = x+3 → 6."
+    },
+    {
+      "id": 184,
+      "question": "The value of lim_{x→0} sin x/x is",
+      "options": "A) 1  B) 0  C) ∞  D) -1",
+      "answer": "A",
+      "solution": "Standard limit result."
+    },
+    {
+      "id": 185,
+      "question": "A function is continuous at x=a if",
+      "options": "A) lim_{x→a} f(x) = f(a)  B) f(a) exists  C) limit exists  D) all of the above",
+      "answer": "A",
+      "solution": "Continuity requires limit equals function value."
+    },
+    {
+      "id": 186,
+      "question": "The turning point of a function occurs where",
+      "options": "A) f'(x)=0  B) f''(x)=0  C) f(x)=0  D) f'(x)≠0",
+      "answer": "A",
+      "solution": "Stationary points where first derivative is zero."
+    },
+    {
+      "id": 187,
+      "question": "The point of inflection is where",
+      "options": "A) f''(x)=0 and changes sign  B) f'(x)=0  C) f(x)=0  D) f''(x) positive",
+      "answer": "A",
+      "solution": "Inflection occurs when concavity changes."
+    },
+    {
+      "id": 188,
+      "question": "The product rule: d/dx(uv) =",
+      "options": "A) u'v + uv'  B) u'v'  C) u/v + v/u  D) u' + v'",
+      "answer": "A",
+      "solution": "Product rule for differentiation."
+    },
+    {
+      "id": 189,
+      "question": "The quotient rule: d/dx(u/v) =",
+      "options": "A) (u'v - uv')/v²  B) (u'v + uv')/v²  C) u'/v'  D) vu' - uv'",
+      "answer": "A",
+      "solution": "Quotient rule formula."
+    },
+    {
+      "id": 190,
+      "question": "The chain rule: d/dx f(g(x)) =",
+      "options": "A) f'(g(x))g'(x)  B) f'(x)g'(x)  C) f(g'(x))  D) g'(f(x))",
+      "answer": "A",
+      "solution": "Chain rule for composite functions."
+    },
+    {
+      "id": 191,
+      "question": "Evaluate d/dx (ln x):",
+      "options": "A) 1/x  B) x  C) ln x  D) eˣ",
+      "answer": "A",
+      "solution": "Derivative of natural log is 1/x."
+    },
+    {
+      "id": 192,
+      "question": "The integral of cos x is",
+      "options": "A) sin x + c  B) -sin x + c  C) cos x + c  D) -cos x + c",
+      "answer": "A",
+      "solution": "∫cos x dx = sin x + C."
+    },
+    {
+      "id": 193,
+      "question": "The area of a circle of radius r is",
+      "options": "A) πr²  B) 2πr  C) πd  D) πr²/2",
+      "answer": "A",
+      "solution": "Standard formula for circle area."
+    },
+    {
+      "id": 194,
+      "question": "The circumference of a circle is",
+      "options": "A) 2πr  B) πr²  C) πd/2  D) πr",
+      "answer": "A",
+      "solution": "C = 2πr or πd."
+    },
+    {
+      "id": 195,
+      "question": "The volume of a sphere (4/3)πr³. If r=3, volume =",
+      "options": "A) 36π  B) 12π  C) 48π  D) 9π",
+      "answer": "A",
+      "solution": "(4/3)π×27 = 36π."
+    },
+    {
+      "id": 196,
+      "question": "The surface area of a sphere is",
+      "options": "A) 4πr²  B) 2πr²  C) πr²  D) 4πr³",
+      "answer": "A",
+      "solution": "Standard formula for sphere surface area."
+    },
+    {
+      "id": 197,
+      "question": "A right circular cone slant height l, base radius r, height h. l² =",
+      "options": "A) r² + h²  B) r² - h²  C) h² - r²  D) r + h",
+      "answer": "A",
+      "solution": "Pythagoras theorem: l² = r² + h²."
+    },
+    {
+      "id": 198,
+      "question": "The curved surface area of a cone is",
+      "options": "A) πrl  B) πr²  C) 2πrh  D) πr(l+r)",
+      "answer": "A",
+      "solution": "CSA = πrl."
+    },
+    {
+      "id": 199,
+      "question": "The total surface area of a cylinder open at both ends is",
+      "options": "A) 2πrh  B) 2πr(h+r)  C) πr²h  D) 2πr²+2πrh",
+      "answer": "A",
+      "solution": "Open both ends means only curved surface area."
+    },
+    {
+      "id": 200,
+      "question": "The volume of a pyramid with base area A and height h is",
+      "options": "A) (1/3)Ah  B) Ah  C) (1/2)Ah  D) (1/4)Ah",
+      "answer": "A",
+      "solution": "V = ⅓ × base area × height."
+    },
+    {
+      "id": 201,
+      "question": "A prism has cross-sectional area A and length l, volume =",
+      "options": "A) Al  B) A/l  C) l/A  D) 2Al",
+      "answer": "A",
+      "solution": "V = cross-section area × length."
+    },
+    {
+      "id": 202,
+      "question": "The sum of exterior angles of any polygon is",
+      "options": "A) 360°  B) 180°  C) 540°  D) 720°",
+      "answer": "A",
+      "solution": "Always 360° for any convex polygon."
+    },
+    {
+      "id": 203,
+      "question": "Each interior angle of a regular hexagon is",
+      "options": "A) 120°  B) 108°  C) 90°  D) 135°",
+      "answer": "A",
+      "solution": "(6-2)×180/6 = 120°."
+    },
+    {
+      "id": 204,
+      "question": "The number of diagonals in a pentagon is",
+      "options": "A) 5  B) 10  C) 7  D) 3",
+      "answer": "A",
+      "solution": "n(n-3)/2 = 5×2/2 = 5."
+    },
+    {
+      "id": 205,
+      "question": "The point where the three medians of a triangle meet is called",
+      "options": "A) centroid  B) orthocentre  C) circumcentre  D) incentre",
+      "answer": "A",
+      "solution": "Centroid divides medians in 2:1 ratio."
+    },
+    {
+      "id": 206,
+      "question": "The perpendicular bisectors of sides of a triangle meet at",
+      "options": "A) circumcentre  B) incentre  C) centroid  D) orthocentre",
+      "answer": "A",
+      "solution": "Circumcentre is centre of circumscribed circle."
+    },
+    {
+      "id": 207,
+      "question": "The angle bisectors of a triangle meet at",
+      "options": "A) incentre  B) centroid  C) circumcentre  D) orthocentre",
+      "answer": "A",
+      "solution": "Incentre is centre of inscribed circle."
+    },
+    {
+      "id": 208,
+      "question": "The orthocentre is intersection of",
+      "options": "A) altitudes  B) medians  C) angle bisectors  D) perpendicular bisectors",
+      "answer": "A",
+      "solution": "Altitudes are perpendiculars from vertices to opposite sides."
+    },
+    {
+      "id": 209,
+      "question": "In a right-angled triangle, the circumcentre is at the",
+      "options": "A) midpoint of hypotenuse  B) vertex of right angle  C) inside triangle  D) outside triangle",
+      "answer": "A",
+      "solution": "Hypotenuse is diameter of circumcircle."
+    },
+    {
+      "id": 210,
+      "question": "The sum of lengths of any two sides of a triangle is",
+      "options": "A) greater than the third side  B) less than  C) equal to  D) sometimes less",
+      "answer": "A",
+      "solution": "Triangle inequality theorem."
+    },
+    {
+      "id": 211,
+      "question": "In any triangle, the largest angle is opposite the",
+      "options": "A) longest side  B) shortest side  C) middle side  D) none",
+      "answer": "A",
+      "solution": "Larger angle opposite longer side."
+    },
+    {
+      "id": 212,
+      "question": "The sine rule: a/sin A =",
+      "options": "A) b/sin B = c/sin C  B) a sin B  C) b sin A  D) 2R only",
+      "answer": "A",
+      "solution": "Sine rule relates sides to sines of opposite angles."
+    },
+    {
+      "id": 213,
+      "question": "The cosine rule: a² =",
+      "options": "A) b² + c² - 2bc cos A  B) b² + c² + 2bc cos A  C) b² - c²  D) b² + c² - bc cos A",
+      "answer": "A",
+      "solution": "Cosine rule for side a opposite angle A."
+    },
+    {
+      "id": 214,
+      "question": "The area of a triangle given two sides and included angle is",
+      "options": "A) ½ ab sin C  B) ½ bc sin A  C) ½ ac sin B  D) all of these",
+      "answer": "D",
+      "solution": "Any of the three forms gives area."
+    },
+    {
+      "id": 215,
+      "question": "The angle of depression from a point to an object is measured from the",
+      "options": "A) horizontal downward  B) horizontal upward  C) vertical  D) line of sight up",
+      "answer": "A",
+      "solution": "Angle below the horizontal line of sight."
+    },
+    {
+      "id": 216,
+      "question": "If the angle of elevation of the sun is 30°, the length of the shadow of a 10 m pole is",
+      "options": "A) 10√3 m  B) 10 m  C) 20 m  D) 5√3 m",
+      "answer": "A",
+      "solution": "tan 30° = 10/shadow → shadow = 10/(1/√3) = 10√3."
+    },
+    {
+      "id": 217,
+      "question": "The bearing 045° is in which cardinal direction?",
+      "options": "A) Northeast  B) Southeast  C) Northwest  D) Southwest",
+      "answer": "A",
+      "solution": "045° is midway between North (0°) and East (90°)."
+    },
+    {
+      "id": 218,
+      "question": "True bearing is measured from",
+      "options": "A) North clockwise  B) South clockwise  C) East  D) West",
+      "answer": "A",
+      "solution": "Bearings measured clockwise from True North."
+    },
+    {
+      "id": 219,
+      "question": "The scale of a map 1:50000 means 1 cm on map represents",
+      "options": "A) 0.5 km  B) 5 km  C) 50 m  D) 500 m",
+      "answer": "D",
+      "solution": "1 cm = 50,000 cm = 500 m."
+    },
+    {
+      "id": 220,
+      "question": "The locus of points equidistant from two fixed points is",
+      "options": "A) perpendicular bisector  B) angle bisector  C) circle  D) parallel line",
+      "answer": "A",
+      "solution": "Perpendicular bisector of line joining the points."
+    },
+    {
+      "id": 221,
+      "question": "The locus of a point at constant distance from a fixed point is",
+      "options": "A) circle  B) line  C) ellipse  D) parabola",
+      "answer": "A",
+      "solution": "Circle: all points at fixed radius from centre."
+    },
+    {
+      "id": 222,
+      "question": "The equation of a line through (2,5) with gradient 3 is",
+      "options": "A) y = 3x-1  B) y = 3x+1  C) y = 3x+5  D) y = 3x+2",
+      "answer": "A",
+      "solution": "y-5 = 3(x-2) → y = 3x-1."
+    },
+    {
+      "id": 223,
+      "question": "The line y = 4 is",
+      "options": "A) horizontal  B) vertical  C) slope 4  D) passes through origin",
+      "answer": "A",
+      "solution": "Constant y-value gives horizontal line."
+    },
+    {
+      "id": 224,
+      "question": "The x-intercept of 2x+3y=6 is",
+      "options": "A) 3  B) 2  C) 6  D) 1",
+      "answer": "A",
+      "solution": "Set y=0: 2x=6 → x=3."
+    },
+    {
+      "id": 225,
+      "question": "The y-intercept of 2x+3y=6 is",
+      "options": "A) 2  B) 3  C) 6  D) 1",
+      "answer": "A",
+      "solution": "Set x=0: 3y=6 → y=2."
+    },
+    {
+      "id": 226,
+      "question": "The distance between the lines y=2x+3 and y=2x-1 is",
+      "options": "A) 4/√5  B) 2/√5  C) 4  D) 2",
+      "answer": "A",
+      "solution": "|c₁-c₂|/√(1+m²) = |3-(-1)|/√5 = 4/√5."
+    },
+    {
+      "id": 227,
+      "question": "The angle between lines with slopes m₁ and m₂ is given by",
+      "options": "A) tanθ = |(m₁-m₂)/(1+m₁m₂)|  B) sinθ  C) cosθ  D) m₁+m₂",
+      "answer": "A",
+      "solution": "Formula for angle between two lines."
+    },
+    {
+      "id": 228,
+      "question": "The equation of a circle with centre (h,k) radius r is",
+      "options": "A) (x-h)²+(y-k)²=r²  B) x²+y²=r²  C) x²+y²+2gx+2fy+c=0  D) all equivalent",
+      "answer": "D",
+      "solution": "All three forms represent circles."
+    },
+    {
+      "id": 229,
+      "question": "The general equation of a circle x²+y²+2gx+2fy+c=0 has centre",
+      "options": "A) (-g, -f)  B) (g, f)  C) (-g, f)  D) (g, -f)",
+      "answer": "A",
+      "solution": "Centre is (-g, -f)."
+    },
+    {
+      "id": 230,
+      "question": "The radius of x²+y²+2gx+2fy+c=0 is",
+      "options": "A) √(g²+f²-c)  B) g²+f²-c  C) √(g²+f²+c)  D) (g²+f²)/c",
+      "answer": "A",
+      "solution": "r = √(g²+f²-c)."
+    },
+    {
+      "id": 231,
+      "question": "The point (1,2) relative to circle x²+y²=9 is",
+      "options": "A) inside  B) on  C) outside  D) centre",
+      "answer": "A",
+      "solution": "1²+2²=5 < 9, so inside."
+    },
+    {
+      "id": 232,
+      "question": "The length of tangent from external point (4,5) to circle x²+y²=4 is",
+      "options": "A) √37  B) √33  C) 5  D) 3",
+      "answer": "A",
+      "solution": "√(4²+5²-4) = √(16+25-4) = √37."
+    },
+    {
+      "id": 233,
+      "question": "The chord of contact from (x₁,y₁) to circle x²+y²=r² is",
+      "options": "A) xx₁+yy₁=r²  B) x₁x+y₁y=r²  C) x²+y²=r²  D) x₁²+y₁²=r²",
+      "answer": "A",
+      "solution": "Equation of chord of contact from external point."
+    },
+    {
+      "id": 234,
+      "question": "The equation of a parabola with vertex at origin, focus (a,0) is",
+      "options": "A) y²=4ax  B) x²=4ay  C) y²=-4ax  D) x²=-4ay",
+      "answer": "A",
+      "solution": "Standard form opening right."
+    },
+    {
+      "id": 235,
+      "question": "The directrix of y²=4ax is",
+      "options": "A) x = -a  B) x = a  C) y = a  D) y = -a",
+      "answer": "A",
+      "solution": "Directrix is x = -a."
+    },
+    {
+      "id": 236,
+      "question": "The ellipse x²/a² + y²/b² = 1 has major axis along",
+      "options": "A) x if a>b  B) y always  C) x always  D) line y=x",
+      "answer": "A",
+      "solution": "Major axis along x when a > b."
+    },
+    {
+      "id": 237,
+      "question": "The hyperbola x²/a² - y²/b² = 1 has asymptotes",
+      "options": "A) y = ±(b/a)x  B) y = ±(a/b)x  C) x = ±a  D) y=0",
+      "answer": "A",
+      "solution": "Asymptotes pass through origin with slopes ±b/a."
+    },
+    {
+      "id": 238,
+      "question": "The eccentricity of a circle is",
+      "options": "A) 0  B) 1  C) <1  D) >1",
+      "answer": "A",
+      "solution": "Circle has eccentricity zero."
+    },
+    {
+      "id": 239,
+      "question": "The sum of first n terms of a GP with first term a, ratio r is",
+      "options": "A) a(1-rⁿ)/(1-r) for r≠1  B) a(rⁿ-1)/(r-1)  C) both A and B  D) n/2(2a+(n-1)d)",
+      "answer": "C",
+      "solution": "Both forms are equivalent."
+    },
+    {
+      "id": 240,
+      "question": "The infinite GP sum exists if",
+      "options": "A) |r|<1  B) r>1  C) r=1  D) r=0",
+      "answer": "A",
+      "solution": "Convergent series requires |r| < 1."
+    },
+    {
+      "id": 241,
+      "question": "The sum to infinity of 1 + 1/2 + 1/4 + ... is",
+      "options": "A) 2  B) 3  C) 1  D) ∞",
+      "answer": "A",
+      "solution": "a=1, r=1/2; S∞ = 1/(1-1/2) = 2."
+    },
+    {
+      "id": 242,
+      "question": "The arithmetic mean between a and b is",
+      "options": "A) (a+b)/2  B) √(ab)  C) 2ab/(a+b)  D) a-b",
+      "answer": "A",
+      "solution": "AM = (a+b)/2."
+    },
+    {
+      "id": 243,
+      "question": "The geometric mean of a and b is",
+      "options": "A) √(ab)  B) (a+b)/2  C) 2ab/(a+b)  D) a/b",
+      "answer": "A",
+      "solution": "GM = √(ab)."
+    },
+    {
+      "id": 244,
+      "question": "The harmonic mean of a and b is",
+      "options": "A) 2ab/(a+b)  B) √(ab)  C) (a+b)/2  D) (a²+b²)/2",
+      "answer": "A",
+      "solution": "HM = 2ab/(a+b)."
+    },
+    {
+      "id": 245,
+      "question": "The relation between AM, GM, HM for two positive numbers is",
+      "options": "A) AM ≥ GM ≥ HM  B) GM ≥ AM ≥ HM  C) HM ≥ GM ≥ AM  D) AM = GM = HM",
+      "answer": "A",
+      "solution": "AM is always greatest, then GM, then HM."
+    },
+    {
+      "id": 246,
+      "question": "The coefficient of variation =",
+      "options": "A) (SD/mean)×100%  B) (mean/SD)×100%  C) SD×mean  D) variance/mean",
+      "answer": "A",
+      "solution": "CV = (standard deviation / mean) × 100%."
+    },
+    {
+      "id": 247,
+      "question": "If mean=20, SD=5, CV=",
+      "options": "A) 25%  B) 20%  C) 5%  D) 4%",
+      "answer": "A",
+      "solution": "(5/20)×100 = 25%."
+    },
+    {
+      "id": 248,
+      "question": "Pearson's correlation coefficient r lies between",
+      "options": "A) -1 and 1  B) 0 and 1  C) -∞ and ∞  D) 0 and ∞",
+      "answer": "A",
+      "solution": "Correlation coefficient range is [-1, 1]."
+    },
+    {
+      "id": 249,
+      "question": "The line of best fit is obtained by",
+      "options": "A) least squares method  B) free hand  C) moving averages  D) interpolation",
+      "answer": "A",
+      "solution": "Least squares minimises sum of squared residuals."
+    },
+    {
+      "id": 250,
+      "question": "Time series components include",
+      "options": "A) trend, seasonal, cyclical, irregular  B) mean, median, mode  C) AM, GM, HM  D) x, y, z",
+      "answer": "A",
+      "solution": "Four components of time series data."
+    },
+    {
+      "id": 251,
+      "question": "The probability that an event does not happen is",
+      "options": "A) 1 - P(E)  B) P(E)  C) 0  D) P(E')",
+      "answer": "A",
+      "solution": "Complement rule: P(not E) = 1 - P(E)."
+    },
+    {
+      "id": 252,
+      "question": "For mutually exclusive events A and B: P(A∪B) =",
+      "options": "A) P(A)+P(B)  B) P(A)×P(B)  C) P(A)+P(B)-P(A∩B)  D) 0",
+      "answer": "A",
+      "solution": "No overlap, so simply add probabilities."
+    },
+    {
+      "id": 253,
+      "question": "For independent events: P(A∩B) =",
+      "options": "A) P(A)P(B)  B) P(A)+P(B)  C) 0  D) 1",
+      "answer": "A",
+      "solution": "Multiplication rule for independent events."
+    },
+    {
+      "id": 254,
+      "question": "Conditional probability P(A|B) =",
+      "options": "A) P(A∩B)/P(B)  B) P(A∩B)/P(A)  C) P(A)P(B)  D) P(A)+P(B)",
+      "answer": "A",
+      "solution": "Probability of A given B has occurred."
+    },
+    {
+      "id": 255,
+      "question": "The total probability of all outcomes in a sample space is",
+      "options": "A) 1  B) 0  C) 100  D) depends",
+      "answer": "A",
+      "solution": "Sum of all probabilities equals 1."
+    },
+    {
+      "id": 256,
+      "question": "A fair die is rolled, probability of prime number is",
+      "options": "A) 1/2  B) 1/3  C) 1/6  D) 2/3",
+      "answer": "A",
+      "solution": "Primes: 2,3,5 → 3/6 = 1/2."
+    },
+    {
+      "id": 257,
+      "question": "The probability of drawing an ace from a standard deck of 52 cards is",
+      "options": "A) 1/13  B) 1/52  C) 4/52  D) 1/4",
+      "answer": "A",
+      "solution": "4 aces out of 52 = 4/52 = 1/13."
+    },
+    {
+      "id": 258,
+      "question": "Two cards drawn without replacement, P(both aces) =",
+      "options": "A) (4/52)×(3/51)  B) (4/52)×(4/52)  C) 1/13×1/13  D) 1/221",
+      "answer": "A",
+      "solution": "Multiplication with decreasing denominator; equals 1/221."
+    },
+    {
+      "id": 259,
+      "question": "The binomial distribution formula P(X=r) =",
+      "options": "A) ⁿCᵣ p^r q^(n-r)  B) nCr p q  C) p^r  D) q^n",
+      "answer": "A",
+      "solution": "Standard binomial probability formula."
+    },
+    {
+      "id": 260,
+      "question": "The mean of a binomial distribution is",
+      "options": "A) np  B) npq  C) √(npq)  D) n/p",
+      "answer": "A",
+      "solution": "Expected value for binomial is np."
+    },
+    {
+      "id": 261,
+      "question": "The variance of binomial distribution is",
+      "options": "A) npq  B) np  C) √(npq)  D) n/p",
+      "answer": "A",
+      "solution": "Variance = npq."
+    },
+    {
+      "id": 262,
+      "question": "The Poisson distribution is used for",
+      "options": "A) rare events  B) continuous data  C) normal data  D) large sample",
+      "answer": "A",
+      "solution": "Poisson models rare, independent events."
+    },
+    {
+      "id": 263,
+      "question": "The normal distribution is",
+      "options": "A) bell-shaped, symmetric  B) skewed right  C) skewed left  D) uniform",
+      "answer": "A",
+      "solution": "Normal curve is symmetrical and bell-shaped."
+    },
+    {
+      "id": 264,
+      "question": "The standard normal distribution has mean 0 and SD",
+      "options": "A) 1  B) 0  C) variable  D) -1",
+      "answer": "A",
+      "solution": "Standard normal: Z ~ N(0,1)."
+    },
+    {
+      "id": 265,
+      "question": "Z-score formula: Z =",
+      "options": "A) (X - μ)/σ  B) (μ - X)/σ  C) X/σ  D) μσ",
+      "answer": "A",
+      "solution": "Standardisation formula."
+    },
+    {
+      "id": 266,
+      "question": "The area under the normal curve represents",
+      "options": "A) probability  B) mean  C) SD  D) variance",
+      "answer": "A",
+      "solution": "Total area = 1 (probability)."
+    },
+    {
+      "id": 267,
+      "question": "The empirical rule: about 68% of data within",
+      "options": "A) 1 SD of mean  B) 2 SD  C) 3 SD  D) 0.5 SD",
+      "answer": "A",
+      "solution": "68-95-99.7 rule for normal distribution."
+    },
+    {
+      "id": 268,
+      "question": "The mode of a normal distribution is",
+      "options": "A) equal to mean and median  B) larger than mean  C) smaller than mean  D) zero",
+      "answer": "A",
+      "solution": "Symmetric distribution: mean = median = mode."
+    },
+    {
+      "id": 269,
+      "question": "The median of the data set 1,1,2,5,6,7,7 is",
+      "options": "A) 5  B) 2  C) 4  D) 6",
+      "answer": "A",
+      "solution": "Sorted; 4th value (middle) is 5."
+    },
+    {
+      "id": 270,
+      "question": "The interquartile range =",
+      "options": "A) Q₃ - Q₁  B) Q₂ - Q₁  C) max - min  D) mean - median",
+      "answer": "A",
+      "solution": "IQR = Q₃ - Q₁."
+    },
+    {
+      "id": 271,
+      "question": "A histogram uses",
+      "options": "A) bars touching  B) separate bars  C) lines  D) points",
+      "answer": "A",
+      "solution": "Histogram bars are adjacent for continuous data."
+    },
+    {
+      "id": 272,
+      "question": "A pie chart represents data as",
+      "options": "A) sectors of a circle  B) rectangles  C) lines  D) points",
+      "answer": "A",
+      "solution": "Each category is a proportional sector."
+    },
+    {
+      "id": 273,
+      "question": "The number 3.14159 rounded to 2 decimal places is",
+      "options": "A) 3.14  B) 3.15  C) 3.1  D) 3.142",
+      "answer": "A",
+      "solution": "Third decimal 1 < 5, so round down."
+    },
+    {
+      "id": 274,
+      "question": "0.00456 in standard form is",
+      "options": "A) 4.56×10⁻³  B) 4.56×10⁻²  C) 4.56×10⁻⁴  D) 45.6×10⁻⁴",
+      "answer": "A",
+      "solution": "Move decimal 3 places right."
+    },
+    {
+      "id": 275,
+      "question": "5.2 × 10³ + 3.8 × 10³ =",
+      "options": "A) 9.0×10³  B) 9.0×10⁶  C) 5.8×10³  D) 90",
+      "answer": "A",
+      "solution": "(5.2+3.8)×10³ = 9.0×10³."
+    },
+    {
+      "id": 276,
+      "question": "The product (2×10²)×(3×10⁻¹) =",
+      "options": "A) 6×10¹  B) 6×10²  C) 5×10¹  D) 6×10⁻²",
+      "answer": "A",
+      "solution": "2×3=6; 10²×10⁻¹=10¹; result = 6×10¹."
+    },
+    {
+      "id": 277,
+      "question": "The modulus of -8 is",
+      "options": "A) 8  B) -8  C) 0  D) 1",
+      "answer": "A",
+      "solution": "|-8| = 8."
+    },
+    {
+      "id": 278,
+      "question": "The argument of complex number 1+i is",
+      "options": "A) 45°  B) 90°  C) 180°  D) 0°",
+      "answer": "A",
+      "solution": "tan⁻¹(1/1) = 45°."
+    },
+    {
+      "id": 279,
+      "question": "The conjugate of a+bi is",
+      "options": "A) a-bi  B) -a+bi  C) a+bi  D) bi",
+      "answer": "A",
+      "solution": "Conjugate changes sign of imaginary part."
+    },
+    {
+      "id": 280,
+      "question": "i²⁰²¹ =",
+      "options": "A) i  B) -1  C) -i  D) 1",
+      "answer": "A",
+      "solution": "Cycle of 4: 2021 mod 4 = 1 → i."
+    },
+    {
+      "id": 281,
+      "question": "The roots of x²+4x+5=0 are",
+      "options": "A) -2±i  B) -2±2i  C) -4±i  D) 2±i",
+      "answer": "A",
+      "solution": "Discriminant 16-20=-4; roots = (-4±2i)/2 = -2±i."
+    },
+    {
+      "id": 282,
+      "question": "The sum of complex numbers 2+3i and 4-5i is",
+      "options": "A) 6-2i  B) 6+8i  C) -2+8i  D) 2-2i",
+      "answer": "A",
+      "solution": "(2+4)+(3-5)i = 6-2i."
+    },
+    {
+      "id": 283,
+      "question": "The modulus of 3-4i is",
+      "options": "A) 5  B) 7  C) 1  D) 25",
+      "answer": "A",
+      "solution": "√(9+16) = √25 = 5."
+    },
+    {
+      "id": 284,
+      "question": "De Moivre's theorem: (cosθ + i sinθ)ⁿ =",
+      "options": "A) cos nθ + i sin nθ  B) n cosθ + i n sinθ  C) cos θⁿ + i sin θⁿ  D) e^{iθ}",
+      "answer": "A",
+      "solution": "Power expands to multiple angle."
+    },
+    {
+      "id": 285,
+      "question": "The binary operation * defined by a*b = a+b+ab on real numbers is",
+      "options": "A) commutative  B) associative  C) both  D) neither",
+      "answer": "C",
+      "solution": "Operation is both commutative and associative."
+    },
+    {
+      "id": 286,
+      "question": "The identity element of * if a*b = a+b-ab is",
+      "options": "A) 0  B) 1  C) -1  D) a",
+      "answer": "A",
+      "solution": "a+0-a·0 = a."
+    },
+    {
+      "id": 287,
+      "question": "The inverse of a under * (a+b-ab) is",
+      "options": "A) a/(a-1)  B) -a  C) 1/a  D) a",
+      "answer": "A",
+      "solution": "Solve a+b-ab=0 → b = a/(a-1)."
+    },
+    {
+      "id": 288,
+      "question": "A group must have",
+      "options": "A) closure, associativity, identity, inverse  B) commutativity  C) only closure  D) all of above but not identity",
+      "answer": "A",
+      "solution": "Four axioms define a group."
+    },
+    {
+      "id": 289,
+      "question": "The set of integers under addition is a group because",
+      "options": "A) all four properties hold  B) it is closed only  C) it is finite  D) it is a set",
+      "answer": "A",
+      "solution": "Integers under + satisfy all group axioms."
+    },
+    {
+      "id": 290,
+      "question": "The number of elements in a group is called its",
+      "options": "A) order  B) index  C) rank  D) degree",
+      "answer": "A",
+      "solution": "Order of a group = number of elements."
+    },
+    {
+      "id": 291,
+      "question": "The modulus of 7 modulo 3 is",
+      "options": "A) 1  B) 2  C) 0  D) 7",
+      "answer": "A",
+      "solution": "7 mod 3 = 1."
+    },
+    {
+      "id": 292,
+      "question": "Is 5 ≡ 2 mod 3?",
+      "options": "A) True  B) False",
+      "answer": "A",
+      "solution": "5 and 2 have same remainder when divided by 3."
+    },
+    {
+      "id": 293,
+      "question": "The solution of 2x ≡ 1 (mod 5) is x ≡",
+      "options": "A) 3  B) 2  C) 4  D) 1",
+      "answer": "A",
+      "solution": "2×3 = 6 ≡ 1 (mod 5)."
+    },
+    {
+      "id": 294,
+      "question": "The number of primitive roots modulo 7 is",
+      "options": "A) 2  B) 1  C) 3  D) 0",
+      "answer": "A",
+      "solution": "φ(6) = 2."
+    },
+    {
+      "id": 295,
+      "question": "The totient φ(10) =",
+      "options": "A) 4  B) 5  C) 6  D) 10",
+      "answer": "A",
+      "solution": "Numbers coprime to 10: 1,3,7,9."
+    },
+    {
+      "id": 296,
+      "question": "Fermat's Little Theorem: If p prime, a not divisible by p, then a^(p-1) ≡",
+      "options": "A) 1 mod p  B) 0 mod p  C) a mod p  D) p",
+      "answer": "A",
+      "solution": "a^(p-1) ≡ 1 (mod p)."
+    },
+    {
+      "id": 297,
+      "question": "The graph of y = |x| is",
+      "options": "A) V-shaped  B) U-shaped  C) straight line  D) circle",
+      "answer": "A",
+      "solution": "Absolute value function creates V shape."
+    },
+    {
+      "id": 298,
+      "question": "The domain of f(x) = √(x-2) is",
+      "options": "A) x ≥ 2  B) all real  C) x > 2  D) x ≤ 2",
+      "answer": "A",
+      "solution": "Radicand must be non-negative: x-2 ≥ 0 → x ≥ 2."
+    },
+    {
+      "id": 299,
+      "question": "If f(x)=x² and g(x)=2x+1, (f∘g)(x) =",
+      "options": "A) (2x+1)²  B) 2x²+1  C) 2(x²+1)  D) x²+1",
+      "answer": "A",
+      "solution": "f(g(x)) = (2x+1)²."
+    },
+    {
+      "id": 300,
+      "question": "The inverse of function f(x) = 2x+3 is",
+      "options": "A) (x-3)/2  B) x/2 -3  C) 2x-3  D) 3x+2",
+      "answer": "A",
+      "solution": "y=2x+3 → x=(y-3)/2; swap variables."
+    }
+  ],
+  "theory_questions": [
+    {
+      "id": 301,
+      "question": "(a) Solve the simultaneous equations: 2x + 3y = 7, x - 2y = -3. (b) Factorise completely x² - 5x + 6.",
+      "answer": "(a) From (ii): x = 2y-3. Sub: 2(2y-3)+3y=7 → 4y-6+3y=7 → 7y=13 → y=13/7. x = 2(13/7)-3 = 5/7. Solution: x = 5/7, y = 13/7. (b) (x-2)(x-3)."
+    },
+    {
+      "id": 302,
+      "question": "Find the gradient and y-intercept of the line 3x - 4y = 12. Sketch using symbols.",
+      "answer": "y = (3/4)x - 3. Gradient = 3/4, y-intercept = -3. Sketch: line crosses y at -3, slope up 3, right 4."
+    },
+    {
+      "id": 303,
+      "question": "A bag contains 5 red, 4 green and 3 blue balls. Two balls are drawn at random without replacement. Find the probability that: (i) both are red (ii) the first is green and the second is blue (iii) they are of different colours.",
+      "answer": "Total = 12. (i) P(RR) = (5/12)×(4/11) = 20/132 = 5/33. (ii) P(GB) = (4/12)×(3/11) = 12/132 = 1/11. (iii) P(different) = 1 - P(same). P(same) = 5/33 + (4/12×3/11) + (3/12×2/11) = 5/33 + 12/132 + 6/132 = 19/66. P(different) = 47/66."
+    },
+    {
+      "id": 304,
+      "question": "A cylindrical tank of radius 0.7 m and height 2 m is filled with water. (π = 22/7) (a) Find the volume in litres (1 m³ = 1000 L). (b) If water leaks at 50 L/min, find the time to empty.",
+      "answer": "(a) V = πr²h = (22/7)×0.49×2 = 3.08 m³. Volume = 3080 L. (b) Time = 3080/50 = 61.6 min."
+    },
+    {
+      "id": 305,
+      "question": "A ladder 10 m rests against a wall, foot 6 m from wall. (a) Find height reached. (b) Find angle with ground.",
+      "answer": "(a) h = √(10²-6²) = √64 = 8 m. (b) cos θ = 6/10 → θ = cos⁻¹(0.6) ≈ 53.13°."
+    },
+    {
+      "id": 306,
+      "question": "The table shows marks of 40 students. Marks: 1-10, 11-20, 21-30, 31-40, 41-50. Freq: 4, 10, 16, 7, 3. (a) Calculate the mean. (b) What is the modal class?",
+      "answer": "Midpoints: 5.5,15.5,25.5,35.5,45.5. Σfx = 5.5×4+15.5×10+25.5×16+35.5×7+45.5×3 = 22+155+408+248.5+136.5 = 970. Mean = 970/40 = 24.25. (b) Modal class = 21-30 (frequency 16)."
+    },
+    {
+      "id": 307,
+      "question": "Prove that angles in the same segment of a circle are equal.",
+      "answer": "Given points A, B, C, D on circle, chord BC subtends ∠BAC and ∠BDC. Angle at centre BOC = 2∠BAC and also = 2∠BDC. Therefore ∠BAC = ∠BDC."
+    },
+    {
+      "id": 308,
+      "question": "(a) Simplify (√50 - √18)/√2. (b) Solve 2^(2x+1) = 8^(x-1).",
+      "answer": "(a) √50=5√2, √18=3√2. Difference=2√2. Divide by √2 = 2. (b) 8=2³, so 2^(2x+1) = 2^(3(x-1)). 2x+1 = 3x-3 → x = 4."
+    },
+    {
+      "id": 309,
+      "question": "A car travels 150 km in 2 hours 30 minutes. Find its speed. How far in 3 hours 20 minutes at same speed?",
+      "answer": "Time = 2.5 h. Speed = 150/2.5 = 60 km/h. 3h20min = 10/3 h. Distance = 60 × 10/3 = 200 km."
+    },
+    {
+      "id": 310,
+      "question": "Draw the graph of y = x² - 2x - 3 for -2 ≤ x ≤ 4. State roots and minimum point.",
+      "answer": "Table: x=-2,y=5; x=-1,y=0; x=0,y=-3; x=1,y=-4; x=2,y=-3; x=3,y=0; x=4,y=5. Roots: x=-1, 3. Minimum at (1,-4)."
+    },
+    {
+      "id": 311,
+      "question": "A man bought a TV for N80,000 and sold it at a loss of 15%. Find the selling price.",
+      "answer": "Loss = 15% of 80000 = 12000. SP = 80000 - 12000 = N68,000."
+    },
+    {
+      "id": 312,
+      "question": "The perimeter of a rectangle is 46 cm. Length is 5 cm more than width. Find the dimensions.",
+      "answer": "Let width = w, length = w+5. 2(w + w+5) = 46 → 4w+10 = 46 → w = 9, l = 14. Dimensions: 14 cm by 9 cm."
+    },
+    {
+      "id": 313,
+      "question": "A cone of radius 5 cm and slant height 13 cm. Find curved surface area and volume (π=3.14).",
+      "answer": "h = √(13²-5²) = 12 cm. CSA = πrl = 3.14×5×13 = 204.1 cm². Volume = ⅓πr²h = ⅓×3.14×25×12 = 314 cm³."
+    },
+    {
+      "id": 314,
+      "question": "In triangle ABC, AB=8 cm, BC=6 cm, angle B=60°. Find area and side AC.",
+      "answer": "Area = ½×8×6×sin60 = 24×(√3/2) = 12√3 cm². AC² = 8²+6²-2×8×6×cos60 = 100-48 = 52 → AC = 2√13 cm."
+    },
+    {
+      "id": 315,
+      "question": "Calculate the bearing of a point B from A if B is 5 km east and 12 km north of A. Give bearing and distance.",
+      "answer": "Distance = √(5²+12²) = 13 km. Angle from north = tan⁻¹(5/12) ≈ 22.6°. Bearing ≈ 023°."
+    },
+    {
+      "id": 316,
+      "question": "Construct a parallelogram with sides 6 cm and 4 cm and angle 60° using ruler and compass. Describe steps.",
+      "answer": "Draw AB=6 cm. At A construct 60°, draw line. Mark AD=4 cm. With compass, centre D radius 6 cm arc; centre B radius 4 cm arc, intersection C. Join DC, BC."
+    },
+    {
+      "id": 317,
+      "question": "Solve the quadratic inequality x² - 4x - 5 ≥ 0.",
+      "answer": "(x-5)(x+1) ≥ 0. Critical points -1, 5. Solution: x ≤ -1 or x ≥ 5."
+    },
+    {
+      "id": 318,
+      "question": "Find the point of intersection of the lines y = 2x+1 and 3x+2y = 12.",
+      "answer": "Sub y: 3x+2(2x+1)=12 → 7x=10 → x=10/7. y=2(10/7)+1 = 27/7. Point: (10/7, 27/7)."
+    },
+    {
+      "id": 319,
+      "question": "The sum of the first 20 terms of an AP is 400, and the first term is 5. Find the common difference and the 20th term.",
+      "answer": "S₂₀ = 20/2[2(5)+19d] = 400 → 10[10+19d]=400 → 10+19d=40 → d=30/19. T₂₀ = 5+19(30/19) = 35."
+    },
+    {
+      "id": 320,
+      "question": "The 3rd term of a GP is 18 and the 6th term is 486. Find the first term and common ratio.",
+      "answer": "ar²=18, ar⁵=486. Divide: r³=27 → r=3. Then a×9=18 → a=2."
+    },
+    {
+      "id": 321,
+      "question": "Differentiate y = 4x³ - 2x² + 5x - 7. Find gradient at x=1.",
+      "answer": "dy/dx = 12x² - 4x + 5. At x=1, gradient = 12-4+5 = 13."
+    },
+    {
+      "id": 322,
+      "question": "Find the area enclosed by the curve y = x² and the line y = 4.",
+      "answer": "Intersections: x²=4 → x=±2. Area = ∫₋₂² (4-x²)dx = [4x - x³/3]₋₂² = (8-8/3)-(-8+8/3) = 32/3 sq units."
+    },
+    {
+      "id": 323,
+      "question": "A particle moves along a line such that s = t³ - 6t² + 9t. Find velocity and acceleration at t=2. When is velocity zero?",
+      "answer": "v = ds/dt = 3t²-12t+9; a = dv/dt = 6t-12. At t=2, v=12-24+9=-3; a=0. v=0 when 3t²-12t+9=0 → t²-4t+3=0 → t=1, 3."
+    },
+    {
+      "id": 324,
+      "question": "Evaluate ∫(3x² + 2/x) dx.",
+      "answer": "∫3x²dx = x³; ∫2/x dx = 2 ln|x|. Result = x³ + 2 ln|x| + C."
+    },
+    {
+      "id": 325,
+      "question": "Find the mean deviation about the mean for data 2, 4, 6, 8, 10.",
+      "answer": "Mean = 6. Deviations: 4,2,0,2,4. Sum = 12. Mean deviation = 12/5 = 2.4."
+    },
+    {
+      "id": 326,
+      "question": "Calculate the variance and standard deviation of 1, 2, 3, 4, 5.",
+      "answer": "Mean=3. Squared deviations: 4,1,0,1,4. Sum=10. Population variance=10/5=2. SD=√2≈1.414."
+    },
+    {
+      "id": 327,
+      "question": "The marks of 10 students: 45,50,55,60,65,70,75,80,85,90. Find quartiles Q₁, Q₂, Q₃.",
+      "answer": "Q₂ (median) = (65+70)/2 = 67.5. Q₁ = median of lower half (45,50,55,60,65) = 55. Q₃ = median of upper half (70,75,80,85,90) = 80."
+    },
+    {
+      "id": 328,
+      "question": "A and B are events with P(A)=0.5, P(B)=0.4, P(A∩B)=0.2. Find P(A∪B) and P(A|B).",
+      "answer": "P(A∪B) = 0.5+0.4-0.2 = 0.7. P(A|B) = 0.2/0.4 = 0.5."
+    },
+    {
+      "id": 329,
+      "question": "Two dice are thrown. Find the probability of a sum greater than 8.",
+      "answer": "Sums: 9(4 ways), 10(3), 11(2), 12(1). Total 10. P = 10/36 = 5/18."
+    },
+    {
+      "id": 330,
+      "question": "In a factory, 2% of items are defective. Find the probability that out of 10 items, none is defective.",
+      "answer": "Binomial: n=10, p=0.02. P(X=0) = (0.98)¹⁰ ≈ 0.817."
+    },
+    {
+      "id": 331,
+      "question": "The heights of students are normally distributed with mean 160 cm, SD 5 cm. Find the proportion taller than 170 cm.",
+      "answer": "Z = (170-160)/5 = 2. Area to right of Z=2 is 0.0228. About 2.28%."
+    },
+    {
+      "id": 332,
+      "question": "Using matrices, solve: 2x + y = 7, x - y = -1.",
+      "answer": "Matrix form: [[2,1],[1,-1]][x,y]ᵀ = [7,-1]ᵀ. Inverse = (1/3)[[1,1],[1,-2]]. [x,y]ᵀ = (1/3)[[1,1],[1,-2]][7,-1]ᵀ = (2,3). So x=2, y=3."
+    },
+    {
+      "id": 333,
+      "question": "Find the scalar product a·b if a = 3i - 2j + k, b = i + 4j - 2k.",
+      "answer": "a·b = 3×1 + (-2)×4 + 1×(-2) = 3 - 8 - 2 = -7."
+    },
+    {
+      "id": 334,
+      "question": "Determine the unit vector in the direction of v = 2i + 3j - 6k.",
+      "answer": "|v| = √(4+9+36) = √49 = 7. Unit vector = (2/7)i + (3/7)j - (6/7)k."
+    },
+    {
+      "id": 335,
+      "question": "Show that points A(1,2), B(4,5), C(7,8) are collinear.",
+      "answer": "Slope AB = (5-2)/(4-1) = 1. Slope BC = (8-5)/(7-4) = 1. Equal slopes, so collinear."
+    },
+    {
+      "id": 336,
+      "question": "Find the equation of the circle with diameter endpoints (2,-3) and (-4,5).",
+      "answer": "Centre = midpoint = (-1,1). Radius = half distance = ½√(6²+(-8)²) = 5. Equation: (x+1)²+(y-1)²=25."
+    },
+    {
+      "id": 337,
+      "question": "Determine the vertex, focus and directrix of parabola y² = 12x.",
+      "answer": "4a=12 → a=3. Vertex (0,0), focus (3,0), directrix x = -3."
+    },
+    {
+      "id": 338,
+      "question": "Find the length of the tangent from point (5,4) to circle x²+y²-2x-4y-4=0.",
+      "answer": "Circle: (x-1)²+(y-2)² = 9. Centre (1,2), r=3. Distance from centre = √((5-1)²+(4-2)²) = √20. Tangent length = √(20-9) = √11."
+    },
+    {
+      "id": 339,
+      "question": "Solve for x: log₂(x+1) + log₂(x-1) = 3.",
+      "answer": "log₂[(x+1)(x-1)] = 3 → x²-1 = 8 → x²=9 → x=3 (x=-3 rejected)."
+    },
+    {
+      "id": 340,
+      "question": "Express (5x+1)/[(x-1)(x+2)] in partial fractions.",
+      "answer": "Let = A/(x-1) + B/(x+2). 5x+1 = A(x+2)+B(x-1). Set x=1: 6=3A → A=2. Set x=-2: -9=-3B → B=3. So 2/(x-1) + 3/(x+2)."
+    },
+    {
+      "id": 341,
+      "question": "The sum of ages of a father and son is 45 years. Five years ago, the father was four times as old as the son. Find their present ages.",
+      "answer": "f+s=45; (f-5)=4(s-5) → f-5=4s-20 → f=4s-15. Sub: 4s-15+s=45 → 5s=60 → s=12, f=33."
+    },
+    {
+      "id": 342,
+      "question": "A sum of money amounts to N10,400 in 2 years and N11,200 in 3 years at simple interest. Find principal and rate.",
+      "answer": "Interest for 1 year = 11200-10400 = 800. Interest for 2 years = 1600. Principal = 10400-1600 = N8,800. Rate = (800/8800)×100 = 9.09%."
+    },
+    {
+      "id": 343,
+      "question": "The mean of 20 numbers is 15. If 5 is added to each number, what is the new mean?",
+      "answer": "New mean = 15 + 5 = 20."
+    },
+    {
+      "id": 344,
+      "question": "Find the number of ways to arrange the letters of the word 'MATHEMATICS'.",
+      "answer": "11 letters: M(2), A(2), T(2), others single. Number = 11!/(2!2!2!) = 4,989,600."
+    },
+    {
+      "id": 345,
+      "question": "A committee of 3 is chosen from 5 men and 4 women. How many ways can it consist of at least 2 women?",
+      "answer": "Case 2W,1M: C(4,2)×C(5,1) = 6×5 = 30. Case 3W: C(4,3) = 4. Total = 34."
+    },
+    {
+      "id": 346,
+      "question": "The probability of hitting a target is 1/4. If 5 shots are fired, find the probability of exactly 2 hits.",
+      "answer": "Binomial: C(5,2)(1/4)²(3/4)³ = 10 × 1/16 × 27/64 = 270/1024 = 135/512."
+    },
+    {
+      "id": 347,
+      "question": "A box contains 4 red, 5 blue and 6 green balls. One ball is drawn. Find the probability it is not green.",
+      "answer": "Total = 15. Not green = 9. P = 9/15 = 3/5."
+    },
+    {
+      "id": 348,
+      "question": "Find the derivative of y = (2x+1)⁵.",
+      "answer": "Using chain rule: dy/dx = 5(2x+1)⁴ × 2 = 10(2x+1)⁴."
+    },
+    {
+      "id": 349,
+      "question": "Evaluate lim_{x→2} (x²-4)/(x-2).",
+      "answer": "Factor: (x-2)(x+2)/(x-2) = x+2 → limit = 4."
+    },
+    {
+      "id": 350,
+      "question": "Determine the maximum value of y = 6x - x².",
+      "answer": "y = -x²+6x. Vertex at x = -b/2a = 3. y_max = -9+18 = 9."
+    },
+    {
+      "id": 351,
+      "question": "Find the area between y = x, y = 0, x = 1, x = 3.",
+      "answer": "Area = ∫₁³ x dx = [½x²]₁³ = ½(9-1) = 4 sq units."
+    },
+    {
+      "id": 352,
+      "question": "Sketch the region bounded by y = √x, x = 0, y = 2 and find the area.",
+      "answer": "Using y integration: x = y², limits y=0 to 2. Area = ∫₀² y² dy = [y³/3]₀² = 8/3 sq units."
+    },
+    {
+      "id": 353,
+      "question": "The velocity v = 4t - t². Find distance travelled from t=0 to t=4.",
+      "answer": "s = ∫₀⁴ (4t - t²) dt = [2t² - t³/3]₀⁴ = (32 - 64/3) = 32/3 m."
+    },
+    {
+      "id": 354,
+      "question": "A ladder 5 m long is sliding down a wall. The bottom moves away from the wall at 0.5 m/s. How fast is the top descending when the bottom is 3 m from the wall?",
+      "answer": "x²+y²=25. 2x(dx/dt)+2y(dy/dt)=0. x=3, y=4, dx/dt=0.5. 3+4(dy/dt)=0 → dy/dt = -3/8 m/s (descending)."
+    },
+    {
+      "id": 355,
+      "question": "Use the trapezoidal rule with 4 strips to approximate ∫₁³ 1/x dx.",
+      "answer": "h=0.5. x: 1,1.5,2,2.5,3. y: 1,0.6667,0.5,0.4,0.3333. Integral ≈ 0.25[1+2(0.6667+0.5+0.4)+0.3333] ≈ 1.1167."
+    },
+    {
+      "id": 356,
+      "question": "Find the mean of the frequency distribution: x: 10,20,30,40 with f: 3,5,2,1.",
+      "answer": "Σf=11. Σfx=30+100+60+40=230. Mean = 230/11 ≈ 20.91."
+    },
+    {
+      "id": 357,
+      "question": "What is the mode of the above data?",
+      "answer": "Mode = 20 (highest frequency 5)."
+    },
+    {
+      "id": 358,
+      "question": "Draw a pie chart for expenses: Food 40%, Rent 25%, Others 35%. State the angles.",
+      "answer": "Food: 144°, Rent: 90°, Others: 126°."
+    },
+    {
+      "id": 359,
+      "question": "A sum of N20,000 is invested at compound interest 5% p.a. for 3 years. Find the amount.",
+      "answer": "A = 20000(1.05)³ = 20000 × 1.157625 = N23,152.50."
+    },
+    {
+      "id": 360,
+      "question": "A radio is sold for N12,000 at a profit of 20%. Find the cost price.",
+      "answer": "CP × 1.2 = 12000 → CP = N10,000."
+    },
+    {
+      "id": 361,
+      "question": "Time taken for a journey is inversely proportional to speed. If speed 60 km/h takes 3 h, find time at 90 km/h.",
+      "answer": "t = k/v; k = 60×3 = 180. At v=90, t = 180/90 = 2 h."
+    },
+    {
+      "id": 362,
+      "question": "Factorise 8x³ - 27.",
+      "answer": "Difference of cubes: (2x-3)(4x²+6x+9)."
+    },
+    {
+      "id": 363,
+      "question": "Simplify (2x²+3x-2)/(x²-4).",
+      "answer": "Numerator: (2x-1)(x+2). Denominator: (x-2)(x+2). Cancel (x+2) → (2x-1)/(x-2)."
+    },
+    {
+      "id": 364,
+      "question": "Solve |2x-3| = 5.",
+      "answer": "2x-3=5 → x=4; or 2x-3=-5 → x=-1. So x=4, -1."
+    },
+    {
+      "id": 365,
+      "question": "Determine the domain of f(x) = 1/(x²-9).",
+      "answer": "x²-9≠0 → x≠±3. Domain: all real numbers except 3 and -3."
+    },
+    {
+      "id": 366,
+      "question": "Find the inverse of f(x) = (x+2)/(x-3).",
+      "answer": "Let y = (x+2)/(x-3). Swap: x = (y+2)/(y-3) → xy-3x = y+2 → y(x-1) = 3x+2 → y = (3x+2)/(x-1)."
+    },
+    {
+      "id": 367,
+      "question": "Solve e^(2x) = 5.",
+      "answer": "2x = ln 5 → x = (ln 5)/2."
+    },
+    {
+      "id": 368,
+      "question": "Find the Cartesian equation of the line given by parametric x = 1+2t, y = 3-t.",
+      "answer": "From y: t = 3-y. Sub into x: x = 1+2(3-y) = 7-2y → x+2y = 7."
+    },
+    {
+      "id": 369,
+      "question": "Determine the centre and radius of circle x²+y²-6x+4y-12=0.",
+      "answer": "(x-3)²+(y+2)² = 25. Centre (3,-2), radius 5."
+    },
+    {
+      "id": 370,
+      "question": "Find the equation of the tangent to circle x²+y²=25 at point (3,4).",
+      "answer": "Radius gradient = 4/3; tangent gradient = -3/4. Equation: y-4 = -3/4(x-3) → 3x+4y = 25."
+    },
+    {
+      "id": 371,
+      "question": "Prove that (sinθ + cosθ)² = 1 + sin2θ.",
+      "answer": "LHS = sin²θ + 2sinθcosθ + cos²θ = 1 + sin2θ."
+    },
+    {
+      "id": 372,
+      "question": "Solve sin2θ = sinθ for 0° ≤ θ ≤ 360°.",
+      "answer": "2sinθcosθ - sinθ = 0 → sinθ(2cosθ-1) = 0. sinθ=0 → θ=0°,180°,360°; cosθ=1/2 → θ=60°,300°."
+    },
+    {
+      "id": 373,
+      "question": "If tanθ = 3/4, find sinθ and cosθ (θ acute).",
+      "answer": "Opp=3, Adj=4, Hyp=5. sinθ=3/5, cosθ=4/5."
+    },
+    {
+      "id": 374,
+      "question": "The shadow of a building is 30 m when sun altitude is 30°. Find the height of the building.",
+      "answer": "tan30 = h/30 → h = 30/√3 = 10√3 m."
+    },
+    {
+      "id": 375,
+      "question": "A boat travels 20 km on bearing 060° then 15 km on bearing 150°. How far is it from start?",
+      "answer": "First leg: (10, 10√3). Second leg: (-15√3/2, 15/2). Sum components; distance = 25 km."
+    },
+    {
+      "id": 376,
+      "question": "Construct a triangle with sides 7 cm, 5 cm, and included angle 45°. Describe steps.",
+      "answer": "Draw base AB=7 cm. At A construct 45° angle. Mark AC=5 cm along this line. Join BC."
+    },
+    {
+      "id": 377,
+      "question": "The locus of a point P such that its distance from (3,0) is always 5. Write the equation.",
+      "answer": "Circle: (x-3)² + y² = 25."
+    },
+    {
+      "id": 378,
+      "question": "Find the number of terms in the AP 7, 11, 15,..., 63.",
+      "answer": "a=7, d=4, l=63. n = (63-7)/4 + 1 = 15."
+    },
+    {
+      "id": 379,
+      "question": "The sum of the first n terms of a series is n²+2n. Find the nth term.",
+      "answer": "Tₙ = Sₙ - Sₙ₋₁ = (n²+2n) - [(n-1)²+2(n-1)] = 2n+1."
+    },
+    {
+      "id": 380,
+      "question": "The mean of 5 numbers is 8. If four are 6, 7, 9, 10, find the fifth.",
+      "answer": "Sum = 40; given sum = 32; fifth = 8."
+    },
+    {
+      "id": 381,
+      "question": "The standard deviation of a set is 4. If each data point is multiplied by 3, what is the new SD?",
+      "answer": "New SD = 3 × 4 = 12."
+    },
+    {
+      "id": 382,
+      "question": "The correlation coefficient between two variables is -0.9. Interpret this value.",
+      "answer": "Strong negative linear relationship."
+    },
+    {
+      "id": 383,
+      "question": "Fit a straight line y = a + bx to data: (1,2), (2,3), (3,5). Find b and a.",
+      "answer": "n=3, Σx=6, Σy=10, Σxy=23, Σx²=14. b = (3×23-6×10)/(3×14-36) = 9/6 = 1.5. a = (10-1.5×6)/3 = 1/3. y = 0.333 + 1.5x."
+    },
+    {
+      "id": 384,
+      "question": "A fair coin is tossed 4 times. Find the probability of at least 3 heads.",
+      "answer": "P(3H) = C(4,3)(½)⁴ = 4/16; P(4H) = 1/16. Total = 5/16."
+    },
+    {
+      "id": 385,
+      "question": "From a standard deck, find the probability of drawing a king or a heart.",
+      "answer": "P(K∪H) = 4/52 + 13/52 - 1/52 = 16/52 = 4/13."
+    },
+    {
+      "id": 386,
+      "question": "In how many ways can 6 people sit around a circular table?",
+      "answer": "(6-1)! = 5! = 120 ways."
+    },
+    {
+      "id": 387,
+      "question": "Evaluate ⁵P₂.",
+      "answer": "5!/(5-2)! = 5!/3! = 20."
+    },
+    {
+      "id": 388,
+      "question": "Evaluate ⁷C₃.",
+      "answer": "7!/(3!4!) = 35."
+    },
+    {
+      "id": 389,
+      "question": "Write the expansion of (1+x)⁵ up to the x² term.",
+      "answer": "1 + 5x + 10x² + ..."
+    },
+    {
+      "id": 390,
+      "question": "Find the coefficient of x³ in (2+x)⁵.",
+      "answer": "C(5,3)×2² = 10×4 = 40."
+    },
+    {
+      "id": 391,
+      "question": "Evaluate i⁹⁹.",
+      "answer": "99 mod 4 = 3; i³ = -i."
+    },
+    {
+      "id": 392,
+      "question": "Find the modulus and argument of -1 + i√3.",
+      "answer": "r = √(1+3) = 2. arg = tan⁻¹(√3/-1) = 120° (2π/3)."
+    },
+    {
+      "id": 393,
+      "question": "Write 3(cos30° + i sin30°) in rectangular form.",
+      "answer": "3(√3/2 + i/2) = (3√3/2) + i(3/2)."
+    },
+    {
+      "id": 394,
+      "question": "Solve z² = i.",
+      "answer": "i = cos90°+i sin90°. z = cos45°+i sin45° or cos225°+i sin225° = (√2/2)± i(√2/2)."
+    },
+    {
+      "id": 395,
+      "question": "Determine the truth set of the open sentence x² < 9 over integers.",
+      "answer": "x = -2, -1, 0, 1, 2."
+    },
+    {
+      "id": 396,
+      "question": "Let p: 'It is raining', q: 'The ground is wet'. Write 'If it is raining then the ground is wet' in symbols.",
+      "answer": "p → q."
+    },
+    {
+      "id": 397,
+      "question": "State the contrapositive of p → q.",
+      "answer": "~q → ~p."
+    },
+    {
+      "id": 398,
+      "question": "Define the symmetric difference of sets A and B.",
+      "answer": "(A\\B) ∪ (B\\A) or (A∪B) \\ (A∩B)."
+    },
+    {
+      "id": 399,
+      "question": "If A ⊂ B, what is A ∩ B?",
+      "answer": "A ∩ B = A."
+    },
+    {
+      "id": 400,
+      "question": "Shade the region (A∪B) ∩ C' on a Venn diagram.",
+      "answer": "Shade all parts of A∪B that are outside C."
+    },
+    {
+      "id": 401,
+      "question": "Convert 432₅ to base 10.",
+      "answer": "4×25 + 3×5 + 2 = 100 + 15 + 2 = 117."
+    },
+    {
+      "id": 402,
+      "question": "Convert 29₁₀ to base 3.",
+      "answer": "29/3=9 r2; 9/3=3 r0; 3/3=1 r0; 1/3=0 r1 → 1002₃."
+    },
+    {
+      "id": 403,
+      "question": "Evaluate 1101₂ × 101₂.",
+      "answer": "13 × 5 = 65₁₀ = 1000001₂."
+    },
+    {
+      "id": 404,
+      "question": "Find the square root of 1000000₂.",
+      "answer": "1000000₂ = 64. √64 = 8 = 1000₂."
+    },
+    {
+      "id": 405,
+      "question": "A number is 24 in base 10. Write it in base 6.",
+      "answer": "24/6=4 r0 → 40₆."
+    },
+    {
+      "id": 406,
+      "question": "Determine the gradient of the curve y = x² + 2x at x = 1.",
+      "answer": "dy/dx = 2x+2. At x=1, gradient = 4."
+    },
+    {
+      "id": 407,
+      "question": "Find the equation of the normal to the curve y = x² at (2,4).",
+      "answer": "Slope of tangent = 4; normal slope = -1/4. y-4 = -1/4(x-2) → x+4y = 18."
+    },
+    {
+      "id": 408,
+      "question": "The radius of a sphere is increasing at 2 cm/s. Find the rate of increase of volume when r = 5 cm.",
+      "answer": "V = 4/3 πr³. dV/dt = 4πr²(dr/dt) = 4π×25×2 = 200π cm³/s."
+    },
+    {
+      "id": 409,
+      "question": "Find the stationary points of y = x³ - 3x and classify them.",
+      "answer": "dy/dx = 3x²-3 = 0 → x=±1. d²y/dx² = 6x. At x=1, min (d²y/dx²=6>0). At x=-1, max (d²y/dx²=-6<0). Points: (1,-2) min, (-1,2) max."
+    },
+    {
+      "id": 410,
+      "question": "Sketch y = (x-2)² - 1, showing the vertex.",
+      "answer": "Parabola opening upward, vertex at (2,-1)."
+    },
+    {
+      "id": 411,
+      "question": "Find the area of a segment of a circle of radius 7 cm, with a chord subtending 60° at the centre.",
+      "answer": "Sector area = (60/360)×π×49 = 154/6 = 25.67 cm². Triangle = ½×7×7×sin60 = 21.22 cm². Segment = 4.45 cm²."
+    },
+    {
+      "id": 412,
+      "question": "A chord of length 6 cm is 4 cm from the centre. Find the radius of the circle.",
+      "answer": "r² = 4² + 3² = 25 → r = 5 cm."
+    },
+    {
+      "id": 413,
+      "question": "Find the length of the arc of a circle of radius 14 cm, subtending 45° at the centre.",
+      "answer": "Arc length = (45/360)×2×(22/7)×14 = (1/8)×88 = 11 cm."
+    },
+    {
+      "id": 414,
+      "question": "A sector has area 77 cm², radius 7 cm. Find the angle of the sector.",
+      "answer": "77 = (θ/360)×(22/7)×49 → 77 = θ×(154/360) → θ = 77×360/154 = 180°."
+    },
+    {
+      "id": 415,
+      "question": "A prism has a triangular base with sides 3 cm, 4 cm, 5 cm and length 10 cm. Find its volume.",
+      "answer": "Base area = ½×3×4 = 6 cm². Volume = 6×10 = 60 cm³."
+    },
+    {
+      "id": 416,
+      "question": "The ratio of volumes of two spheres is 8:27. Find the ratio of their surface areas.",
+      "answer": "Volume ratio = (r₁/r₂)³ = 8/27 → r₁/r₂ = 2/3. Surface area ratio = (2/3)² = 4/9."
+    },
+    {
+      "id": 417,
+      "question": "Find the total surface area of a hemisphere of radius 7 cm (include base).",
+      "answer": "Curved = 2πr², base = πr². Total = 3πr² = 3×(22/7)×49 = 462 cm²."
+    },
+    {
+      "id": 418,
+      "question": "A frustum of a cone has top radius 3 cm, bottom radius 7 cm, height 6 cm. Find the volume.",
+      "answer": "V = (1/3)πh(R²+Rr+r²) = (1/3)×(22/7)×6×(49+21+9) = 2×(22/7)×79 = 496.57 cm³."
+    },
+    {
+      "id": 419,
+      "question": "A pyramid has a square base of side 6 cm and height 9 cm. Find its volume and slant height.",
+      "answer": "Volume = (1/3)×36×9 = 108 cm³. Slant height of face = √(3²+9²) = √90 = 3√10 cm."
+    },
+    {
+      "id": 420,
+      "question": "A plane flies 300 km on bearing 150° then 400 km on bearing 060°. How far from start?",
+      "answer": "Using components: resultant distance ≈ 500 km."
+    }
+  ]
+}
