@@ -1,0 +1,1804 @@
+```json
+[
+  {
+    "question": "The organelle that produces energy in the form of ATP is the",
+    "options": "A) ribosome  B) mitochondrion  C) lysosome  D) Golgi body",
+    "answer": "B",
+    "solution": "The mitochondrion is the site of aerobic respiration, producing ATP."
+  },
+  {
+    "question": "The process by which plants manufacture their food is",
+    "options": "A) respiration  B) transpiration  C) photosynthesis  D) digestion",
+    "answer": "C",
+    "solution": "Photosynthesis uses sunlight, CO₂, and water to produce glucose."
+  },
+  {
+    "question": "Which of the following is a prokaryotic organism?",
+    "options": "A) Amoeba  B) Yeast  C) Bacterium  D) Spirogyra",
+    "answer": "C",
+    "solution": "Bacteria lack a true nucleus and membrane-bound organelles."
+  },
+  {
+    "question": "The vascular tissue responsible for transporting water and minerals in plants is",
+    "options": "A) xylem  B) phloem  C) cambium  D) parenchyma",
+    "answer": "A",
+    "solution": "Xylem conducts water and dissolved minerals upward from the roots."
+  },
+  {
+    "question": "The human vertebral column consists of how many vertebrae?",
+    "options": "A) 26  B) 33  C) 206  D) 12",
+    "answer": "B",
+    "solution": "33 vertebrae: 7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 4 coccygeal."
+  },
+  {
+    "question": "Which blood vessel carries blood away from the heart?",
+    "options": "A) Vein  B) Capillary  C) Artery  D) Venule",
+    "answer": "C",
+    "solution": "Arteries carry blood away from the heart (except pulmonary artery)."
+  },
+  {
+    "question": "The functional unit of the kidney is the",
+    "options": "A) neuron  B) nephron  C) alveolus  D) villus",
+    "answer": "B",
+    "solution": "Each nephron filters blood and forms urine."
+  },
+  {
+    "question": "The male gamete in flowering plants is contained in the",
+    "options": "A) ovary  B) pollen grain  C) ovule  D) stigma",
+    "answer": "B",
+    "solution": "Pollen grains produce the male gametes (sperm cells)."
+  },
+  {
+    "question": "Deficiency of vitamin C causes",
+    "options": "A) scurvy  B) rickets  C) beriberi  D) pellagra",
+    "answer": "A",
+    "solution": "Vitamin C is needed for collagen synthesis; lack causes scurvy."
+  },
+  {
+    "question": "The exchange of gases in leaves occurs through",
+    "options": "A) roots  B) stomata  C) flowers  D) fruits",
+    "answer": "B",
+    "solution": "Stomata are tiny pores that allow CO₂ in and O₂ out."
+  },
+  {
+    "question": "The main site of digestion and absorption of nutrients in humans is the",
+    "options": "A) stomach  B) large intestine  C) small intestine  D) oesophagus",
+    "answer": "C",
+    "solution": "The small intestine has villi that absorb nutrients."
+  },
+  {
+    "question": "DNA is primarily located in the",
+    "options": "A) cytoplasm  B) cell membrane  C) nucleus  D) ribosome",
+    "answer": "C",
+    "solution": "In eukaryotes, DNA is enclosed in the nucleus."
+  },
+  {
+    "question": "Mitosis produces daughter cells that are",
+    "options": "A) haploid  B) genetically different  C) genetically identical to the parent  D) gametes",
+    "answer": "C",
+    "solution": "Mitosis is equational division; same chromosome number and genetic content."
+  },
+  {
+    "question": "An organism with two identical alleles for a trait is",
+    "options": "A) heterozygous  B) homozygous  C) hemizygous  D) hybrid",
+    "answer": "B",
+    "solution": "Homozygous means both alleles are the same (e.g., AA or aa)."
+  },
+  {
+    "question": "The feeding relationships in a community can be represented by a",
+    "options": "A) food web  B) pyramid of numbers  C) food chain  D) all of the above",
+    "answer": "D",
+    "solution": "All are ecological representations of energy flow and feeding."
+  },
+  {
+    "question": "The process that converts nitrates to atmospheric nitrogen is",
+    "options": "A) nitrification  B) nitrogen fixation  C) denitrification  D) ammonification",
+    "answer": "C",
+    "solution": "Denitrifying bacteria reduce nitrates to N₂ gas."
+  },
+  {
+    "question": "A pure-breeding tall plant (TT) crossed with a dwarf (tt) produces F₁ that are",
+    "options": "A) all tall  B) all dwarf  C) 50% tall, 50% dwarf  D) 75% tall",
+    "answer": "A",
+    "solution": "F₁ genotype Tt; tall is dominant."
+  },
+  {
+    "question": "The organelle that packages and transports proteins is the",
+    "options": "A) ribosome  B) Golgi apparatus  C) lysosome  D) nucleus",
+    "answer": "B",
+    "solution": "The Golgi modifies, sorts, and packages proteins for secretion."
+  },
+  {
+    "question": "The waxy layer that prevents water loss from leaves is the",
+    "options": "A) epidermis  B) cuticle  C) palisade layer  D) stomata",
+    "answer": "B",
+    "solution": "Cuticle is a waterproof layer covering the epidermis."
+  },
+  {
+    "question": "Malaria is caused by a",
+    "options": "A) virus  B) bacterium  C) protozoan  D) fungus",
+    "answer": "C",
+    "solution": "The protozoan *Plasmodium* is the causative agent of malaria."
+  },
+  {
+    "question": "The lungs are protected by the",
+    "options": "A) skull  B) rib cage  C) vertebral column  D) pelvis",
+    "answer": "B",
+    "solution": "The rib cage encloses and shields the lungs and heart."
+  },
+  {
+    "question": "Oxygen is transported in the blood mainly by",
+    "options": "A) plasma  B) platelets  C) white blood cells  D) haemoglobin in red blood cells",
+    "answer": "D",
+    "solution": "Haemoglobin binds oxygen to form oxyhaemoglobin."
+  },
+  {
+    "question": "The growth response of a plant toward light is",
+    "options": "A) geotropism  B) hydrotropism  C) phototropism  D) thigmotropism",
+    "answer": "C",
+    "solution": "Positive phototropism is growth towards light."
+  },
+  {
+    "question": "The sex chromosomes for a human female are",
+    "options": "A) XY  B) XX  C) YY  D) XO",
+    "answer": "B",
+    "solution": "Females have two X chromosomes."
+  },
+  {
+    "question": "Digestion of starch begins in the",
+    "options": "A) stomach  B) mouth  C) small intestine  D) large intestine",
+    "answer": "B",
+    "solution": "Salivary amylase (ptyalin) breaks down starch in the mouth."
+  },
+  {
+    "question": "The liquid portion of blood is called",
+    "options": "A) serum  B) plasma  C) lymph  D) tissue fluid",
+    "answer": "B",
+    "solution": "Plasma is the fluid component with clotting factors."
+  },
+  {
+    "question": "The longest bone in the human body is the",
+    "options": "A) humerus  B) femur  C) tibia  D) radius",
+    "answer": "B",
+    "solution": "The femur (thigh bone) is the longest and strongest bone."
+  },
+  {
+    "question": "An abiotic factor in an ecosystem is",
+    "options": "A) temperature  B) competition  C) predation  D) symbiosis",
+    "answer": "A",
+    "solution": "Abiotic factors are non-living (temperature, light, water)."
+  },
+  {
+    "question": "Fungi and bacteria that break down dead organic matter are",
+    "options": "A) producers  B) primary consumers  C) decomposers  D) herbivores",
+    "answer": "C",
+    "solution": "Decomposers recycle nutrients by breaking down dead organisms."
+  },
+  {
+    "question": "The condition of low red blood cell count or haemoglobin is",
+    "options": "A) leukaemia  B) anaemia  C) polycythaemia  D) haemophilia",
+    "answer": "B",
+    "solution": "Anaemia results in reduced oxygen-carrying capacity of blood."
+  },
+  {
+    "question": "The removal of undigested food from the body is called",
+    "options": "A) egestion  B) excretion  C) digestion  D) ingestion",
+    "answer": "A",
+    "solution": "Egestion is elimination of faeces; excretion is removal of metabolic waste."
+  },
+  {
+    "question": "Which organ produces bile?",
+    "options": "A) Gall bladder  B) Pancreas  C) Liver  D) Stomach",
+    "answer": "C",
+    "solution": "The liver produces bile, which is stored in the gall bladder."
+  },
+  {
+    "question": "The enzyme that breaks down proteins in the stomach is",
+    "options": "A) amylase  B) pepsin  C) lipase  D) maltase",
+    "answer": "B",
+    "solution": "Pepsin is secreted as pepsinogen and activated by HCl."
+  },
+  {
+    "question": "The valve between the right atrium and right ventricle is the",
+    "options": "A) bicuspid  B) tricuspid  C) semi-lunar  D) aortic",
+    "answer": "B",
+    "solution": "Tricuspid valve prevents backflow into the right atrium."
+  },
+  {
+    "question": "The functional unit of the nervous system is the",
+    "options": "A) neuron  B) axon  C) synapse  D) dendrite",
+    "answer": "A",
+    "solution": "The neuron is the basic structural and functional unit."
+  },
+  {
+    "question": "The hormone that regulates blood sugar level by converting glucose to glycogen is",
+    "options": "A) insulin  B) glucagon  C) thyroxine  D) adrenaline",
+    "answer": "A",
+    "solution": "Insulin lowers blood glucose by promoting glycogen storage."
+  },
+  {
+    "question": "The part of the brain that controls balance and coordination is the",
+    "options": "A) cerebrum  B) cerebellum  C) medulla oblongata  D) hypothalamus",
+    "answer": "B",
+    "solution": "The cerebellum maintains posture, balance, and fine motor coordination."
+  },
+  {
+    "question": "In the eye, the structure that controls the amount of light entering is the",
+    "options": "A) cornea  B) lens  C) iris  D) retina",
+    "answer": "C",
+    "solution": "The iris adjusts the size of the pupil."
+  },
+  {
+    "question": "The outermost layer of the skin is the",
+    "options": "A) dermis  B) epidermis  C) hypodermis  D) subcutaneous layer",
+    "answer": "B",
+    "solution": "The epidermis is the protective outer layer."
+  },
+  {
+    "question": "The endocrine gland that secretes thyroxine is the",
+    "options": "A) pituitary  B) thyroid  C) adrenal  D) pancreas",
+    "answer": "B",
+    "solution": "The thyroid gland produces thyroxine, which regulates metabolism."
+  },
+  {
+    "question": "A food chain always starts with a",
+    "options": "A) consumer  B) herbivore  C) producer  D) decomposer",
+    "answer": "C",
+    "solution": "Producers (plants) convert sunlight into chemical energy."
+  },
+  {
+    "question": "The term for a group of organisms of the same species living in an area is",
+    "options": "A) community  B) population  C) ecosystem  D) biome",
+    "answer": "B",
+    "solution": "Population refers to all individuals of one species in a defined area."
+  },
+  {
+    "question": "The symbiotic relationship where both organisms benefit is called",
+    "options": "A) parasitism  B) commensalism  C) mutualism  D) predation",
+    "answer": "C",
+    "solution": "Mutualism benefits both partners, e.g., lichen (algae + fungus)."
+  },
+  {
+    "question": "The process of water vapour loss from plant leaves is",
+    "options": "A) guttation  B) transpiration  C) evaporation  D) condensation",
+    "answer": "B",
+    "solution": "Transpiration is the loss of water vapour through stomata."
+  },
+  {
+    "question": "The waxy substance deposited in the walls of cork cells is",
+    "options": "A) lignin  B) cutin  C) suberin  D) cellulose",
+    "answer": "C",
+    "solution": "Suberin makes cork cells impermeable and protects the plant."
+  },
+  {
+    "question": "The tissue that transports manufactured food in plants is",
+    "options": "A) xylem  B) phloem  C) cambium  D) collenchyma",
+    "answer": "B",
+    "solution": "Phloem transports sugars (translocation) from leaves to other parts."
+  },
+  {
+    "question": "The male part of a flower is the",
+    "options": "A) carpel  B) stamen  C) petal  D) sepal",
+    "answer": "B",
+    "solution": "Stamen consists of anther and filament, produces pollen."
+  },
+  {
+    "question": "The female part of a flower is the",
+    "options": "A) stamen  B) sepal  C) carpel (pistil)  D) petal",
+    "answer": "C",
+    "solution": "The carpel includes stigma, style, and ovary."
+  },
+  {
+    "question": "Fertilization in flowering plants is called double fertilization because",
+    "options": "A) two pollen tubes enter  B) one sperm fertilises egg, another fuses with polar nuclei  C) two eggs are fertilised  D) two ovaries are involved",
+    "answer": "B",
+    "solution": "One sperm forms zygote (2n), the other forms endosperm (3n)."
+  },
+  {
+    "question": "The seed structure that stores food for the embryo is the",
+    "options": "A) plumule  B) radicle  C) cotyledon  D) testa",
+    "answer": "C",
+    "solution": "Cotyledons (seed leaves) store nutrients for germination."
+  },
+  {
+    "question": "The type of germination where cotyledons remain underground is",
+    "options": "A) epigeal  B) hypogeal  C) viviparous  D) vegetative",
+    "answer": "B",
+    "solution": "Hypogeal germination, e.g., maize, keeps cotyledons below soil."
+  },
+  {
+    "question": "The structure that develops into fruit after fertilization is the",
+    "options": "A) ovule  B) ovary  C) stigma  D) style",
+    "answer": "B",
+    "solution": "The ovary wall becomes the fruit; ovules become seeds."
+  },
+  {
+    "question": "A plant that grows on another plant without harming it is an",
+    "options": "A) parasite  B) saprophyte  C) epiphyte  D) symbiont",
+    "answer": "C",
+    "solution": "Epiphytes (e.g., orchids) grow on other plants for support only."
+  },
+  {
+    "question": "The vitamin that helps in blood clotting is",
+    "options": "A) vitamin A  B) vitamin D  C) vitamin E  D) vitamin K",
+    "answer": "D",
+    "solution": "Vitamin K is essential for synthesis of clotting factors."
+  },
+  {
+    "question": "The disease caused by iodine deficiency is",
+    "options": "A) anaemia  B) goitre  C) kwashiorkor  D) scurvy",
+    "answer": "B",
+    "solution": "Iodine is needed for thyroxine; deficiency causes goitre."
+  },
+  {
+    "question": "The process of sperm production is called",
+    "options": "A) oogenesis  B) spermatogenesis  C) ovulation  D) copulation",
+    "answer": "B",
+    "solution": "Spermatogenesis occurs in seminiferous tubules of testes."
+  },
+  {
+    "question": "The tube that carries sperm from the testes to the urethra is the",
+    "options": "A) ureter  B) vas deferens  C) epididymis  D) seminal vesicle",
+    "answer": "B",
+    "solution": "The vas deferens transports sperm during ejaculation."
+  },
+  {
+    "question": "The placenta functions in",
+    "options": "A) protection only  B) gas exchange, nutrient transfer, waste removal  C) locomotion  D) hormone production only",
+    "answer": "B",
+    "solution": "The placenta allows exchange between mother and foetus."
+  },
+  {
+    "question": "The first milk produced after childbirth, rich in antibodies, is",
+    "options": "A) colostrum  B) milk  C) plasma  D) serum",
+    "answer": "A",
+    "solution": "Colostrum provides passive immunity."
+  },
+  {
+    "question": "The process of shedding the uterine lining is",
+    "options": "A) ovulation  B) fertilisation  C) menstruation  D) implantation",
+    "answer": "C",
+    "solution": "Menstruation occurs if no pregnancy, shedding endometrium."
+  },
+  {
+    "question": "The hormone that stimulates ovulation is",
+    "options": "A) FSH  B) LH  C) oestrogen  D) progesterone",
+    "answer": "B",
+    "solution": "Luteinising hormone (LH) surge triggers ovulation."
+  },
+  {
+    "question": "A caterpillar is the larval stage of a",
+    "options": "A) butterfly  B) housefly  C) mosquito  D) beetle",
+    "answer": "A",
+    "solution": "Butterflies and moths have caterpillar larvae."
+  },
+  {
+    "question": "Complete metamorphosis has four stages:",
+    "options": "A) egg, nymph, adult  B) egg, larva, pupa, adult  C) egg, pupa, nymph  D) larva, pupa, egg",
+    "answer": "B",
+    "solution": "Complete metamorphosis includes egg, larva, pupa, adult."
+  },
+  {
+    "question": "The type of respiration that requires oxygen is",
+    "options": "A) fermentation  B) anaerobic  C) aerobic  D) glycolysis",
+    "answer": "C",
+    "solution": "Aerobic respiration uses oxygen to fully oxidise glucose."
+  },
+  {
+    "question": "The end product of anaerobic respiration in yeast is",
+    "options": "A) lactic acid  B) ethanol and CO₂  C) water and CO₂  D) pyruvate",
+    "answer": "B",
+    "solution": "Yeast ferments glucose to ethanol and CO₂."
+  },
+  {
+    "question": "The number of ATP molecules produced from one glucose in aerobic respiration is",
+    "options": "A) 2  B) 4  C) 36–38  D) 10",
+    "answer": "C",
+    "solution": "Complete oxidation yields about 36–38 ATP."
+  },
+  {
+    "question": "The pigment that carries oxygen in muscle is",
+    "options": "A) haemoglobin  B) myoglobin  C) melanin  D) cytochrome",
+    "answer": "B",
+    "solution": "Myoglobin stores oxygen in muscle tissue."
+  },
+  {
+    "question": "The functional unit of the lung is the",
+    "options": "A) bronchiole  B) alveolus  C) trachea  D) bronchus",
+    "answer": "B",
+    "solution": "Alveoli are the site of gas exchange."
+  },
+  {
+    "question": "The process by which oxygen moves from alveoli into blood is",
+    "options": "A) active transport  B) diffusion  C) osmosis  D) filtration",
+    "answer": "B",
+    "solution": "Gases diffuse down partial pressure gradients."
+  },
+  {
+    "question": "The structure that prevents food from entering the trachea is the",
+    "options": "A) pharynx  B) larynx  C) epiglottis  D) oesophagus",
+    "answer": "C",
+    "solution": "The epiglottis covers the glottis during swallowing."
+  },
+  {
+    "question": "The excretory product of birds and reptiles is",
+    "options": "A) urea  B) uric acid  C) ammonia  D) creatinine",
+    "answer": "B",
+    "solution": "Uric acid is a semi-solid paste that conserves water."
+  },
+  {
+    "question": "The main nitrogenous waste in humans is",
+    "options": "A) uric acid  B) ammonia  C) urea  D) nitrate",
+    "answer": "C",
+    "solution": "Humans excrete urea produced in the liver."
+  },
+  {
+    "question": "The hormone ADH (vasopressin) acts on the",
+    "options": "A) glomerulus  B) Bowman's capsule  C) collecting duct  D) loop of Henle",
+    "answer": "C",
+    "solution": "ADH increases water reabsorption in collecting ducts."
+  },
+  {
+    "question": "The part of the nephron where filtration occurs is the",
+    "options": "A) loop of Henle  B) distal tubule  C) glomerulus & Bowman's capsule  D) collecting duct",
+    "answer": "C",
+    "solution": "Blood is filtered under pressure in the glomerulus into Bowman's capsule."
+  },
+  {
+    "question": "The term for a neuron that carries impulses from the CNS to muscles is",
+    "options": "A) sensory neuron  B) motor neuron  C) relay neuron  D) interneuron",
+    "answer": "B",
+    "solution": "Motor (efferent) neurons transmit signals to effectors."
+  },
+  {
+    "question": "The gap between two neurons is called a",
+    "options": "A) dendrite  B) axon  C) synapse  D) myelin",
+    "answer": "C",
+    "solution": "The synapse is the junction where neurotransmitters are released."
+  },
+  {
+    "question": "The part of the brain that controls heartbeat and breathing is the",
+    "options": "A) cerebrum  B) cerebellum  C) medulla oblongata  D) thalamus",
+    "answer": "C",
+    "solution": "The medulla oblongata regulates vital autonomic functions."
+  },
+  {
+    "question": "The light-sensitive cells in the retina are",
+    "options": "A) cones only  B) rods and cones  C) rods only  D) bipolar cells",
+    "answer": "B",
+    "solution": "Rods for dim light, cones for colour."
+  },
+  {
+    "question": "The hormone that prepares the uterus for pregnancy is",
+    "options": "A) oestrogen  B) progesterone  C) FSH  D) LH",
+    "answer": "B",
+    "solution": "Progesterone thickens the endometrium."
+  },
+  {
+    "question": "The ecological pyramid that is always upright is the pyramid of",
+    "options": "A) energy  B) biomass  C) numbers  D) all of these",
+    "answer": "A",
+    "solution": "Energy decreases at each trophic level, always upright."
+  },
+  {
+    "question": "The primary source of energy in an ecosystem is",
+    "options": "A) wind  B) sun  C) water  D) geothermal",
+    "answer": "B",
+    "solution": "Solar energy is trapped by producers through photosynthesis."
+  },
+  {
+    "question": "The term for organisms that make their own food is",
+    "options": "A) heterotrophs  B) autotrophs  C) decomposers  D) consumers",
+    "answer": "B",
+    "solution": "Autotrophs (e.g., green plants) synthesise organic molecules."
+  },
+  {
+    "question": "Which of the following is a renewable resource?",
+    "options": "A) Coal  B) Natural gas  C) Timber  D) Petrol",
+    "answer": "C",
+    "solution": "Timber can be replanted and regrown."
+  },
+  {
+    "question": "The process of converting atmospheric nitrogen to ammonia is",
+    "options": "A) denitrification  B) nitrification  C) nitrogen fixation  D) ammonification",
+    "answer": "C",
+    "solution": "Nitrogen-fixing bacteria convert N₂ to ammonia."
+  },
+  {
+    "question": "The type of variation that shows a continuous range is",
+    "options": "A) discontinuous  B) continuous  C) mutation  D) chromosomal",
+    "answer": "B",
+    "solution": "Continuous variation (e.g., height) is polygenic."
+  },
+  {
+    "question": "The theory of use and disuse of organs was proposed by",
+    "options": "A) Darwin  B) Lamarck  C) Mendel  D) Wallace",
+    "answer": "B",
+    "solution": "Lamarck suggested that acquired characteristics could be inherited."
+  },
+  {
+    "question": "The scientist known as the father of genetics is",
+    "options": "A) Darwin  B) Mendel  C) Watson  D) Crick",
+    "answer": "B",
+    "solution": "Gregor Mendel discovered the laws of inheritance."
+  },
+  {
+    "question": "A test cross is used to determine",
+    "options": "A) the phenotype of an organism  B) whether an organism is homozygous or heterozygous dominant  C) the number of chromosomes  D) the sex of an organism",
+    "answer": "B",
+    "solution": "Crossing with a homozygous recessive reveals unknown genotype."
+  },
+  {
+    "question": "A gene that masks the expression of another is",
+    "options": "A) recessive  B) dominant  C) codominant  D) allele",
+    "answer": "B",
+    "solution": "Dominant alleles are expressed in heterozygous condition."
+  },
+  {
+    "question": "The human blood group AB is an example of",
+    "options": "A) complete dominance  B) incomplete dominance  C) codominance  D) multiple alleles",
+    "answer": "C",
+    "solution": "Both A and B alleles are expressed equally in AB blood type."
+  },
+  {
+    "question": "DNA replication is described as",
+    "options": "A) conservative  B) semi-conservative  C) dispersive  D) random",
+    "answer": "B",
+    "solution": "Each new DNA molecule contains one old and one new strand."
+  },
+  {
+    "question": "The enzyme that unwinds DNA during replication is",
+    "options": "A) DNA polymerase  B) helicase  C) ligase  D) primase",
+    "answer": "B",
+    "solution": "Helicase breaks hydrogen bonds, unzipping the double helix."
+  },
+  {
+    "question": "The nitrogenous base found in RNA but not DNA is",
+    "options": "A) adenine  B) guanine  C) thymine  D) uracil",
+    "answer": "D",
+    "solution": "RNA uses uracil instead of thymine."
+  },
+  {
+    "question": "The triplet of bases on mRNA that codes for an amino acid is called",
+    "options": "A) anticodon  B) codon  C) exon  D) intron",
+    "answer": "B",
+    "solution": "Each codon specifies an amino acid during translation."
+  },
+  {
+    "question": "The process of protein synthesis where mRNA is made from DNA is",
+    "options": "A) replication  B) transcription  C) translation  D) transformation",
+    "answer": "B",
+    "solution": "Transcription occurs in the nucleus."
+  },
+  {
+    "question": "The site of protein synthesis in cells is the",
+    "options": "A) nucleus  B) ribosome  C) Golgi body  D) lysosome",
+    "answer": "B",
+    "solution": "Ribosomes translate mRNA into polypeptide chains."
+  },
+  {
+    "question": "A change in the DNA sequence is called a",
+    "options": "A) replication  B) mutation  C) translation  D) duplication",
+    "answer": "B",
+    "solution": "Mutations can be substitution, insertion, deletion."
+  },
+  {
+    "question": "Down syndrome in humans is caused by",
+    "options": "A) monosomy  B) trisomy 21  C) deletion  D) polyploidy",
+    "answer": "B",
+    "solution": "An extra copy of chromosome 21 results in Down syndrome."
+  },
+  {
+    "question": "The type of cell division that produces gametes is",
+    "options": "A) mitosis  B) meiosis  C) binary fission  D) budding",
+    "answer": "B",
+    "solution": "Meiosis reduces chromosome number by half."
+  },
+  {
+    "question": "The number of chromosomes in a human gamete is",
+    "options": "A) 23  B) 46  C) 22  D) 44",
+    "answer": "A",
+    "solution": "Haploid (n=23) gametes are produced by meiosis."
+  },
+  {
+    "question": "The process by which water moves across a semipermeable membrane is",
+    "options": "A) diffusion  B) active transport  C) osmosis  D) endocytosis",
+    "answer": "C",
+    "solution": "Osmosis is the net movement of water from dilute to concentrated solution."
+  },
+  {
+    "question": "Plasmolysis occurs when a plant cell is placed in a",
+    "options": "A) hypotonic solution  B) isotonic solution  C) hypertonic solution  D) pure water",
+    "answer": "C",
+    "solution": "Water leaves the cell, cytoplasm shrinks from cell wall."
+  },
+  {
+    "question": "The tissue that provides mechanical support in young stems is",
+    "options": "A) sclerenchyma  B) collenchyma  C) xylem  D) phloem",
+    "answer": "B",
+    "solution": "Collenchyma has thickened corners and supports growing regions."
+  },
+  {
+    "question": "The process of cell division in bacteria is",
+    "options": "A) mitosis  B) meiosis  C) binary fission  D) budding",
+    "answer": "C",
+    "solution": "Prokaryotes divide asexually by binary fission."
+  },
+  {
+    "question": "The plant hormone that promotes cell division is",
+    "options": "A) auxin  B) gibberellin  C) cytokinin  D) abscisic acid",
+    "answer": "C",
+    "solution": "Cytokinins stimulate cytokinesis and growth."
+  },
+  {
+    "question": "The phenomenon of bending toward light is mediated by",
+    "options": "A) gibberellin  B) auxin  C) ethylene  D) cytokinin",
+    "answer": "B",
+    "solution": "Auxin accumulates on the shaded side, causing differential growth."
+  },
+  {
+    "question": "The closure of stomata is promoted by the hormone",
+    "options": "A) auxin  B) gibberellin  C) abscisic acid (ABA)  D) cytokinin",
+    "answer": "C",
+    "solution": "ABA triggers stomatal closure during water stress."
+  },
+  {
+    "question": "The part of the seed that develops into the root is the",
+    "options": "A) plumule  B) radicle  C) cotyledon  D) epicotyl",
+    "answer": "B",
+    "solution": "The radicle is the embryonic root."
+  },
+  {
+    "question": "The type of fruit that develops from a single flower with multiple carpels is",
+    "options": "A) simple fruit  B) aggregate fruit  C) multiple fruit  D) accessory fruit",
+    "answer": "B",
+    "solution": "Aggregate fruits (e.g., strawberry) form from several carpels of one flower."
+  },
+  {
+    "question": "The kingdom that includes organisms with chitinous cell walls is",
+    "options": "A) Monera  B) Protista  C) Fungi  D) Plantae",
+    "answer": "C",
+    "solution": "Fungi have cell walls made of chitin."
+  },
+  {
+    "question": "The vector for the malaria parasite is the",
+    "options": "A) tsetse fly  B) female Anopheles mosquito  C) housefly  D) black fly",
+    "answer": "B",
+    "solution": "The female Anopheles mosquito transmits *Plasmodium*."
+  },
+  {
+    "question": "The disease characterized by sickle-shaped red blood cells is",
+    "options": "A) malaria  B) sickle-cell anaemia  C) leukaemia  D) thalassaemia",
+    "answer": "B",
+    "solution": "A point mutation in haemoglobin gene causes RBCs to sickle."
+  },
+  {
+    "question": "The pH of human blood is maintained at about",
+    "options": "A) 7.4  B) 6.8  C) 8.0  D) 5.5",
+    "answer": "A",
+    "solution": "Blood pH is tightly regulated around 7.35–7.45."
+  },
+  {
+    "question": "The enzyme that breaks down fats is",
+    "options": "A) amylase  B) lipase  C) pepsin  D) trypsin",
+    "answer": "B",
+    "solution": "Lipase hydrolyses lipids into fatty acids and glycerol."
+  },
+  {
+    "question": "The large intestine primarily absorbs",
+    "options": "A) amino acids  B) glucose  C) water and electrolytes  D) vitamins",
+    "answer": "C",
+    "solution": "The colon reabsorbs water and minerals."
+  },
+  {
+    "question": "The wave-like muscular contractions that move food along the gut are called",
+    "options": "A) segmentation  B) peristalsis  C) emulsification  D) churning",
+    "answer": "B",
+    "solution": "Peristalsis is the rhythmic contraction of smooth muscles."
+  },
+  {
+    "question": "The gland that secretes insulin and glucagon is the",
+    "options": "A) thyroid  B) adrenal  C) pancreas  D) pituitary",
+    "answer": "C",
+    "solution": "The islets of Langerhans in the pancreas produce these hormones."
+  },
+  {
+    "question": "The hormone that stimulates the breakdown of glycogen to glucose is",
+    "options": "A) insulin  B) glucagon  C) thyroxine  D) cortisol",
+    "answer": "B",
+    "solution": "Glucagon raises blood glucose level."
+  },
+  {
+    "question": "The part of the skeleton that protects the brain is the",
+    "options": "A) vertebral column  B) skull (cranium)  C) rib cage  D) pelvis",
+    "answer": "B",
+    "solution": "The cranium encloses the brain."
+  },
+  {
+    "question": "The type of joint found in the hip is",
+    "options": "A) hinge  B) ball and socket  C) pivot  D) gliding",
+    "answer": "B",
+    "solution": "Ball-and-socket joints allow multi-directional movement."
+  },
+  {
+    "question": "The protein that makes up the thick filament in muscle is",
+    "options": "A) actin  B) myosin  C) troponin  D) tropomyosin",
+    "answer": "B",
+    "solution": "Myosin heads bind to actin during contraction."
+  },
+  {
+    "question": "The energy for muscle contraction is provided by",
+    "options": "A) ATP  B) glucose  C) glycogen  D) fatty acids",
+    "answer": "A",
+    "solution": "ATP is the immediate energy source for cross-bridge cycling."
+  },
+  {
+    "question": "The part of the brain that regulates body temperature is the",
+    "options": "A) medulla  B) hypothalamus  C) cerebrum  D) cerebellum",
+    "answer": "B",
+    "solution": "The hypothalamus is the thermoregulatory centre."
+  },
+  {
+    "question": "The skin helps in thermoregulation by",
+    "options": "A) sweating and vasodilation/vasoconstriction  B) digestion  C) respiration  D) excretion only",
+    "answer": "A",
+    "solution": "Sweating cools; blood vessel diameter changes affect heat loss."
+  },
+  {
+    "question": "The hormone that increases heart rate and metabolic rate is",
+    "options": "A) insulin  B) thyroxine  C) oestrogen  D) prolactin",
+    "answer": "B",
+    "solution": "Thyroxine from the thyroid increases basal metabolic rate."
+  },
+  {
+    "question": "The gland that produces growth hormone is the",
+    "options": "A) thyroid  B) adrenal  C) pituitary  D) pancreas",
+    "answer": "C",
+    "solution": "The anterior pituitary secretes GH."
+  },
+  {
+    "question": "The hormone that stimulates milk production is",
+    "options": "A) oxytocin  B) prolactin  C) oestrogen  D) progesterone",
+    "answer": "B",
+    "solution": "Prolactin from anterior pituitary promotes lactation."
+  },
+  {
+    "question": "The part of the flower that produces pollen is the",
+    "options": "A) stigma  B) style  C) anther  D) ovary",
+    "answer": "C",
+    "solution": "The anther contains pollen sacs."
+  },
+  {
+    "question": "Pollination by wind is called",
+    "options": "A) entomophily  B) anemophily  C) hydrophily  D) zoophily",
+    "answer": "B",
+    "solution": "Wind-pollinated flowers are usually small, light pollen."
+  },
+  {
+    "question": "The fruit that develops without fertilization is",
+    "options": "A) true fruit  B) parthenocarpic fruit  C) aggregate fruit  D) multiple fruit",
+    "answer": "B",
+    "solution": "Parthenocarpy, e.g., banana."
+  },
+  {
+    "question": "The cell wall of plants is made of",
+    "options": "A) chitin  B) cellulose  C) protein  D) lignin",
+    "answer": "B",
+    "solution": "Cellulose is a polysaccharide that forms the primary plant cell wall."
+  },
+  {
+    "question": "The organelle that contains chlorophyll is the",
+    "options": "A) mitochondrion  B) chloroplast  C) ribosome  D) vacuole",
+    "answer": "B",
+    "solution": "Chloroplasts carry out photosynthesis."
+  },
+  {
+    "question": "The light-dependent stage of photosynthesis occurs in the",
+    "options": "A) stroma  B) grana (thylakoid membrane)  C) cytoplasm  D) nucleus",
+    "answer": "B",
+    "solution": "Light reactions take place in thylakoid membranes."
+  },
+  {
+    "question": "The Calvin cycle (dark stage) uses",
+    "options": "A) light directly  B) ATP and NADPH  C) oxygen  D) glucose",
+    "answer": "B",
+    "solution": "ATP and NADPH from light reactions drive carbon fixation."
+  },
+  {
+    "question": "The final electron acceptor in the electron transport chain is",
+    "options": "A) NADP⁺  B) oxygen  C) ATP  D) water",
+    "answer": "B",
+    "solution": "Oxygen accepts electrons, forming water."
+  },
+  {
+    "question": "The storage polysaccharide in animals is",
+    "options": "A) starch  B) glycogen  C) cellulose  D) chitin",
+    "answer": "B",
+    "solution": "Glycogen is stored in liver and muscles."
+  },
+  {
+    "question": "The building blocks of proteins are",
+    "options": "A) glucose  B) amino acids  C) fatty acids  D) nucleotides",
+    "answer": "B",
+    "solution": "Proteins are polymers of amino acids."
+  },
+  {
+    "question": "The type of bond that links amino acids is",
+    "options": "A) hydrogen bond  B) ionic bond  C) peptide bond  D) glycosidic bond",
+    "answer": "C",
+    "solution": "Peptide bonds form between carboxyl and amino groups."
+  },
+  {
+    "question": "The lipid that is a major component of cell membranes is",
+    "options": "A) triglyceride  B) phospholipid  C) wax  D) steroid",
+    "answer": "B",
+    "solution": "Phospholipids form the bilayer of membranes."
+  },
+  {
+    "question": "The model describing the cell membrane is the",
+    "options": "A) lock and key model  B) fluid mosaic model  C) induced fit model  D) unit membrane model",
+    "answer": "B",
+    "solution": "The fluid mosaic model describes the dynamic arrangement of lipids and proteins."
+  },
+  {
+    "question": "Passive transport across a membrane does not require",
+    "options": "A) concentration gradient  B) energy  C) carrier proteins  D) membrane",
+    "answer": "B",
+    "solution": "Passive transport uses kinetic energy, no ATP."
+  },
+  {
+    "question": "Active transport requires",
+    "options": "A) a concentration gradient  B) carrier proteins and ATP  C) osmosis  D) diffusion",
+    "answer": "B",
+    "solution": "Molecules move against the gradient using energy."
+  },
+  {
+    "question": "Endocytosis is the process of",
+    "options": "A) bulk movement out of cell  B) bulk movement into cell  C) water movement  D) ion movement",
+    "answer": "B",
+    "solution": "Cell engulfs material by infolding of membrane."
+  },
+  {
+    "question": "The primary function of white blood cells is",
+    "options": "A) oxygen transport  B) immunity and defence  C) clotting  D) nutrient transport",
+    "answer": "B",
+    "solution": "Leukocytes fight infection."
+  },
+  {
+    "question": "The blood cells that initiate clotting are",
+    "options": "A) erythrocytes  B) platelets  C) lymphocytes  D) monocytes",
+    "answer": "B",
+    "solution": "Platelets (thrombocytes) release clotting factors."
+  },
+  {
+    "question": "The liquid that bathes body cells is",
+    "options": "A) plasma  B) lymph  C) tissue fluid (interstitial fluid)  D) serum",
+    "answer": "C",
+    "solution": "Tissue fluid is formed from plasma and surrounds cells."
+  },
+  {
+    "question": "The lymphatic system returns fluid to the",
+    "options": "A) heart  B) blood circulation  C) lungs  D) kidneys",
+    "answer": "B",
+    "solution": "Lymph drains into subclavian veins."
+  },
+  {
+    "question": "The organ that destroys old red blood cells is the",
+    "options": "A) heart  B) spleen  C) kidney  D) lung",
+    "answer": "B",
+    "solution": "The spleen filters blood and removes aged RBCs."
+  },
+  {
+    "question": "The pigment that gives red blood cells their colour is",
+    "options": "A) melanin  B) haemoglobin  C) carotene  D) bilirubin",
+    "answer": "B",
+    "solution": "Haemoglobin is an iron-containing protein."
+  },
+  {
+    "question": "The number of chambers in the heart of a fish is",
+    "options": "A) two  B) three  C) four  D) one",
+    "answer": "A",
+    "solution": "Fish have a two-chambered heart (one atrium, one ventricle)."
+  },
+  {
+    "question": "Amphibians have a heart with",
+    "options": "A) two chambers  B) three chambers  C) four chambers  D) five chambers",
+    "answer": "B",
+    "solution": "Two atria, one ventricle."
+  },
+  {
+    "question": "The double circulation in mammals means blood passes through the heart",
+    "options": "A) once per cycle  B) twice per cycle  C) three times  D) does not pass",
+    "answer": "B",
+    "solution": "Pulmonary and systemic circuits."
+  },
+  {
+    "question": "The vein that carries oxygenated blood is the",
+    "options": "A) vena cava  B) pulmonary vein  C) hepatic vein  D) renal vein",
+    "answer": "B",
+    "solution": "Pulmonary vein returns oxygenated blood from lungs to left atrium."
+  },
+  {
+    "question": "The artery that carries deoxygenated blood is the",
+    "options": "A) aorta  B) pulmonary artery  C) carotid artery  D) renal artery",
+    "answer": "B",
+    "solution": "Pulmonary artery carries deoxygenated blood to lungs."
+  },
+  {
+    "question": "The heartbeat is initiated by the",
+    "options": "A) AV node  B) SA node (pacemaker)  C) bundle of His  D) Purkinje fibres",
+    "answer": "B",
+    "solution": "The sinoatrial node generates electrical impulses."
+  },
+  {
+    "question": "Systole refers to",
+    "options": "A) relaxation of heart  B) contraction of heart  C) filling of ventricles  D) opening of valves",
+    "answer": "B",
+    "solution": "Systole is the contraction phase."
+  },
+  {
+    "question": "The T-wave in an ECG represents",
+    "options": "A) atrial depolarization  B) ventricular depolarization  C) ventricular repolarization  D) atrial repolarization",
+    "answer": "C",
+    "solution": "T-wave corresponds to repolarization of ventricles."
+  },
+  {
+    "question": "The exchange of materials between blood and cells occurs in",
+    "options": "A) arteries  B) veins  C) capillaries  D) arterioles",
+    "answer": "C",
+    "solution": "Capillaries are one-cell thick, allowing diffusion."
+  },
+  {
+    "question": "The organ that detoxifies chemicals and metabolises drugs is the",
+    "options": "A) kidney  B) liver  C) spleen  D) stomach",
+    "answer": "B",
+    "solution": "The liver has many metabolic and detoxifying functions."
+  },
+  {
+    "question": "The main excretory product of mammals is",
+    "options": "A) ammonia  B) urea  C) uric acid  D) creatinine",
+    "answer": "B",
+    "solution": "Mammals are ureotelic."
+  },
+  {
+    "question": "The functional filtration unit of the kidney is the",
+    "options": "A) ureter  B) glomerulus  C) nephron  D) bladder",
+    "answer": "C",
+    "solution": "Each nephron filters blood and produces urine."
+  },
+  {
+    "question": "The tube that carries urine from the kidney to the bladder is the",
+    "options": "A) urethra  B) ureter  C) collecting duct  D) renal pelvis",
+    "answer": "B",
+    "solution": "Ureters connect kidneys to urinary bladder."
+  },
+  {
+    "question": "The hormone that promotes sodium reabsorption in the kidney is",
+    "options": "A) ADH  B) aldosterone  C) insulin  D) glucagon",
+    "answer": "B",
+    "solution": "Aldosterone from adrenal cortex increases Na⁺ reabsorption."
+  },
+  {
+    "question": "The part of the nephron with the lowest water permeability in the absence of ADH is the",
+    "options": "A) proximal tubule  B) descending limb  C) ascending limb  D) collecting duct",
+    "answer": "C",
+    "solution": "Ascending limb is impermeable to water."
+  },
+  {
+    "question": "The process of urine formation includes",
+    "options": "A) filtration, reabsorption, secretion  B) digestion, absorption  C) inhalation, exhalation  D) oxidation, reduction",
+    "answer": "A",
+    "solution": "These steps occur in the nephron."
+  },
+  {
+    "question": "The basic structural unit of the nervous system is the",
+    "options": "A) nephron  B) neuron  C) dendrite  D) axon",
+    "answer": "B",
+    "solution": "Neuron is the nerve cell."
+  },
+  {
+    "question": "The fatty sheath that insulates axons is the",
+    "options": "A) dendrite  B) myelin sheath  C) synapse  D) node of Ranvier",
+    "answer": "B",
+    "solution": "Myelin speeds up impulse conduction."
+  },
+  {
+    "question": "The neurotransmitter released at the neuromuscular junction is",
+    "options": "A) dopamine  B) serotonin  C) acetylcholine  D) adrenaline",
+    "answer": "C",
+    "solution": "Acetylcholine stimulates muscle contraction."
+  },
+  {
+    "question": "The reflex arc involves",
+    "options": "A) brain only  B) spinal cord only  C) sensory, relay, motor neurons and effector  D) motor neuron and muscle only",
+    "answer": "C",
+    "solution": "A reflex arc includes receptor, sensory, relay, motor neuron, effector."
+  },
+  {
+    "question": "The coloured part of the eye that controls pupil size is the",
+    "options": "A) cornea  B) iris  C) lens  D) retina",
+    "answer": "B",
+    "solution": "The iris contains muscles that dilate/constrict the pupil."
+  },
+  {
+    "question": "The structure that focuses light onto the retina is the",
+    "options": "A) cornea and lens  B) iris  C) pupil  D) sclera",
+    "answer": "A",
+    "solution": "Both cornea and lens refract light."
+  },
+  {
+    "question": "The photoreceptor cells responsible for colour vision are",
+    "options": "A) rods  B) cones  C) bipolar cells  D) ganglion cells",
+    "answer": "B",
+    "solution": "Cones are concentrated in the fovea and detect colour."
+  },
+  {
+    "question": "The fluid that fills the anterior chamber of the eye is",
+    "options": "A) aqueous humour  B) vitreous humour  C) tears  D) lymph",
+    "answer": "A",
+    "solution": "Aqueous humour nourishes the cornea and lens."
+  },
+  {
+    "question": "The part of the ear that converts sound vibrations into nerve impulses is the",
+    "options": "A) eardrum  B) cochlea  C) ossicles  D) pinna",
+    "answer": "B",
+    "solution": "The cochlea contains the organ of Corti with hair cells."
+  },
+  {
+    "question": "The sense of balance is maintained by the",
+    "options": "A) cochlea  B) semicircular canals  C) eardrum  D) auditory nerve",
+    "answer": "B",
+    "solution": "Semicircular canals detect rotational movement."
+  },
+  {
+    "question": "The hormone that controls metamorphosis in insects is",
+    "options": "A) thyroxine  B) ecdysone  C) auxin  D) insulin",
+    "answer": "B",
+    "solution": "Ecdysone (moulting hormone) regulates metamorphosis."
+  },
+  {
+    "question": "The process of shedding the exoskeleton in arthropods is",
+    "options": "A) moulting (ecdysis)  B) metamorphosis  C) regeneration  D) reproduction",
+    "answer": "A",
+    "solution": "Periodic shedding allows growth."
+  },
+  {
+    "question": "The type of development where the young resemble the adult is",
+    "options": "A) complete metamorphosis  B) incomplete metamorphosis  C) viviparous  D) oviparous",
+    "answer": "B",
+    "solution": "In incomplete metamorphosis, nymphs look like small adults."
+  },
+  {
+    "question": "The larval stage of a housefly is called",
+    "options": "A) caterpillar  B) maggot  C) nymph  D) wriggler",
+    "answer": "B",
+    "solution": "Housefly larvae are maggots."
+  },
+  {
+    "question": "The part of the flower that receives pollen is the",
+    "options": "A) style  B) stigma  C) anther  D) ovary",
+    "answer": "B",
+    "solution": "Stigma is the sticky surface for pollen grain adhesion."
+  },
+  {
+    "question": "The process of transfer of pollen from anther to stigma is",
+    "options": "A) fertilization  B) pollination  C) germination  D) dispersal",
+    "answer": "B",
+    "solution": "Pollination precedes fertilisation."
+  },
+  {
+    "question": "After fertilization, the ovule develops into a",
+    "options": "A) fruit  B) seed  C) flower  D) embryo",
+    "answer": "B",
+    "solution": "The ovule becomes the seed; the ovary becomes the fruit."
+  },
+  {
+    "question": "The agent of pollination for a flower with bright petals and scent is likely",
+    "options": "A) wind  B) water  C) insects  D) birds",
+    "answer": "C",
+    "solution": "Insect-pollinated flowers are showy and fragrant."
+  },
+  {
+    "question": "The male gametophyte in flowering plants is the",
+    "options": "A) pollen grain  B) embryo sac  C) ovule  D) anther",
+    "answer": "A",
+    "solution": "Pollen grain contains the male gametes."
+  },
+  {
+    "question": "The female gametophyte is the",
+    "options": "A) pollen grain  B) embryo sac  C) nucellus  D) integument",
+    "answer": "B",
+    "solution": "The embryo sac (within ovule) contains the egg cell."
+  },
+  {
+    "question": "A plant that needs two growing seasons to complete its life cycle is",
+    "options": "A) annual  B) biennial  C) perennial  D) ephemeral",
+    "answer": "B",
+    "solution": "Biennials, e.g., carrot, flower in second year."
+  },
+  {
+    "question": "The type of asexual reproduction in yeast is",
+    "options": "A) binary fission  B) budding  C) spore formation  D) fragmentation",
+    "answer": "B",
+    "solution": "Yeast reproduces by budding."
+  },
+  {
+    "question": "The vegetative propagation structure of ginger is a",
+    "options": "A) tuber  B) rhizome  C) bulb  D) corm",
+    "answer": "B",
+    "solution": "Ginger is a modified underground stem (rhizome)."
+  },
+  {
+    "question": "The male reproductive organ in humans that produces sperm is the",
+    "options": "A) epididymis  B) testis  C) vas deferens  D) seminal vesicle",
+    "answer": "B",
+    "solution": "Seminiferous tubules in the testes produce sperm."
+  },
+  {
+    "question": "The sac that holds the testes outside the body is the",
+    "options": "A) scrotum  B) penis  C) urethra  D) prostate",
+    "answer": "A",
+    "solution": "The scrotum maintains a lower temperature for spermatogenesis."
+  },
+  {
+    "question": "The female organ that produces eggs is the",
+    "options": "A) uterus  B) oviduct  C) ovary  D) cervix",
+    "answer": "C",
+    "solution": "Ovaries produce ova (eggs)."
+  },
+  {
+    "question": "Fertilization in humans normally occurs in the",
+    "options": "A) uterus  B) ovary  C) oviduct (fallopian tube)  D) cervix",
+    "answer": "C",
+    "solution": "Sperm meets egg in the fallopian tube."
+  },
+  {
+    "question": "The placenta is formed from tissues of the",
+    "options": "A) mother only  B) foetus only  C) both mother and foetus  D) umbilical cord",
+    "answer": "C",
+    "solution": "The placenta has maternal and foetal components."
+  },
+  {
+    "question": "The hormone detected in pregnancy tests is",
+    "options": "A) oestrogen  B) progesterone  C) human chorionic gonadotropin (hCG)  D) prolactin",
+    "answer": "C",
+    "solution": "hCG is produced after implantation."
+  },
+  {
+    "question": "The period of pregnancy is called",
+    "options": "A) menstruation  B) gestation  C) lactation  D) ovulation",
+    "answer": "B",
+    "solution": "Gestation is the development period from conception to birth."
+  },
+  {
+    "question": "The method of contraception that prevents ovulation is",
+    "options": "A) condom  B) IUD  C) oral contraceptive pill  D) diaphragm",
+    "answer": "C",
+    "solution": "The pill contains hormones that inhibit ovulation."
+  },
+  {
+    "question": "The hormone that causes uterine contractions during childbirth is",
+    "options": "A) oestrogen  B) prolactin  C) oxytocin  D) progesterone",
+    "answer": "C",
+    "solution": "Oxytocin stimulates contractions."
+  },
+  {
+    "question": "The stage of cell division where chromosomes align at the equator is",
+    "options": "A) prophase  B) metaphase  C) anaphase  D) telophase",
+    "answer": "B",
+    "solution": "Metaphase plate alignment occurs."
+  },
+  {
+    "question": "Crossing over occurs during",
+    "options": "A) prophase I of meiosis  B) metaphase  C) anaphase  D) interphase",
+    "answer": "A",
+    "solution": "Homologous chromosomes exchange genetic material."
+  },
+  {
+    "question": "The number of daughter cells produced in meiosis is",
+    "options": "A) two  B) four  C) six  D) eight",
+    "answer": "B",
+    "solution": "Meiosis yields four haploid cells."
+  },
+  {
+    "question": "The diploid number of chromosomes in humans is",
+    "options": "A) 23  B) 46  C) 44  D) 48",
+    "answer": "B",
+    "solution": "2n = 46 (22 pairs autosomes + XY or XX)."
+  },
+  {
+    "question": "A recessive trait is expressed only when",
+    "options": "A) in heterozygous condition  B) in homozygous condition  C) linked to X  D) dominant is absent",
+    "answer": "B",
+    "solution": "Recessive alleles are masked by dominant alleles."
+  },
+  {
+    "question": "The term for the physical expression of a gene is",
+    "options": "A) genotype  B) phenotype  C) allele  D) locus",
+    "answer": "B",
+    "solution": "Phenotype is the observable characteristic."
+  },
+  {
+    "question": "A mutation that involves a change in a single nucleotide is a",
+    "options": "A) chromosomal mutation  B) point mutation  C) frameshift  D) deletion",
+    "answer": "B",
+    "solution": "Point mutation: substitution, insertion, deletion of one base."
+  },
+  {
+    "question": "The type of mutation that shifts the reading frame is",
+    "options": "A) substitution  B) insertion or deletion (not multiple of three)  C) silent  D) missense",
+    "answer": "B",
+    "solution": "Frameshift mutation alters all downstream codons."
+  },
+  {
+    "question": "Natural selection operates on the",
+    "options": "A) genotype  B) phenotype  C) allele frequency only  D) DNA directly",
+    "answer": "B",
+    "solution": "Environment selects for traits expressed."
+  },
+  {
+    "question": "The term for the formation of new species is",
+    "options": "A) extinction  B) speciation  C) adaptation  D) migration",
+    "answer": "B",
+    "solution": "Speciation occurs when populations diverge reproductively."
+  },
+  {
+    "question": "Homologous structures indicate",
+    "options": "A) convergent evolution  B) divergent evolution  C) artificial selection  D) same function",
+    "answer": "B",
+    "solution": "Similar bone structure from common ancestor, different function."
+  },
+  {
+    "question": "The wings of a bird and an insect are examples of",
+    "options": "A) homologous structures  B) analogous structures  C) vestigial structures  D) adaptive radiation",
+    "answer": "B",
+    "solution": "Different origin, similar function (convergent evolution)."
+  },
+  {
+    "question": "The human appendix is considered a",
+    "options": "A) vestigial organ  B) homologous organ  C) vital organ  D) excretory organ",
+    "answer": "A",
+    "solution": "It is a remnant of a larger cecum in ancestors."
+  },
+  {
+    "question": "The process by which bacteria take up foreign DNA is",
+    "options": "A) conjugation  B) transformation  C) transduction  D) binary fission",
+    "answer": "B",
+    "solution": "Transformation involves uptake of naked DNA from environment."
+  },
+  {
+    "question": "Bacterial conjugation involves transfer of DNA through a",
+    "options": "A) pilus  B) flagellum  C) capsule  D) plasmid",
+    "answer": "A",
+    "solution": "The sex pilus connects donor and recipient cells."
+  },
+  {
+    "question": "Viruses are considered non-living because they",
+    "options": "A) have no cell structure and cannot reproduce independently  B) contain DNA  C) are small  D) cause disease",
+    "answer": "A",
+    "solution": "They lack metabolic machinery and need a host cell."
+  },
+  {
+    "question": "The protein coat of a virus is called a",
+    "options": "A) capsid  B) envelope  C) cell wall  D) membrane",
+    "answer": "A",
+    "solution": "The capsid protects the viral nucleic acid."
+  },
+  {
+    "question": "The enzyme that HIV uses to make DNA from RNA is",
+    "options": "A) DNA polymerase  B) RNA polymerase  C) reverse transcriptase  D) ligase",
+    "answer": "C",
+    "solution": "HIV is a retrovirus; reverse transcriptase synthesises DNA from viral RNA."
+  },
+  {
+    "question": "The type of immunity that results from vaccination is",
+    "options": "A) natural active  B) artificial active  C) natural passive  D) artificial passive",
+    "answer": "B",
+    "solution": "Vaccines stimulate the body to produce its own antibodies."
+  },
+  {
+    "question": "Antibodies are produced by",
+    "options": "A) T-lymphocytes  B) B-lymphocytes (plasma cells)  C) macrophages  D) neutrophils",
+    "answer": "B",
+    "solution": "Plasma cells (differentiated B cells) secrete antibodies."
+  },
+  {
+    "question": "The first line of defence against pathogens includes",
+    "options": "A) skin and mucous membranes  B) antibodies  C) T-cells  D) memory cells",
+    "answer": "A",
+    "solution": "Physical and chemical barriers prevent entry."
+  },
+  {
+    "question": "An organism that carries a pathogen without showing disease is a",
+    "options": "A) vector  B) carrier  C) host  D) reservoir",
+    "answer": "B",
+    "solution": "Carriers can transmit infection while asymptomatic."
+  },
+  {
+    "question": "The mosquito that transmits dengue virus is",
+    "options": "A) Anopheles  B) Aedes  C) Culex  D) Tsetse",
+    "answer": "B",
+    "solution": "*Aedes aegypti* is the vector for dengue."
+  },
+  {
+    "question": "The vector for the malaria parasite is the",
+    "options": "A) tsetse fly  B) female Anopheles mosquito  C) housefly  D) blackfly",
+    "answer": "B",
+    "solution": "*Anopheles* mosquito transmits *Plasmodium*."
+  },
+  {
+    "question": "Which of the following is a communicable disease?",
+    "options": "A) cancer  B) diabetes  C) tuberculosis  D) scurvy",
+    "answer": "C",
+    "solution": "TB is caused by a bacterium and spreads via air."
+  },
+  {
+    "question": "The organelle involved in cell division in animal cells is the",
+    "options": "A) centriole  B) ribosome  C) lysosome  D) peroxisome",
+    "answer": "A",
+    "solution": "Centrioles organize spindle fibres."
+  },
+  {
+    "question": "The cell theory states that",
+    "options": "A) all cells have a nucleus  B) all living things are made of cells, cells come from pre-existing cells  C) all cells are identical  D) only plants have cells",
+    "answer": "B",
+    "solution": "Schleiden and Schwann's cell theory."
+  },
+  {
+    "question": "The process by which a cell engulfs large particles is",
+    "options": "A) exocytosis  B) phagocytosis  C) pinocytosis  D) osmosis",
+    "answer": "B",
+    "solution": "Phagocytosis (\"cell eating\") involves pseudopodia."
+  },
+  {
+    "question": "The organelle that contains digestive enzymes is the",
+    "options": "A) ribosome  B) lysosome  C) mitochondrion  D) Golgi body",
+    "answer": "B",
+    "solution": "Lysosomes break down waste and cellular debris."
+  },
+  {
+    "question": "The network of membranes involved in protein synthesis and transport is the",
+    "options": "A) endoplasmic reticulum  B) Golgi apparatus  C) mitochondrion  D) chloroplast",
+    "answer": "A",
+    "solution": "Rough ER has ribosomes for protein synthesis."
+  },
+  {
+    "question": "The genetic material of prokaryotes is found in the",
+    "options": "A) nucleus  B) nucleoid region  C) plasmid  D) mitochondria",
+    "answer": "B",
+    "solution": "No true nucleus; single circular chromosome in nucleoid."
+  },
+  {
+    "question": "The process by which plants lose water vapour through stomata is",
+    "options": "A) guttation  B) transpiration  C) evaporation  D) condensation",
+    "answer": "B",
+    "solution": "Transpiration creates a pull for water movement."
+  },
+  {
+    "question": "The tissue that gives rise to secondary xylem and phloem is the",
+    "options": "A) cambium  B) epidermis  C) cortex  D) pith",
+    "answer": "A",
+    "solution": "Vascular cambium is a lateral meristem."
+  },
+  {
+    "question": "The region of cell division in a root is the",
+    "options": "A) root cap  B) apical meristem  C) zone of elongation  D) root hairs",
+    "answer": "B",
+    "solution": "Apical meristem contains actively dividing cells."
+  },
+  {
+    "question": "The root structure that absorbs water and minerals is the",
+    "options": "A) root cap  B) root hair  C) cortex  D) xylem",
+    "answer": "B",
+    "solution": "Root hairs increase surface area for absorption."
+  },
+  {
+    "question": "The movement of sucrose from source to sink is called",
+    "options": "A) transpiration  B) translocation  C) osmosis  D) ascent of sap",
+    "answer": "B",
+    "solution": "Phloem translocates organic solutes."
+  },
+  {
+    "question": "The cohesion-tension theory explains",
+    "options": "A) sugar transport  B) water transport in xylem  C) mineral uptake  D) gas exchange",
+    "answer": "B",
+    "solution": "Water molecules cohere and are pulled up under tension."
+  },
+  {
+    "question": "The Casparian strip is found in the",
+    "options": "A) epidermis  B) endodermis  C) cortex  D) pericycle",
+    "answer": "B",
+    "solution": "It blocks apoplastic movement into the stele."
+  },
+  {
+    "question": "The pigment that absorbs light energy in photosynthesis is",
+    "options": "A) chlorophyll  B) haemoglobin  C) melanin  D) cytochrome",
+    "answer": "A",
+    "solution": "Chlorophyll a and b absorb mainly blue and red light."
+  },
+  {
+    "question": "The light-independent reaction uses CO₂ and produces",
+    "options": "A) glucose  B) ATP  C) NADPH  D) oxygen",
+    "answer": "A",
+    "solution": "Calvin cycle fixes CO₂ into carbohydrate."
+  },
+  {
+    "question": "The factor that limits photosynthesis in a closed greenhouse under bright light is often",
+    "options": "A) oxygen concentration  B) carbon dioxide concentration  C) temperature  D) nitrogen",
+    "answer": "B",
+    "solution": "When light and temperature are not limiting, CO₂ often limits."
+  },
+  {
+    "question": "The type of nutrition in fungi is",
+    "options": "A) autotrophic  B) holozoic  C) saprophytic (or parasitic)  D) photosynthetic",
+    "answer": "C",
+    "solution": "Fungi are heterotrophic; many are saprophytes."
+  },
+  {
+    "question": "The mode of nutrition in *Euglena* is",
+    "options": "A) autotrophic  B) heterotrophic  C) mixotrophic  D) parasitic",
+    "answer": "C",
+    "solution": "*Euglena* has chloroplasts and can also absorb nutrients."
+  },
+  {
+    "question": "The kingdom that includes organisms with prokaryotic cell structure is",
+    "options": "A) Protista  B) Monera  C) Fungi  D) Plantae",
+    "answer": "B",
+    "solution": "Monera (bacteria) lack true nucleus."
+  },
+  {
+    "question": "The binomial nomenclature system uses",
+    "options": "A) family and genus  B) genus and species  C) species and class  D) order and family",
+    "answer": "B",
+    "solution": "Scientific names consist of genus and species."
+  },
+  {
+    "question": "The term for the variety of life in a habitat is",
+    "options": "A) population  B) community  C) biodiversity  D) ecosystem",
+    "answer": "C",
+    "solution": "Biodiversity encompasses species richness and genetic variation."
+  },
+  {
+    "question": "The ecological niche of an organism refers to its",
+    "options": "A) habitat only  B) role in the ecosystem  C) physical appearance  D) trophic level only",
+    "answer": "B",
+    "solution": "Niche includes all interactions and resource use."
+  },
+  {
+    "question": "The relationship where one organism kills and eats another is",
+    "options": "A) parasitism  B) predation  C) mutualism  D) competition",
+    "answer": "B",
+    "solution": "Predator-prey dynamic."
+  },
+  {
+    "question": "A climax community is",
+    "options": "A) the first community in succession  B) a stable, mature community  C) a temporary community  D) an artificial community",
+    "answer": "B",
+    "solution": "Succession ends in a relatively stable climax community."
+  },
+  {
+    "question": "The type of succession that begins on bare rock is",
+    "options": "A) primary succession  B) secondary succession  C) tertiary succession  D) deflected succession",
+    "answer": "A",
+    "solution": "Primary succession occurs on lifeless areas with no soil."
+  },
+  {
+    "question": "The process that releases nitrogen from dead organisms is",
+    "options": "A) nitrogen fixation  B) nitrification  C) denitrification  D) ammonification",
+    "answer": "D",
+    "solution": "Decomposers convert organic nitrogen to ammonia."
+  },
+  {
+    "question": "The conversion of ammonia to nitrites and nitrates is",
+    "options": "A) nitrogen fixation  B) nitrification  C) denitrification  D) assimilation",
+    "answer": "B",
+    "solution": "Nitrifying bacteria perform this process."
+  },
+  {
+    "question": "The type of population growth with an S-shaped curve is",
+    "options": "A) exponential  B) logistic  C) J-curve  D) linear",
+    "answer": "B",
+    "solution": "Logistic growth includes a carrying capacity."
+  },
+  {
+    "question": "The term for the maximum population size an environment can sustain is",
+    "options": "A) growth rate  B) carrying capacity  C) density  D) biomass",
+    "answer": "B",
+    "solution": "Carrying capacity (K) is determined by resources."
+  },
+  {
+    "question": "The ecological factor that includes predation and competition is",
+    "options": "A) abiotic  B) biotic  C) climatic  D) edaphic",
+    "answer": "B",
+    "solution": "Biotic factors are living influences."
+  },
+  {
+    "question": "The main source of energy for deep-sea hydrothermal vent communities is",
+    "options": "A) sunlight  B) chemosynthesis  C) detritus  D) photosynthesis",
+    "answer": "B",
+    "solution": "Chemoautotrophic bacteria oxidise inorganic compounds."
+  },
+  {
+    "question": "The ozone layer protects against",
+    "options": "A) infrared radiation  B) UV radiation  C) visible light  D) X-rays",
+    "answer": "B",
+    "solution": "Ozone absorbs harmful UV-B and UV-C."
+  },
+  {
+    "question": "The greenhouse effect is caused by an increase in",
+    "options": "A) oxygen  B) carbon dioxide and methane  C) nitrogen  D) ozone",
+    "answer": "B",
+    "solution": "Greenhouse gases trap heat in the atmosphere."
+  },
+  {
+    "question": "Deforestation leads to",
+    "options": "A) increased rainfall  B) soil erosion and loss of biodiversity  C) cooler climate  D) increased oxygen",
+    "answer": "B",
+    "solution": "Removal of trees exposes soil and destroys habitats."
+  },
+  {
+    "question": "The term for non-native species that disrupt ecosystems is",
+    "options": "A) endemic  B) indigenous  C) invasive species  D) keystone species",
+    "answer": "C",
+    "solution": "Invasive species outcompete native species."
+  },
+  {
+    "question": "A species that has a disproportionately large effect on its environment is a",
+    "options": "A) dominant species  B) keystone species  C) indicator species  D) endangered species",
+    "answer": "B",
+    "solution": "Keystone species maintain structure of a community."
+  },
+  {
+    "question": "The conservation strategy that involves protecting species in their natural habitat is",
+    "options": "A) ex-situ  B) in-situ  C) captive breeding  D) seed bank",
+    "answer": "B",
+    "solution": "In-situ conservation, e.g., national parks."
+  },
+  {
+    "question": "The IUCN Red List categorises species based on",
+    "options": "A) size  B) conservation status  C) economic value  D) colour",
+    "answer": "B",
+    "solution": "It identifies threatened and endangered species."
+  },
+  {
+    "question": "The part of a flower that becomes the fruit is the",
+    "options": "A) ovule  B) ovary  C) receptacle  D) petal",
+    "answer": "B",
+    "solution": "After fertilisation, the ovary wall develops into the fruit."
+  },
+  {
+    "question": "A fruit that splits open when ripe is called",
+    "options": "A) indehiscent  B) dehiscent  C) dry fruit  D) fleshy fruit",
+    "answer": "B",
+    "solution": "Dehiscent fruits release seeds, e.g., pod."
+  },
+  {
+    "question": "The dispersal of seeds by wind is facilitated by",
+    "options": "A) hooks  B) wings or hairs  C) succulent pulp  D) spines",
+    "answer": "B",
+    "solution": "Structures like pappus in dandelion aid wind dispersal."
+  },
+  {
+    "question": "The process of embryo development from a seed is",
+    "options": "A) pollination  B) fertilisation  C) germination  D) reproduction",
+    "answer": "C",
+    "solution": "Germination is the resumption of growth after dormancy."
+  },
+  {
+    "question": "The enzyme that digests cellulose in herbivores is produced by",
+    "options": "A) the animal itself  B) symbiotic microorganisms  C) pancreas  D) liver",
+    "answer": "B",
+    "solution": "Herbivores rely on gut microbiota for cellulase."
+  },
+  {
+    "question": "The chamber of the ruminant stomach where fermentation occurs is the",
+    "options": "A) omasum  B) abomasum  C) rumen  D) reticulum",
+    "answer": "C",
+    "solution": "The rumen is the primary fermentation vat."
+  },
+  {
+    "question": "The gas released during photosynthesis is",
+    "options": "A) carbon dioxide  B) nitrogen  C) oxygen  D) methane",
+    "answer": "C",
+    "solution": "Water splitting in light reactions releases O₂."
+  },
+  {
+    "question": "The process of respiration that produces the most ATP is",
+    "options": "A) glycolysis  B) Krebs cycle  C) electron transport chain  D) fermentation",
+    "answer": "C",
+    "solution": "ETC generates ~34 ATP via oxidative phosphorylation."
+  },
+  {
+    "question": "The molecule that enters the Krebs cycle is",
+    "options": "A) glucose  B) pyruvate  C) acetyl-CoA  D) citrate",
+    "answer": "C",
+    "solution": "Pyruvate is oxidised to acetyl-CoA, which enters the cycle."
+  },
+  {
+    "question": "The organ that stores glycogen in humans is the",
+    "options": "A) stomach  B) liver  C) kidney  D) heart",
+    "answer": "B",
+    "solution": "The liver and muscles store glycogen."
+  },
+  {
+    "question": "The hormone that stimulates gluconeogenesis is",
+    "options": "A) insulin  B) glucagon  C) thyroxine  D) oestrogen",
+    "answer": "B",
+    "solution": "Glucagon promotes glucose production."
+  },
+  {
+    "question": "The process by which excess amino acids are broken down is",
+    "options": "A) deamination  B) transamination  C) glycolysis  D) lipolysis",
+    "answer": "A",
+    "solution": "The liver removes the amino group, forming urea."
+  },
+  {
+    "question": "The main function of the large intestine is",
+    "options": "A) digestion of proteins  B) absorption of water and vitamins  C) secretion of enzymes  D) absorption of amino acids",
+    "answer": "B",
+    "solution": "The colon absorbs water, electrolytes, and vitamin K."
+  },
+  {
+    "question": "The teeth used for grinding food are",
+    "options": "A) incisors  B) canines  C) premolars and molars  D) wisdom teeth",
+    "answer": "C",
+    "solution": "Premolars and molars have broad surfaces for grinding."
+  },
+  {
+    "question": "The dental formula of an adult human is",
+    "options": "A) 2.1.2.3  B) 2.1.2.3 / 2.1.2.3  C) 2.1.0.2  D) 3.1.4.2",
+    "answer": "B",
+    "solution": "I 2/2, C 1/1, PM 2/2, M 3/3 = 32 teeth."
+  },
+  {
+    "question": "The enzyme in saliva that breaks down starch is",
+    "options": "A) pepsin  B) amylase  C) lipase  D) trypsin",
+    "answer": "B",
+    "solution": "Salivary amylase (ptyalin) initiates starch digestion."
+  },
+  {
+    "question": "The structure that prevents food from entering the nasal cavity during swallowing is the",
+    "options": "A) epiglottis  B) uvula  C) tongue  D) pharynx",
+    "answer": "B",
+    "solution": "The soft palate and uvula close off nasopharynx."
+  },
+  {
+    "question": "The movement of food through the oesophagus is by",
+    "options": "A) gravity  B) peristalsis  C) ciliary action  D) suction",
+    "answer": "B",
+    "solution": "Peristaltic waves push the bolus downward."
+  },
+  {
+    "question": "The sphincter that controls passage of food from stomach to duodenum is the",
+    "options": "A) cardiac  B) pyloric  C) ileocaecal  D) anal",
+    "answer": "B",
+    "solution": "Pyloric sphincter regulates chyme entry into small intestine."
+  },
+  {
+    "question": "The finger-like projections in the small intestine that increase surface area are",
+    "options": "A) villi  B) rugae  C) cilia  D) flagella",
+    "answer": "A",
+    "solution": "Villi and microvilli maximise absorption."
+  },
+  {
+    "question": "The lymphatic vessel in each villus that absorbs fats is the",
+    "options": "A) capillary  B) lacteal  C) artery  D) vein",
+    "answer": "B",
+    "solution": "Lacteals transport absorbed fatty acids as chylomicrons."
+  },
+  {
+    "question": "The hormone that stimulates the release of bile from the gall bladder is",
+    "options": "A) secretin  B) cholecystokinin (CCK)  C) gastrin  D) insulin",
+    "answer": "B",
+    "solution": "CCK is released in response to fats in the duodenum."
+  },
+  {
+    "question": "The enzyme that breaks down lactose is",
+    "options": "A) maltase  B) sucrase  C) lactase  D) amylase",
+    "answer": "C",
+    "solution": "Lactase hydrolyses lactose into glucose and galactose."
+  },
+  {
+    "question": "The pH of the stomach is highly acidic due to",
+    "options": "A) sodium bicarbonate  B) hydrochloric acid  C) bile  D) mucus",
+    "answer": "B",
+    "solution": "HCl activates pepsin and kills microbes."
+  },
+  {
+    "question": "The part of the brain that is the seat of intelligence and memory is the",
+    "options": "A) cerebellum  B) medulla  C) cerebrum  D) pons",
+    "answer": "C",
+    "solution": "The cerebral cortex controls higher functions."
+  },
+  {
+    "question": "The cranial nerve that carries impulses for smell is the",
+    "options": "A) optic  B) olfactory  C) trigeminal  D) vagus",
+    "answer": "B",
+    "solution": "Olfactory nerve (CN I) is for olfaction."
+  },
+  {
+    "question": "The gland that produces tears is the",
+    "options": "A) salivary  B) lacrimal  C) sweat  D) sebaceous",
+    "answer": "B",
+    "solution": "Lacrimal glands secrete tears to clean and moisten eyes."
+  },
+  {
+    "question": "The part of the ear that contains the organ of Corti is the",
+    "options": "A) cochlea  B) vestibule  C) semicircular canals  D) tympanic cavity",
+    "answer": "A",
+    "solution": "The cochlea houses the receptor cells for hearing."
+  },
+  {
+    "question": "The bone that transmits vibrations to the oval window is the",
+    "options": "A) malleus  B) incus  C) stapes  D) all three ossicles",
+    "answer": "C",
+    "solution": "Stapes footplate fits into oval window."
+  },
+  {
+    "question": "The receptor cells for taste are located in",
+    "options": "A) taste buds  B) olfactory epithelium  C) cochlea  D) retina",
+    "answer": "A",
+    "solution": "Taste buds on tongue contain gustatory cells."
+  },
+  {
+    "question": "The hormone that stimulates the development of secondary sexual characteristics in males is",
+    "options": "A) oestrogen  B) progesterone  C) testosterone  D) prolactin",
+    "answer": "C",
+    "solution": "Testosterone from testes induces male traits."
+  },
+  {
+    "question": "The phase of the menstrual cycle when the endometrium is shed is",
+    "options": "A) proliferative  B) secretory  C) menstrual  D) ovulatory",
+    "answer": "C",
+    "solution": "Menstruation occurs if no implantation."
+  },
+  {
+    "question": "The contraceptive device inserted into the uterus is the",
+    "options": "A) diaphragm  B) condom  C) IUD (intrauterine device)  D) pill",
+    "answer": "C",
+    "solution": "IUD prevents implantation."
+  },
+  {
+    "question": "The sexually transmitted disease caused by *Treponema pallidum* is",
+    "options": "A) gonorrhoea  B) syphilis  C) chlamydia  D) herpes",
+    "answer": "B",
+    "solution": "Syphilis is a bacterial STI."
+  },
+  {
+    "question": "The virus that causes AIDS is",
+    "options": "A) HPV  B) HIV  C) HBV  D) HSV",
+    "answer": "B",
+    "solution": "Human Immunodeficiency Virus."
+  },
+  {
+    "question": "The part of the sperm that contains enzymes to penetrate the egg is the",
+    "options": "A) head  B) midpiece  C) acrosome  D) flagellum",
+    "answer": "C",
+    "solution": "Acrosome contains hydrolytic enzymes."
+  },
+  {
+    "question": "The type of cleavage in humans is",
+    "options": "A) holoblastic  B) meroblastic  C) discoidal  D) superficial",
+    "answer": "A",
+    "solution": "Human eggs have little yolk, undergo holoblastic cleavage."
+  },
+  {
+    "question": "The stage of development that implants into the uterus is the",
+    "options": "A) zygote  B) morula  C) blastocyst  D) gastrula",
+    "answer": "C",
+    "solution": "Blastocyst hatches and implants about day 6-7."
+  },
+  {
+    "question": "The extra-embryonic membrane that forms the fetal part of the placenta is the",
+    "options": "A) amnion  B) chorion  C) allantois  D) yolk sac",
+    "answer": "B",
+    "solution": "Chorionic villi interdigitate with maternal tissue."
+  },
+  {
+    "question": "The hormone that maintains the corpus luteum in early pregnancy is",
+    "options": "A) FSH  B) LH  C) hCG  D) oestrogen",
+    "answer": "C",
+    "solution": "hCG is produced by the embryo, prevents menstruation."
+  }
+]
+```
